@@ -11,7 +11,7 @@ Design notes:
 from datetime import datetime
 from typing import TYPE_CHECKING
 
-from sqlalchemy import DateTime, Float, ForeignKey, Integer, String, Text, func
+from sqlalchemy import DateTime, Float, ForeignKey, Integer, String, Text, func, JSON
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from app.database import Base
@@ -79,6 +79,7 @@ class Ingredient(Base):
     # External reference scores — NULL = not listed in that registry
     ewg_score: Mapped[int | None] = mapped_column(Integer, nullable=True)
     eu_annex_status: Mapped[str | None] = mapped_column(String(20), nullable=True)
+    extra_data: Mapped[dict | None] = mapped_column(JSON, nullable=True, server_default="{}")
 
     created_at: Mapped[datetime] = mapped_column(
         DateTime, nullable=False, default=func.now()
@@ -117,6 +118,9 @@ class IngredientAlias(Base):
     ingredient: Mapped["Ingredient"] = relationship(
         "Ingredient", back_populates="aliases"
     )
+
+    # Store any additional CSV fields that do not map to a dedicated column
+    extra_data: Mapped[dict | None] = mapped_column(JSON, nullable=True, server_default="{}")
 
     def __repr__(self) -> str:
         return f"<IngredientAlias {self.alias!r} ({self.alias_type})>"
