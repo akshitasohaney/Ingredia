@@ -1,9 +1,0 @@
-ingredient_id,inci_name,cosing_matched,cosing_ref_no,cas_number,ec_number,functions,chemical_description,cosing_restriction,cosing_update_date,annex_ii,annex_iii,annex_iv,annex_v,annex_vi,is_common_allergen,allergen_source,comedogenic_rating,is_fungal_acne_trigger,rating_source,normalized_name,possible_placeholder,needs_name_review,functions_missing,description_missing,comedogenic_rating_missing,fungal_acne_flag_missing,products_using_ingredient
-51,( /-),0,,,,,,,,,,,,,0,,,,,( /-),True,True,True,True,True,True,1
-203,(F.I.L B38252/3),0,,,,,,,,,,,,,0,,,,,(f.i.l b38252/3),True,True,True,True,True,True,1
-204,(F.I.L B48924/1),0,,,,,,,,,,,,,0,,,,,(f.i.l b48924/1),True,True,True,True,True,True,1
-347,"(F.I.L,Y70037597/1)",0,,,,,,,,,,,,,0,,,,,"(f.i.l,y70037597/1)",True,True,True,True,True,True,1
-407,(F.I.L.Z70042467/1),0,,,,,,,,,,,,,0,,,,,(f.i.l.z70042467/1),True,True,True,True,True,True,1
-420,(F01),0,,,,,,,,,,,,,0,,,,,(f01),True,True,True,True,True,True,1
-435,(FIL B44107/1),0,,,,,,,,,,,,,0,,,,,(fil b44107/1),True,True,True,True,True,True,1
-550,(SD ALCOHOL 39-C),0,,,,,,,,,,,,,0,,,,,(sd alcohol 39-c),True,True,True,True,True,True,1
