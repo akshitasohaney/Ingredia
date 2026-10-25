@@ -13,7 +13,7 @@ Design notes:
 from datetime import datetime
 from typing import TYPE_CHECKING
 
-from sqlalchemy import Boolean, DateTime, Float, ForeignKey, Integer, String, Text, func
+from sqlalchemy import Boolean, DateTime, Float, ForeignKey, Integer, String, Text, func, JSON
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from app.database import Base
@@ -70,8 +70,12 @@ class Product(Base):
     )
     scans: Mapped[list["Scan"]] = relationship("Scan", back_populates="product")
 
+    # Store any additional CSV fields that do not map to a dedicated column
+    extra_data: Mapped[dict | None] = mapped_column(JSON, nullable=True, server_default="{}")
+
     def __repr__(self) -> str:
         return f"<Product id={self.id} name={self.name!r}>"
+
 
 
 class ProductIngredient(Base):
@@ -111,6 +115,9 @@ class ProductIngredient(Base):
     ingredient: Mapped["Ingredient | None"] = relationship(
         "Ingredient", back_populates="product_ingredients"
     )
+
+    # Store any additional CSV fields that do not map to a dedicated column
+    extra_data: Mapped[dict | None] = mapped_column(JSON, nullable=True, server_default="{}")
 
     def __repr__(self) -> str:
         return (
