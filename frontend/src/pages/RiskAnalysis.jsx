@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import Loader from '../components/Loader.jsx';
+import { getFormulaReview, getIngredientReview } from '../utils/ingredientAnalysis.js';
 import { getRiskAnalysis, getScanAnalysis } from '../api.js';
 import './RiskAnalysis.css';
 
@@ -37,6 +38,13 @@ function ingredientMatchesProfile(ing, skinType, concerns, sensitivities) {
 
 function IngredientCard({ ing, skinType, concerns, sensitivities }) {
   const [open, setOpen] = useState(false);
+  const review = getIngredientReview(ing, ingredientMatchesProfile(ing, skinType, concerns, sensitivities));
+  const scoreLabel = (
+    <span className={`review-score review-score--${review.band.tone}`} title="Informational review score; not a medical safety rating">
+      <strong>{review.score}</strong><span>/100</span> {review.band.label}
+    </span>
+  );
+
   const { suitableForProfile, cautionForProfile } = ingredientMatchesProfile(ing, skinType, concerns, sensitivities);
 
   let profileTag = null;
@@ -59,6 +67,7 @@ function IngredientCard({ ing, skinType, concerns, sensitivities }) {
           {ing.is_fragrance && <span className="pill pill--warn">Fragrance</span>}
           {ing.is_allergen && <span className="pill pill--warn">Allergen</span>}
           {profileTag}
+          {scoreLabel}
           <span className="ing-card__chevron">{open ? '▲' : '▼'}</span>
         </div>
       </button>
@@ -92,6 +101,16 @@ function IngredientCard({ ing, skinType, concerns, sensitivities }) {
               <p>{ing.concern_reason}</p>
             </div>
           )}
+
+          <div className="ingredient-review-detail">
+            <div>
+              <span className="ingredient-review-detail__label">Ingredient review score</span>
+              <strong className={`ingredient-review-detail__score ingredient-review-detail__score--${review.band.tone}`}>{review.score}/100</strong>
+            </div>
+            <ul>{review.signals.map((signal, index) => (
+              <li key={index} className={`review-signal review-signal--${signal.tone}`}>{signal.text}</li>
+            ))}</ul>
+          </div>
 
           {ing.evidence_summary && (
             <div className="ing-detail-row">
@@ -178,6 +197,11 @@ function RiskAnalysis({ isScanAnalysis = false }) {
     ? data.ingredients.filter(i => i.is_concern || ingredientMatchesProfile(i, skinType, concerns, sensitivities).cautionForProfile)
     : data.ingredients;
 
+  const formulaReview = getFormulaReview(
+    data.ingredients,
+    (ingredient) => ingredientMatchesProfile(ingredient, skinType, concerns, sensitivities)
+  );
+
   return (
     <main className="ra-page">
       {/* Breadcrumb */}
@@ -205,6 +229,12 @@ function RiskAnalysis({ isScanAnalysis = false }) {
           <div className="ra-stat">
             <div className="ra-stat__num">{concernIngs.length}</div>
             <div className="ra-stat__label">Flagged</div>
+          {formulaReview && (
+            <div className="ra-stat ra-stat--score">
+              <div className="ra-stat__num">{formulaReview.score}</div>
+              <div className="ra-stat__label">Formula review</div>
+            </div>
+          )}
           </div>
           {data.unidentified_count > 0 && (
             <div className="ra-stat">
@@ -318,6 +348,13 @@ function RiskAnalysis({ isScanAnalysis = false }) {
                 ))}</ul>
               </div>
             )}
+            {formulaReview && (
+              <div className="formula-review">
+                <div className="formula-review__score">{formulaReview.score}<span>/100</span></div>
+                <div><h3>{formulaReview.band}</h3><p>Average of the ingredient review scores shown here. It reflects available evidence and flags, not concentration or clinical safety.</p></div>
+              </div>
+            )}
+
 
             {data.unidentified_count > 0 && (
               <div className="summary-block summary-block--note">
