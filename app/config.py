@@ -17,7 +17,7 @@ from pydantic_settings import BaseSettings
 # ---------------------------------------------------------------------------
 ROOT_DIR: Final[Path] = Path(__file__).resolve().parents[2]
 MATLAB_SCRIPTS_DIR: Final[Path] = Path(
-    os.getenv("MATLAB_SCRIPTS_DIR", str(ROOT_DIR / "matlab"))
+    os.getenv("MATLAB_SCRIPTS_DIR", str(Path(__file__).resolve().parents[1] / "matlab"))
 ).resolve()
 # Default to a local SQLite DB; can be overridden via the environment.
 DATABASE_URL: Final[str] = os.getenv(
