@@ -148,3 +148,14 @@ class ScanTextSubmit(BaseModel):
 class ScanIngredientPatch(BaseModel):
     """Used to accept/reject a single OCR token match."""
     user_accepted: bool
+
+
+class MatlabIngredientScoreRequest(BaseModel):
+    """Numeric component scores sent to the fixed MATLAB function."""
+    values: list[float] = Field(..., min_length=1, max_length=100)
+
+
+class MatlabIngredientScoreResponse(BaseModel):
+    mean_score: float
+    normalized_score: float
+    risk_band: str

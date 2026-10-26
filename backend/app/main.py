@@ -14,7 +14,8 @@ from app.models.ingredient import Ingredient
 from app.models.product import Product, ProductIngredient
 
 # Import routers
-from app.routers import scans, products, health, ingredients  # noqa
+from app.routers import scans, products, health, ingredients, matlab  # noqa
+from app.services.matlab_service import matlab_service
 
 def on_startup() -> None:
     """Create tables if they do not exist (dev convenience)."""
@@ -121,3 +122,4 @@ app.include_router(health.router,       prefix="/api/v1")
 app.include_router(products.router,     prefix="/api/v1")
 app.include_router(ingredients.router,  prefix="/api/v1")
 app.include_router(scans.router,        prefix="/api/v1")
+app.include_router(matlab.router,       prefix="/api/v1")
