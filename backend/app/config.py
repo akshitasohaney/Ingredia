@@ -15,7 +15,9 @@ from pydantic_settings import BaseSettings
 # ---------------------------------------------------------------------------
 # Repository root and database URL
 # ---------------------------------------------------------------------------
-ROOT_DIR: Final[Path] = Path(__file__).resolve().parents[2]
+# ``config.py`` is in ``<repository>/app``.  parents[1] is the repository
+# root; parents[2] resolves to the drive root and breaks the default SQLite URL.
+ROOT_DIR: Final[Path] = Path(__file__).resolve().parents[1]
 MATLAB_SCRIPTS_DIR: Final[Path] = Path(
     os.getenv("MATLAB_SCRIPTS_DIR", str(Path(__file__).resolve().parents[1] / "matlab"))
 ).resolve()

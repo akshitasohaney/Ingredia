@@ -1,0 +1,209 @@
+/* ProductDetail.css */
+.pd-page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: var(--space-xl) var(--space-md) var(--space-xxl);
+}
+
+.pd-page--error {
+  text-align: center;
+  padding: var(--space-xxl);
+  color: #b44;
+}
+
+.pd-breadcrumb {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-bottom: var(--space-xl);
+}
+.pd-breadcrumb a { color: var(--text-muted); text-decoration: none; }
+.pd-breadcrumb a:hover { color: var(--accent); }
+
+/* Header */
+.pd-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-xl);
+  padding-bottom: var(--space-xl);
+  border-bottom: 1px solid var(--border);
+  margin-bottom: var(--space-xl);
+}
+
+.pd-header__type {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+.pd-header__name {
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 3vw, 2.4rem);
+  font-weight: 600;
+  margin: 0 0 6px;
+  color: var(--text-primary);
+}
+
+.pd-header__brand {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin: 0 0 var(--space-sm);
+}
+
+.pd-header__use {
+  font-size: 0.92rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin: 0 0 var(--space-xs);
+}
+
+.pd-header__notes {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin: 0;
+  font-style: italic;
+}
+
+.pd-header__actions {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-sm);
+  padding: var(--space-lg);
+  border: 1px solid var(--border);
+  text-align: center;
+  min-width: 220px;
+}
+
+.pd-analyze-btn {
+  width: 100%;
+  padding: var(--space-md) var(--space-lg);
+  font-size: 1rem;
+}
+
+.pd-analyze-hint {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+/* Ingredients section */
+.pd-section-title {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0 0 var(--space-sm);
+}
+
+.pd-ing-note {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin: 0 0 var(--space-lg);
+  line-height: 1.6;
+  padding: var(--space-sm) var(--space-md);
+  background: #f3f0ea;
+  border-left: 3px solid var(--border);
+}
+
+.pd-empty {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  padding: var(--space-xl) 0;
+}
+
+.pd-ing-list {
+  border: 1px solid var(--border);
+}
+
+.pd-ing-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--space-md) var(--space-lg);
+  border-bottom: 1px solid var(--border);
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.15s;
+  gap: var(--space-md);
+}
+.pd-ing-row:last-child { border-bottom: none; }
+.pd-ing-row:hover { background: rgba(43,61,44,0.03); }
+.pd-ing-row--unmatched { opacity: 0.65; cursor: default; }
+
+.pd-ing-row__left {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.pd-ing-row__pos {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  min-width: 24px;
+  text-align: right;
+}
+
+.pd-ing-row__name {
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  display: block;
+}
+
+.pd-ing-row__fn {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.pd-ing-row__right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.pd-ing-row__arrow {
+  font-size: 0.8rem;
+  color: var(--accent);
+}
+
+/* Pills (shared with RiskAnalysis) */
+.pill {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  padding: 2px 8px;
+  border-radius: 2px;
+  white-space: nowrap;
+}
+.pill--warn   { background: #fef3e2; color: #8a5c00; }
+.pill--unknown { background: #f0ede8; color: var(--text-muted); }
+
+/* Bottom CTA */
+.pd-bottom-cta {
+  margin-top: var(--space-xl);
+  padding-top: var(--space-xl);
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+
+@media (max-width: 640px) {
+  .pd-header {
+    flex-direction: column;
+  }
+  .pd-header__actions {
+    width: 100%;
+    min-width: unset;
+  }
+}

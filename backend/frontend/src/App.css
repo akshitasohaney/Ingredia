@@ -1,0 +1,18 @@
+/* App.css */
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Grows to fill space between header and footer */
+.app-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Every page's <main> should fill the content area */
+.app-content > * {
+  flex: 1;
+}

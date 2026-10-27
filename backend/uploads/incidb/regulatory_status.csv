@@ -1,0 +1,731 @@
+ingredient_id|inci_name|cas|jurisdiction|list_ref|status|instrument|product_type|max_concentration|condition_text|effective_date|match_method|source_url|retrieved_at|source_update_date
+842|1-NAPHTHOL|90-15-3|EU|Annex III/16|RESTRICTED|(EC) 2013/344|Hair dye substance in oxidative hair dye products||"After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 1 % calculated as free base | Hair colourants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp, — you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary ‘black henna’ tattoo in the past"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/05/2013
+842|1-NAPHTHOL|90-15-3|EU|Annex III/16|RESTRICTED|(EU) 2013/658|Hair dye substance in oxidative hair dye products||"After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 2,0% | To be printed on the label:
+Hair colorants can cause severe allergic reactions."||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|09/09/2013
+1489|2,4-DIAMINOPHENOXYETHANOL HCL|66422-95-5|EU|Annex III/242|RESTRICTED|(EC) 2013/1197|"(a) Hair dye substance in oxidative hair dye products
+(b) Products intended for colouring eyelashes"||"For (a) and (b): After mixing under oxidative conditions the maximum concentration applied to hair or eyelashes must not exceed 2,0 % (as hydrochloride)
+(b) For professional use only. | (a) To be printed on the label: The mixing ratio. “ Hair colorants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp, — you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary ‘black henna’ tattoo in the past.”
+(b) To be printed on the label: The mixing ratio.“For professional use only. This product can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase the risk of allergy. Eyelashes shall not be coloured if the consumer: — has a rash on the face or sensitive, irritated and damaged scalp, — has experienced any reaction after colouring hair or eyelashes, — has experienced a reaction to a temporary ‘black henna’ tattoo in the past. Rinse eyes immediately if product comes into contact with them.”"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/02/2014
+1516|2-AMINO-3-HYDROXYPYRIDINE|16867-03-1|EU|Annex III/211|RESTRICTED|(EU) 2017/237|"(a) Hair dye sub­stance in oxidat­ive hair dye products
+(b) Products in­tended for col­ouring eyelashes"||"(a) After mixing under ox­idative conditions the maximum concentra­tion applied to hair must not exceed 1,0 %
+(b) After mixing under ox­idative conditions the maximum concentra­tion applied to eye­lashes must not exceed 0,5 % 
+(b) Professional use | (a) To be printed on the la­bel: The mixing ratio. “Hair colourants can cause severe allergic reac­tions. Read and follow instruc­tions. This product is not in­tended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irri­tated and damaged scalp, — you have ever experi­enced any reaction after colouring your hair, —  you have experienced a reaction to a tempor­ary b‘lack  henna’ tattoo in the past.” 
+(b) As from 3 March 2018, to be printed on the la­bel: The mixing ratio. “This product can cause severe allergic reactions. Read and  follow  instruc­tions. This product is not in­tended for use on persons under the age of 16. Tem­porary ‘black henna’ tattoos may increase the risk of al­lergy. Eyelashes shall  not be co­loured if the consumer: — has a rash on the face or sensitive, irritated and damaged scalp, — has experienced any re­action after colouring hair or eyelashes,— has experienced a reac­tion to a temporary ‘black henna’ tattoo in the past. For professional use only. Rinse eyes  immediately if product comes into contact with them”"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|27/07/2020
+1519|2-AMINO-6-CHLORO-4-NITROPHENOL|6358-09-4|EU|Annex III/252|RESTRICTED|(EC) 2013/344|"(a) Hair dye substance in oxidative hair dye products
+(b) Hair dye substance in non- oxidative hair dye products"|(b) 2.0%|"(a) After mixing under oxidative conditions the maximum concentraion applied to hair must not exceed 2.0% | (a) To be printed on the label: The mixing ratio. ‘ Hair colourants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary “black henna” tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp, — you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary “black henna” tattoo in the past.
+
+(b) ‘ Hair colourants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary “black henna” tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp, — you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary “black henna” tattoo in the past.’"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|08/07/2015
+1532|2-BROMO-2-NITROPROPANE-1,3-DIOL|52-51-7|EU|Annex V/21|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.1%|Avoid formation of nitrosamines||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|02/08/2021
+1547|2-METHYL-5-HYDROXYETHYLAMINOPHENOL|55302-96-0|EU|Annex III/229|RESTRICTED|(EC) 2013/1197|"(a) Hair dye substance in oxidatie hair dye products.
+(b) Products intended for colouring eyelashes"||"For (a) and (b): After mixing under oxidative conditions the maximum concentration applied to hair or eyelashes must not exceed 1,5%
+- Do not use with nitrosating agents
+- Maximum nitrosamine content: 50 microgram/Kg
+- Keep in nitrite-free containers | (a) To be printed on the label: The mixing ratio. “ Hair colorants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp, — you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary ‘black henna’ tattoo in the past.”
+(b) To be printed on the label: The mixing ratio. “For professional use only. This product can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase the risk of allergy. Eyelashes shall not be coloured if the consumer: — has a rash on the face or sensitive, irritated and damaged scalp, — has experienced any reaction after colouring hair or eyelashes, — has experienced a reaction to a temporary ‘black henna’ tattoo in the past. Rinse eyes immediately if product comes into contact with them.” ’"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|12/02/2014
+1548|2-METHYLRESORCINOL|608-25-3|EU|Annex III/243|RESTRICTED|(EU) 2017/237|"(a) Hair dye sub­stance in oxidat­ive hair dye products
+(b) Hair dye sub­stance in non-oxidative hair dye products
+(c) Products in­tended for col­ouring eyelashes"|(b) 1.8 %|"(a) After mixing under ox­idative conditions the maximum concentra­tion applied to hair must not exceed 1,8 %
+(c) After mixing under ox­idative conditions the maximum concentra­tion applied to eye­lashes must not exceed 1,25 %
+(c) Professional use | (a) To be printed on the la­bel: The mixing ratio. “Hair colourants can cause severe allergic reac­tions. Read and follow instruc­tions. This product is not in­tended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irri­tated and damaged scalp, — you have ever experi­enced any reaction after colouring your hair, — you have experienced a  reaction to a tempor­ary ‘black henna’ tattoo in the past.” 
+(c) As from 3 March 2018, to be printed on the la­bel: The mixing ratio. “This product can cause severe allergic reactions. Read and follow instruc­tions. This  product is not in­tended for use on persons under the age of 16. Tem­porary ‘black henna’ tattoos may increase the risk of al­lergy. Eyelashes shall not be co­loured if the consumer: — has a rash on the face or sensitive, irritated and damaged scalp, — has experienced any re­action after colouring hair or eyelashes, — has experienced a reac­tion to a temporary ‘black henna’ tattoo in the past. For professional use only. Rinse eyes immediately if product comes into contact with them”"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|27/07/2020
+2888|ACETYL CEDRENE||EU|Annex III/327|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+2951|ACID BLUE 9|3844-45-9|EU|Annex III/190|RESTRICTED|(EC) 2013/344|Hair dye substance in non-oxidative hair dye products|0.5%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|12/08/2020
+2951|ACID BLUE 9|3844-45-9|EU|Annex IV/63|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as sset out in Commission Directive 95/45/EC (E 133)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+2961|ACID VIOLET 43|4430-18-6|EU|Annex III/291|RESTRICTED|(EU) 2015/1190|Hair dye substance in non-oxidative hair dye products|0,5 %|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|12/08/2020
+2961|ACID VIOLET 43|4430-18-6|EU|Annex IV/90|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||Not to be used in products applied on the mucous membranes|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+4293|ALPHA-ISOMETHYL IONONE|127-51-5|EU|Annex III/90|RESTRICTED|(EC) 2009/1223|||"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+4341|ALPHA-TERPINENE|99-86-5|EU|Annex III/131|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products. The peroxide value shall be less than 10 mmoles/L (This limit applies to the substance and not to the finished cosmetic product).||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|11/09/2023
+4484|ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY|134910-86-4|EU|Annex III/50|RESTRICTED|(EC) 2009/1223|Anti-perspirants|"20% (as anhydrous aluminium zirconium chloride hydroxide)
+5.4% (as zirconium)"|"1. The ratio of the number of aluminium atoms to that of zirconium atoms must be between 2 and 10
+2. The ratio of the number of (Al+Zr) atoms to that of chlorine atoms must be between 0.9 and 2.1
+3. Not to be used in aerosols dispensers (sprays) | Do not apply to irritated or damaged skin"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+4590|AMINOMETHYL PROPANOL|124-68-5|EU|Annex III/61|RESTRICTED|(EC) 2009/1223||Maximum secondary amine content: 0.5%|"- Do not use with nitrosating systems
+- Minimum purity: 99% 
+- Maximum secondary amine content: 0.5% (applies to raw materials) 
+- Maximum nitrosamine content: 50 microgram/kg 
+- Keep in nitrite-free containers"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|18/06/2019
+4662|AMMONIUM HYDROXIDE|1336-21-6|EU|Annex III/4|RESTRICTED|(EC) 2009/1223||6% (as NH3)|Above 2%: Contains ammonia||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+4761|AMYL CINNAMAL|122-40-7|EU|Annex III/67|RESTRICTED|(EC) 2009/1223|||"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+4774|AMYL SALICYLATE|2050-08-0|EU|Annex III/328|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+4913|ANETHOLE|104-46-1|EU|Annex III/329|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+6459|BASIC RED 51|77061-58-6|EU|Annex III/269|RESTRICTED|(EC) 2013/1197|"(a) Hair dye substance in oxidative hair dye products
+(b) Hair dye substance in non-oxidatie hair dye products"|(b) 1,0 %|"(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 0,5 % | (a) To be printed on the label: The mixing ratio. “ Hair colorants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16.
+Temporary ‘black henna’ tattoos may increase your risk of allergy. Do not colour your hair if: 
+— you have a rash on your face or sensitive, irritated and damaged scalp, 
+— you have ever experienced any reaction after colouring your hair, 
+— you have experienced a reaction to a temporary ‘black henna’ tattoo in the past.”"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|16/06/2014
+6581|BEHENTRIMONIUM CHLORIDE|17301-53-0|EU|Annex V/44|ALLOWED_WITH_CONDITIONS|(EU) 2014/866||0.1%|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|15/01/2015
+6683|BENTONITE|1302-78-9|EU|Annex IV/119|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+6696|BENZALDEHYDE|100-52-7|EU|Annex III/330|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/09/2023
+6737|BENZOIC ACID|65-85-0|EU|Annex V/1|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|"a) Rinse-off products, except oral care products
+b) Oral care products
+c) Leave-on products"|"a) 2.5% (acid)
+b) 1.7% (acid)
+c) 0.5% (acid)"|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|25/10/2010
+6764|BENZOPHENONE-3|131-57-7|EU|Annex VI/4|ALLOWED_WITH_CONDITIONS|(EU) 2022/1176|"a) Face products, hand products, and lip products, excluding propellant and pump spray products
+b) Body products, including propellant and pump spray products
+c) Other products"|"a) 6%
+b) 2,2%
+c) 0,5%
+
+Footnote 1: However, cosmetic products containing '2-Hydroxy-4-methoxy-benzophenone/Oxybenzone' and complying with the restrictions set out in Regulation (EC) No 1223/2009 as applicable on 27 July 2022 may be placed on the Union market until 28 January 2023 and be made available on the Union market until 28 July 2023."|"a) If used at 0,5 % to protect product formulation, the levels used as UV filter must not exceed 5,5 %.
+b) If used at 0,5 % to protect product formulation, the levels used as UV filter must not exceed 1,7 %. | For a) and b): Contains Benzophenone-3 (*) 
+
+Footnote (*): Not required if concentration is 0,5 % or less and when it is used only for product protection purposes."||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|29/07/2024
+6766|BENZOPHENONE-4|4065-45-6|EU|Annex VI/22|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||5%(as acid)|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|15/10/2010
+6830|BENZYL ALCOHOL|100-51-6|EU|Annex III/45|RESTRICTED|(EU) 2023/1545|"(a) Solvent
+(b) Fragrance/ aromatic compositions/ their raw materials"||"For purposes other than inhibiting the development of microorganisms in the product. This purpose has to be apparent from the presentation of the product. The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:
+— 0,001 % in leave-on products
+— 0,01 % in rinse-off products."||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+6830|BENZYL ALCOHOL|100-51-6|EU|Annex V/34|ALLOWED_WITH_CONDITIONS|(EC) 2013/344||1.0%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|26/07/2013
+6884|BENZYL BENZOATE|120-51-4|EU|Annex III/85|RESTRICTED|(EC) 2009/1223|||"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+6930|BENZYL SALICYLATE|118-58-1|EU|Annex III/75|RESTRICTED|(EU) 2026/909|"(a) Fragrance products (hydroalcoholic and non-hydroalcoholic, spray and non-spray)
+(b) Rinse-off skin and hair products (except shower gel/bath products)
+(c) Shower gel/bath products
+(d) Leave-on skin and hair products (non-spray/non-aerosol) (except body lotion)
+(e) Leave-on hair products (spray/aerosol)
+(f) Body lotion
+(g) Face make-up and make-up remover products
+(h) Oral products
+(i) Deodorant products (spray/aerosol)"|"(a) 4 %
+(b) 0,5 %
+(c) 1,3 %
+(d) 0,5 %
+(e) 0,5 %
+(f) 0,7 %
+(g) 0,2 %
+(h) 0,004 % 
+(i) 0,91 %"|"The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:
+— 0,001 % in leave-on products
+— 0,01 % in rinse-off products."||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|28/04/2026
+7055|BETA-CARYOPHYLLENE|87-44-5|EU|Annex III/332|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+7132|BHT|128-37-0|EU|Annex III/325|RESTRICTED|(EU) 2022/2195|"a) Mouthwash
+
+b) Toothpaste
+
+c) Other leave-on and rinse-off products"|"a) 0,001 %
+
+b) 0,1 %
+
+c) 0,8 %"|From 1 July 2023 cosmetic products containing that substance and not complying with the restrictions shall not be placed on the Union market. From 1 January 2024 cosmetic products containing that substance and not complying with the restrictions shall not be made available on the Union market.||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|11/11/2022
+7346|BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE|187393-00-6|EU|Annex VI/25|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||10%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|08/03/2011
+7962|BUTYL METHOXYDIBENZOYLMETHANE|70356-09-1|EU|Annex VI/8|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||5%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|15/10/2010
+8062|BUTYLPARABEN|94-26-8|EU|Annex V/12 a|ALLOWED_WITH_CONDITIONS|(EC) 2014/1004||"- 0,14% (as acid) for the sum of the individual concentrations
+
+- 0,8% (as acid) for mixtures of substances mentioned in entry 12 and 12a, here the sum of the individual concentrations of butyl and propylparaben and their salts does not exceed 0,14%"|"Not to be used in leave-on products designed for application on the nappy area of children under three years of age. | For leave-on products designed for children under three years of age: ""Do not use on the nappy area"""||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|02/08/2021
+8102|BUTYLPHENYL METHYLPROPIONAL|80-54-6|EU|Annex II/1666|PROHIBITED|(EU) 2021/1902|||2-(4-tert-butylbenzyl) propionaldehyde||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|01/12/2021
+8934|CALCIUM CARBONATE|471-34-1|EU|Annex IV/124|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E 170)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+9175|CAMPHOR|464-49-3 / 76-22-2|EU|Annex III/331|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/09/2023
+9204|CANANGA ODORATA FLOWER OIL|83863-30-3 / 8006-81-3 / 68606-83-7|EU|Annex III/347|RESTRICTED|(EU) 2023/1545|||The presence of the substance or substances shall be indicated as ‘Cananga Odorata Oil/Extract’ in the list of ingredients referred to in Article 19(1), point (g), when the concentration exceeds of the substance or substances: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+9583|CARAMEL||EU|Annex IV/146|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E150a-d)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+9781|CARVONE|6485-40-1 / 99-49-0 / 2244-16-8|EU|Annex III/333|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/09/2023
+10431|CETRIMONIUM BROMIDE|57-09-0|EU|Annex V/44|ALLOWED_WITH_CONDITIONS|(EU) 2014/866||0.1%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|15/01/2015
+10436|CETRIMONIUM CHLORIDE|112-02-7|EU|Annex V/44|ALLOWED_WITH_CONDITIONS|(EU) 2014/866||0.1%|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|15/01/2015
+10785|CHLORHEXIDINE DIGLUCONATE|18472-51-0|EU|Annex V/42|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.3% (as chlorhexidine)|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+10788|CHLORHEXIDINE DIHYDROCHLORIDE|3697-42-5|EU|Annex V/42|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.3% (as chlorhexidine)|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+10828|CHLORPHENESIN|104-29-0|EU|Annex V/50|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.3%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+10920|CI 11680|2512-29-0|EU|Annex IV/4|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||Not to be used in products applied on mucous membranes|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|13/08/2020
+10946|CI 14720|3567-69-9|EU|Annex IV/19|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E 122)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|13/08/2020
+10955|CI 15850|5858-81-1|EU|Annex IV/27|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E 180)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+10977|CI 15985|2783-94-0|EU|Annex IV/31|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E 110)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11004|CI 16255|2611-82-7|EU|Annex III/192|RESTRICTED|(EC) 2013/344|Hair dye substance in non-oxidative hair dye products|0.5%|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/08/2020
+11004|CI 16255|2611-82-7|EU|Annex IV/35|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E 124)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11013|CI 17200|3567-66-6|EU|Annex III/254|RESTRICTED|(EC) 2013/344|Hair dye substance in non-oxidative hair dye products|0.5 %|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/08/2020
+11013|CI 17200|3567-66-6|EU|Annex IV/37|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11047|CI 18965|6359-98-4|EU|Annex IV/43|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11051|CI 19140|1934-21-0|EU|Annex III/189|RESTRICTED|(EC) 2013/344|Hair dye substance in non-oxidative hair dye products|0.5%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|13/08/2020
+11051|CI 19140|1934-21-0|EU|Annex IV/44|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E 102)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|13/08/2020
+11100|CI 42051|3536-49-0|EU|Annex IV/60|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E 131)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11120|CI 42053|2353-45-9|EU|Annex II/1357|PROHIBITED|(EC) 2013/344|||Benzenemethanaminium, N-ethyl-N-(4-((4-(ethyl((3-sulfophenyl)methyl)amino)phenyl)(4-hydroxy-2-sulfophenyl)methylene)-2,5-cyclohexadien-1-ylidene)-3-sulfo-, hydroxide, inner salt, disodium salt (Fast Green FCF; CI 42053) when used as a substance in hair dye products||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|13/08/2020
+11120|CI 42053|2353-45-9|EU|Annex IV/61|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11128|CI 42090|2650-18-2/ 37307-56-5/ 3844-45-9|EU|Annex III/190|RESTRICTED|(EC) 2013/344|Hair dye substance in non-oxidative hair dye products|0.5%|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|12/08/2020
+11128|CI 42090|2650-18-2/ 37307-56-5/ 3844-45-9|EU|Annex IV/63|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as sset out in Commission Directive 95/45/EC (E 133)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11203|CI 45100|3520-42-1|EU|Annex III/193|RESTRICTED|(EC) 2013/344|"(a) Hair dye substance in oxidative hair dye products
+(b) Hair dye substance in non-oxidative hair dye products"|(b) 0.6%|"(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 1.5%. | a) To be printed on the label: The mixing ratio. “ Hair colourants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp,— you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary ‘black henna’ tattoo in the past."||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|05/06/2014
+11203|CI 45100|3520-42-1|EU|Annex IV/71|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||Rinse-off products|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11227|CI 47005|8004-92-0 / 94891-32-4 / 95193-83-2 / 68814-04-0|EU|Annex III/326|RESTRICTED|(EU) 2022/2195|Non-oxidative hair dye products|0,5 %|"From 1 July 2023 non-oxidative hair dye products containing that substance and not complying with the restrictions shall not be placed on the Union market. From 1 January 2024 non-oxidative hair dye products containing that substance and not complying with the restrictions shall not be made available on the Union market.
+
+For use as a colorant, see Annex IV, entry No 82."||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|11/11/2022
+11227|CI 47005|8004-92-0 / 94891-32-4 / 95193-83-2 / 68814-04-0|EU|Annex IV/82|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E 104)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11246|CI 60730|4430-18-6|EU|Annex IV/90|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||Not to be used in products applied on the mucous membranes|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11271|CI 61570|4403-90-1|EU|Annex IV/92|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11279|CI 73360|2379-74-0|EU|Annex II/1365|PROHIBITED|(EC) 2013/344|||6-Chloro-2-(6-chloro-4-methyl-3-oxobenzo[b]thien-2(3H)-ylidene)-4-methylbenzo[b]thiophene-3(2H)-one (VAT Red 1; CI 73360) when used as a substance in hair dye products||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|08/05/2013
+11279|CI 73360|2379-74-0|EU|Annex IV/100|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11293|CI 74160|147-14-8|EU|Annex II/1367|PROHIBITED|(EC) 2013/344|||(29H,31H-Phthalocyaninato(2-)-N29,N30,N31,N32)copper (Pigment Blue 15; CI 74160) when used as a substance in hair dye products||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|08/05/2013
+11293|CI 74160|147-14-8|EU|Annex IV/105|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11311|CI 74260|1328-53-6|EU|Annex II/1369|PROHIBITED|(EC) 2013/344|||Polychloro copper phthalocyanine (Pigment Green 7; CI 74260) when used as a substance in hair dye products||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|08/05/2013
+11311|CI 74260|1328-53-6|EU|Annex IV/107|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||Not to be used in eye products|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11346|CI 75810|11006-34-1 / 8049-84-1|EU|Annex IV/116|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E 140, E 141)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11353|CI 77007|12769-96-9 / 1302-83-6 / 57455-37-5|EU|Annex IV/120|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11405|CI 77491|1309-37-1 / 1317-61-9 / 1345-27-3 / 52357-70-7 / 1345-25-1|EU|Annex IV/135|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E172)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11440|CI 77492|51274-00-1 / 1345-27-3 / 20344-49-4 / 52357-70-7|EU|Annex IV/136|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E172)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+11455|CI 77499|12227-89-3 / 1309-37-1 / 1317-61-9 / 1345-25-1 / 1345-27-3 / 52357-70-7|EU|Annex IV/137|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||Purity criteria as set out in Commission Directive 95/45/EC (E172)||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|12/06/2026
+11753|CINNAMAL|104-55-2|EU|Annex III/76|RESTRICTED|(EC) 2009/1223|||"The presence of the substance must be indicated in the list of ingredients referred to in Article 6(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+11798|CINNAMYL ALCOHOL|104-54-1|EU|Annex III/69|RESTRICTED|(EC) 2009/1223|||"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+11851|CITRAL|5392-40-5|EU|Annex III/70|RESTRICTED|(EU) 2026/909|"(a) Lip make-up products, lipstick, lip salves
+(b) Deodorants and antiperspirants
+(c) Eye products, face make-up and make-up remover
+(d) Fragrance products (hydroalcoholic and non-hydroalcoholic, spray and non-spray)
+(e) Leave-on skin products (except lip products, deodorants and antiperspirants, fragrance products, eye products, face make-up and make-up remover) and nail products
+(f) Oral products
+(g) Hair leave-on products
+(h) Skin and hair rinse-off products
+(i) Leave-on products for the anogenital area (baby wipes and intimate wipes)"|"(a) 0,11 %
+(b) 0,032 %
+(c) 0,65 %
+(d) 0,6 %
+(e) 0,15 %
+(f) 0,35 %
+(g) 1,2 %
+(h) 1,2 %
+(i) 0,063 %"|"The presence of the substance or substances shall be indicated as ‘Citral’ in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:
+— 0,001 % in leave-on products
+— 0,01 % in rinse-off products."||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|28/04/2026
+11910|CITRIC ACID|77-92-9 / 5949-29-1|EU|Annex V/59|ALLOWED_WITH_CONDITIONS|(EU) 2014/866||0,2% corresponding to 0,0024% of silver|Not to be used in oral producrs and eye products||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|06/08/2020
+12074|CITRONELLOL|106-22-9 / 26489-01-0 / 7540-51-4 / 1117-61-9|EU|Annex III/86|RESTRICTED|(EU) 2023/1545|||"The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:
+— 0,001 % in leave-on products
+— 0,01 % in rinse-off products."||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|11/09/2023
+12207|CITRUS AURANTIUM BERGAMIA PEEL OIL|89957-91-5|EU|Annex III/352|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+12247|CITRUS AURANTIUM DULCIS PEEL OIL|8008-57-9|EU|Annex III/351|RESTRICTED|(EU) 2023/1545|||The presence of the substance or substances shall be indicated as ‘Citrus Aurantium Peel Oil’ in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+12290|CITRUS GRANDIS FRUIT EXTRACT|90045-43-5 / 8016-20-4|EU|Annex II/358|PROHIBITED|(EC) 2009/1223|||"Furocoumarines (e.g. trioxysalen (INN), 8-methoxypsoralen, 5-methoxypsoralen) except for normal content in natural essences used. 
+In sun protection and in bronzing products, furocoumarines shall be below 1 mg/kg"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|02/12/2016
+12362|CITRUS LIMON PEEL OIL|8008-56-8 / 84929-31-7|EU|Annex II/358|PROHIBITED|(EC) 2009/1223|||"Furocoumarines (e.g. trioxysalen (INN), 8-methoxypsoralen, 5-methoxypsoralen) except for normal content in natural essences used. 
+In sun protection and in bronzing products, furocoumarines shall be below 1 mg/kg"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|02/12/2016
+12362|CITRUS LIMON PEEL OIL|8008-56-8 / 84929-31-7|EU|Annex III/353|RESTRICTED|(EU) 2023/1545|||"The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:
+— 0,001 % in leave-on products
+— 0,01 % in rinse-off products."||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+14274|COUMARIN|91-64-5|EU|Annex III/77|RESTRICTED|(EC) 2009/1223|||"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+14617|CYCLOMETHICONE|69430-24-6 / 556-67-2 / 541-02-6 / 540-97-6|EU|Annex II/1388|PROHIBITED|(EU) 2019/831|||Octamethylcyclotetrasiloxane; D4||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|30/07/2020
+15228|DEHYDROACETIC ACID|520-45-6 / 771-03-9 / 16807-48-0|EU|Annex V/13|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.6% (as acid)|Not to be used in aerosol dispensers (sprays)||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+15530|DIAZOLIDINYL UREA|78491-02-8|EU|Annex V/46|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.5%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|02/08/2021
+15596|DICHLOROBENZYL ALCOHOL|1777-82-8|EU|Annex V/22|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.15%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+15681|DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE|302776-68-7|EU|Annex VI/28|ALLOWED_WITH_CONDITIONS|(EU) 2026/909||10%|Di-n-hexyl phthalate (DnHexP) as an unavoidable trace impurity in DHHB must not exceed 10 ppm.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|06/05/2026
+15708|DIETHYLHEXYL BUTAMIDO TRIAZONE|154702-15-5|EU|Annex VI/17|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||10%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|26/10/2010
+15930|DIMETHYL PHENETHYL ACETATE|151-05-3|EU|Annex III/334|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+16484|DMDM HYDANTOIN|6440-58-0|EU|Annex V/33|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.6%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|02/08/2021
+16645|DROMETRIZOLE TRISILOXANE|155633-54-8|EU|Annex VI/16|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||15%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|08/03/2011
+17848|ETHANOLAMINE|141-43-5|EU|Annex III/61|RESTRICTED|(EC) 2009/1223||Maximum secondary amine content: 0.5%|"- Do not use with nitrosating systems
+- Minimum purity: 99% 
+- Maximum secondary amine content: 0.5% (applies to raw materials) 
+- Maximum nitrosamine content: 50 microgram/kg 
+- Keep in nitrite-free containers"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|18/06/2019
+17861|ETHOXYDIGLYCOL|111-90-0|EU|Annex III/297|RESTRICTED|(EU) 2016/314|"(a) Oxidative hair day products
+(b) Non-oxidative hair dye products
+(c) Rinse-off products other than hair dye products
+(d) Other non-spray cosmetic products
+(e) The following spray products: fine fragrances, hair sprays, antiperspirant and deodorant"|"(a) 7%
+(b) 5%
+(c) 10%
+(d) 2,6%
+(e)2,6%"|"(a) to (e):
+The level of ethylene glycol impurity in Ethoxydiglycol must be ≤ 0,1 %. 
+Not to be used in eye products and oral products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|24/10/2018
+18045|ETHYLHEXYL METHOXYCINNAMATE|5466-77-3/83834-59-7 (trans-)|EU|Annex VI/12|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||10%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|18/07/2019
+18072|ETHYLHEXYL SALICYLATE|118-60-5|EU|Annex VI/20|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||5%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|08/03/2011
+18084|ETHYLHEXYL TRIAZONE|88122-99-0|EU|Annex VI/15|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||5%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|15/10/2010
+18166|ETIDRONIC ACID|2809-21-4|EU|Annex III/53|RESTRICTED|(EC) 2009/1223|"(a) Hair product
+(b) Soap"|"(a) 1.5% (as etidronic acid)
+(b) 0.2% (as etidronic acid)"|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+18243|EUCALYPTUS GLOBULUS LEAF OIL|8000-48-4 / 84625-32-1|EU|Annex III/355|RESTRICTED|(EU) 2023/1545|||The presence of the substance or substances shall be indicated as ‘Eucalyptus Globulus Oil’ in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+18307|EUGENOL|97-53-0|EU|Annex III/71|RESTRICTED|(EC) 2009/1223|||"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds:
+- 0.001% in leave-on products
+- 0.01% in rinse-off products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+18846|FARNESOL|4602-84-0|EU|Annex III/82|RESTRICTED|(EC) 2009/1223|||"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+19360|FORMIC ACID|64-18-6|EU|Annex V/14|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.5% (as acid)|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+20073|GERANIOL|106-24-1|EU|Annex III/78|RESTRICTED|(EC) 2009/1223|||"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+20123|GERANYL ACETATE|105-87-3|EU|Annex III/369|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+21557|HC BLUE NO. 12|132885-85-9 / 104516-93-0|EU|Annex III/225|RESTRICTED|(EC) 2013/344|"(a) Hair dye substance in oxidative hair dye products
+(b)  Hair dye substance in non-oxidative hair dye products"|(b) 1.5% (as hydrocloride)|"(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed  0.75% (as hydrochloride)
+For (a) and (b):
+- Do not use with nitrosating agents
+-Maximum nitrosamine content: 50 microgram/Kg
+- Keep in nitrite-free containers | (a) To be printed on the label: The mixing ratio. “ Hair colourants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp, — you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary ‘black henna’ tattoo in the past."||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|05/06/2014
+21956|HEXAMETHYLINDANOPYRAN|1222-05-5|EU|Annex III/336|RESTRICTED|(EU) 2023/1545|||"The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:
+— 0,001 % in leave-on products
+— 0,01 % in rinse-off products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/09/2023
+22010|HEXYL CINNAMAL|101-86-0|EU|Annex III/87|RESTRICTED|(EC) 2009/1223|||"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+22055|HEXYL SALICYLATE|6259-76-3|EU|Annex III/380|RESTRICTED|(EU) 2026/78|"(a) Hydroalcoholic-based fragrances (except hydroalcoholic-based fragrances intended for children below 3 years of age)
+
+(b) All rinse-off products (except shower gel/bath products, hand wash, hair conditioner and shampoo intended for children below 3 years of age)
+
+(c) All leave-on products (except hair conditioner, body lotion, face cream, hand cream, lipstick/lip balm and fragrance products intended for children below 3 years of age)
+
+(d) Toothpaste
+
+(e) Mouthwash
+
+(f) Shower gel/bath products, hand wash, shampoo, hair conditioner, body, face and hand (skin) care products, lipstick/lip balm and fragrance products intended for children below 3 years of age"|"(a) 2 %
+
+(b) 0,5 %
+
+(c) 0,3 %
+
+(d) 0,001 %
+
+(e) 0,001 %
+
+(f) 0,1 %"|Not to be used in preparations for children under 3 years of age, with the exception of (d) “Toothpaste” and (f).||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|15/01/2026
+22228|HOMOSALATE|118-56-9|EU|Annex VI/3|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|Face products with the exception of propellent spray products|7,34 %|From 1 January 2025 cosmetic products containing that substance and not complying with the conditions shall not be placed on the Union market. From 1 July 2025 cosmetic products containing that substance and not complying with the conditions shall not be made available on the Union market.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|11/11/2022
+22611|HYDROGEN PEROXIDE|7722-84-1|EU|Annex III/12|RESTRICTED|(EU) 2019/831|"(a) Hair products
+
+(b) Skin products
+
+(c) Nail hardening products
+
+(d) Oral products, including mouth rinse, tooth paste and tooth whitening or bleaching products
+
+(e) Tooth whitening or bleaching products
+
+(f) Products intended for eyelashes"|"(a) 12 % of H2O2 (40 volumes), present or released
+
+(b) 4 % of H2O2, present or released
+
+(c) 2 % of H2O2, present or released
+
+(d) ≤ 0,1 % of H2O2, present or released
+
+(e) > 0,1 % ≤ 6 % of H2O2, present or released
+
+(f) 2 % of H2O2, present or released"|"(e) To be only sold to dental practitioners. For each cycle of use, first use by dental practitioners as defined under Directive 2005/36/EC of the European Parliament and of the Council* or under their direct supervision if an equivalent level of safety is ensured.
+Afterwards to be provided to the consumer to complete the cycle of use.
+Not to be used on a person under 18 years of age.
+
+(f) For professional use only | (a) (f) Wear suitable gloves 
+
+(a) (b) (c) (e) 
+Contains hydrogen peroxide 
+Avoid contact with eyes 
+Rinse immediately if product comes into contact with them.
+
+(e) Concentration of H2O2 present or released indicated in percentage. 
+Not to be used on a person under 18 years of age. 
+To be only sold to dental practitioners. For each cycle of use, the first use to be only done by dental practitioners or under their direct supervision if an equivalent level of safety is ensured.
+Afterwards to be provided to the consumer to complete the cycle of use.
+
+f) To be printed on the label:
+‘For professional use only.
+Avoid contact with eyes. 
+Rinse eyes immediately if product comes into contact with them. 
+Contains hydrogen peroxide"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|27/07/2020
+22989|HYDROLYZED WHEAT PROTEIN|94350-06-8 / 222400-28-4 / 70084-87-6 / 100209- 50-5|EU|Annex III/307|RESTRICTED|(EU) 2017/2228|||Maximum molecular weight average of the peptides in hydrolysates: 3,5 kDa (23 )||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|27/07/2020
+23086|HYDROXYCITRONELLAL|107-75-5|EU|Annex III/72|RESTRICTED|(EC) 2013/344|"(a) Oral products
+(b) Other products"|(b) 1,0 %|(a) (b) The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)(g) when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/05/2013
+23180|HYDROXYISOHEXYL 3-CYCLOHEXENE CARBOXALDEHYDE|31906-04-4 / 51414-25-6|EU|Annex II/1380|PROHIBITED|(EU) 2017/1410|||3 and 4-(4-Hydroxy-4-methylpentyl)cyclohex-3-ene-1-carbaldehyde A||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|24/04/2026
+24092|IODOPROPYNYL BUTYLCARBAMATE|55406-53-6|EU|Annex V/56|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|"a) Rinse-off products
+b) Leave-on products
+c) Deodorants/antiperspirants"|"a) 0.02%
+b) 0.01%
+c) 0.0075%"|"Not to be used in oral and lip products
+a) Not to be used in products for children under 3 years of age, except in bath products / shower gels and shampoos
+b) Not to be used in body lotion and body cream (13)
+b) and c) Not to be used in products for children under 3 years of age | a) Not to be used for children under three years of age (11)
+b) and c) Not to be used for children under three years of age (12)"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+24226|ISOAMYL P-METHOXYCINNAMATE|71617-10-2|EU|Annex VI/14|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||10%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|15/10/2010
+24279|ISOEUGENOL|97-54-1|EU|Annex III/73|RESTRICTED|(EU) 2023/1545|"(a) Oral products
+(b) Other products"|b) 0,02 %|"(a) (b) The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:
+— 0,001 % in leave-on products
+— 0,01 % in rinse-off products."||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|11/09/2023
+24597|JASMINUM OFFICINALE OIL|8022-96-6 / 90045-94-6|EU|Annex III/357|RESTRICTED|(EU) 2023/1545|||The presence of the substance or substances shall be indicated as ‘Jasmine Oil/Extract’ in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+24719|JUNIPERUS VIRGINIANA OIL|8000-27-9 / 85085-41-2|EU|Annex III/358|RESTRICTED|(EU) 2023/1545|||The presence of the substance or substances shall be indicated as ‘Juniperus Virginiana Oil’ in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+24794|KAOLIN|1332-58-7|EU|Annex IV/119|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+25618|LAVANDULA ANGUSTIFOLIA OIL|8000-28-0 / 90063-37-9|EU|Annex III/360|RESTRICTED|(EU) 2023/1545|||The presence of the substance or substances shall be indicated ‘Lavandula Oil/ Extract’ in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+26139|LIMONENE|138-86-3|EU|Annex III/88|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products. The peroxide value for each substance shall be less than 20 mmoles/L (This limit applies to the substance and  not to the finished cosmetic product).||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|11/09/2023
+26258|LINALOOL|78-70-6|EU|Annex III/84|RESTRICTED|(EC) 2009/1223|||"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+26351|LINALYL ACETATE|115-95-7|EU|Annex III/337|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+26791|M-AMINOPHENOL|591-27-5|EU|Annex III/217|RESTRICTED|(EC) 2013/1197|"(a) Hair dye substance in oxidative hair dye products
+(b) Products intended for colouring eyelashes"||"For (a) and (b): After mixing under oxidative conditions the maximum concentration applied to hair or eyelashes must not exceed 1,2 %
+(b) For professional use only | (a) To be printed on the label: The mixing ratio. “ Hair colorants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase your risk of allergy.Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp, — you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary ‘black henna’ tattoo in the past.”
+(b) To be printed on the label: The mixing ratio. “For professional use only. This product can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase the risk of allergy. Eyelashes shall not be coloured if the consumer: — has a rash on the face or sensitive, irritated and damaged scalp, — has experienced any reaction after colouring hair or eyelashes,— has experienced a reaction to a temporary ‘black henna’ tattoo in the past. Rinse eyes immediately if product comes into contact with them.”"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/02/2014
+27795|MENTHA PIPERITA OIL|8006-90-4/ 84082-70-2|EU|Annex III/361|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+27850|MENTHOL|1490-04-6 / 2216-51-5 / 89-78-1 / 15356-70-4|EU|Annex III/338|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/09/2023
+28042|METHYL SALICYLATE|119-36-8|EU|Annex III/324|RESTRICTED|(EU) 2023/1545|"(a) Leave-on skin products (except face makeup, spray/aerosol body lotion, spray/aerosol deodorant and hydroalcoholic-based fragrances) and leave on hair products (except spray/aerosol products) 
+
+(b) Face makeup (except lip products, eye makeup and makeup remover)
+
+(c) Eye makeup and makeup remover 
+
+(d) Leave-on hair products (spray/aerosol)
+
+(e) Deodorant spray/aerosol
+
+(f) Body lotion spray/aerosol
+
+(g) Rinse-off skin  products (except hand wash) and rinse-off hair products 
+
+(h) Hand wash 
+
+(i) Hydroalcoholic-based fragrances 
+
+(j) Lip products 
+
+(k) Toothpaste 
+
+(l) Mouthwash intended for children aged 6–10 years
+
+(m) Mouthwash intended for children above 10 years of age and adults
+
+(n) Mouth spray"|"(a) 0,06 %
+
+(b) 0,05 %
+
+(c) 0,002 %
+
+(d) 0,009 %
+
+(e) 0,003 %
+
+(f) 0,04 %
+
+(g) 0,06 %
+
+(h) 0,6 % 
+
+(i) 0,6 %
+
+(j) 0,03 %
+
+(k) 2,52 %
+
+(l) 0,1 %
+
+(m) 0,6 %
+
+(n) 0,65 %"|Not to be used in preparations for children under 6 years of age, with the exception of (k) “Toothpaste”. The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|11/09/2023
+28090|METHYLCHLOROISOTHIAZOLINONE|26172-55-4|EU|Annex V/39|ALLOWED_WITH_CONDITIONS|(EC) 2014/1003|Rinse-off|0.0015% (of a mixture in the ratio 3:1 of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|28/09/2022
+28160|METHYLISOTHIAZOLINONE|2682-20-4|EU|Annex V/39|ALLOWED_WITH_CONDITIONS|(EC) 2014/1003|Rinse-off|0.0015% (of a mixture in the ratio 3:1 of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|28/09/2022
+28160|METHYLISOTHIAZOLINONE|2682-20-4|EU|Annex V/57|ALLOWED_WITH_CONDITIONS|(EU) 2017/1224||0,0015 % Rinse-off products|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|27/07/2020
+29927|O-CYMEN-5-OL|3228-02-2 / 39660-61-2|EU|Annex V/38|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.1%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+30040|OCTOCRYLENE|6197-30-4|EU|Annex VI/10|ALLOWED_WITH_CONDITIONS|(EU) 2022/1176|"a) Propellant spray products
+b) Other products"|"a) 9%
+b) 10%
+
+Footnote (*3): Benzophenone as an impurity and/or degradation product of Octocrylene shall be kept at trace level."|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|31/01/2023
+31225|P-AMINOPHENOL|123-30-8|EU|Annex III/272|RESTRICTED|(EU) 2017/237|"(a) Hair dye sub­stance in oxidat­ive hair dye products
+(b) Products in­tended for col­ouring eyelashes"||"(a) (b) After mixing under oxidative condit­ions the maximum concentration ap­plied to  hair or eyelashes must not exceed 0,9 %
+(b) Professional use | (a) To be printed on the la­bel: The mixing ratio. “Hair colourants can cause severe allergic reac­tions. Read and follow instruc­tions.This product is not intended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irri­tated and damaged scalp, — you  have ever experi­enced any reaction after colouring your hair, — you have experienced a reaction to a tempor­ary ‘black henna’ tattoo in the past.” (b)  As from 3 March 2018, to be printed on the la­bel: The mixing ratio. “This product can cause severe allergic reactions. Read and follow instruc­tions. This product is not in­tended for use on persons under the age of 16. Tem­porary ‘black henna’ tattoos may increase the risk of al­lergy. 
+Eyelashes shall not be co­loured if the consumer: — has a rash on the face or sensitive, irritated and damaged scalp, — has experienced any re­action after colouring hair or eyelashes, — has experienced a reac­tion to a temporary ‘black henna’ tattoo in the past. For professional use only. Rinse eyes  immediately if product comes into contact with them”"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|27/07/2020
+33128|PETROLATUM|8009-03-8|EU|Annex II/904|PROHIBITED|(EC) 2009/1223|||Petrolatum, except if the full refining history is known and it can be shown that the substance from which it is produced is not a carcinogen||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|15/10/2010
+33317|PHENOXYETHANOL|122-99-6|EU|Annex V/29|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||1.0%|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|28/07/2020
+33420|PHENYLBENZIMIDAZOLE SULFONIC ACID|27503-81-7|EU|Annex VI/6|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||8%(as acid)|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|08/03/2011
+33664|PINENE|80-56-8|EU|Annex III/371|RESTRICTED|(EU) 2023/1545|||The presence of the substance or the substances shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or the substances exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products. The peroxide value shall be less than 10 mmoles/L (This limit applies to the substance and not to the finished cosmetic product).||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+33725|PIROCTONE OLAMINE|68890-66-4|EU|Annex III/61|RESTRICTED|(EC) 2009/1223||Maximum secondary amine content: 0.5%|"- Do not use with nitrosating systems
+- Minimum purity: 99% 
+- Maximum secondary amine content: 0.5% (applies to raw materials) 
+- Maximum nitrosamine content: 50 microgram/kg 
+- Keep in nitrite-free containers"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|18/06/2019
+33725|PIROCTONE OLAMINE|68890-66-4|EU|Annex V/35|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|"a) Rinse-off products
+b) Other products"|"a) 1.0% 
+b) 0.5%"|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+33898|POGOSTEMON CABLIN OIL|8014-09-3|EU|Annex III/365|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+34036|POLYACRYLAMIDE|9003-05-8|EU|Annex III/66|RESTRICTED|(EC) 2009/1223|"(a) Body leave-on products
+(b) Other products"||"(a) Maximum residual acrylamide content 0.1mg/kg
+(b) Maximum residual acrylamide content 0.5mg/kg"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+34549|POLYQUATERNIUM-7|26590-05-6|EU|Annex III/66|RESTRICTED|(EC) 2009/1223|"(a) Body leave-on products
+(b) Other products"||"(a) Maximum residual acrylamide content 0.1mg/kg
+(b) Maximum residual acrylamide content 0.5mg/kg"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+34832|POTASSIUM HYDROXIDE|1310-58-3|EU|Annex III/15a|RESTRICTED|(EU) 2016/622|"(a) Nail cuticle solvent
+(b) Hair straightener
+(c) pH adjuster for depilatories
+(d) Other uses as pH adjuster
+Callosity softener/remover (entry 15d)"|"(a) 5%
+(b) 2% (General use) and 4.5% (Professional use)
+Entry 15d: 1,5%"|"(b)
+1. General use
+2. Professional use
+(c) up to pH 12.7
+(d) up to pH 11
+
+15 d Contains alcakali, Avoid contact with eyes
+Keep out of reach of chindren ans Read directions for use carefully | (a) Contains alkali 
+Avoid contact with eyes 
+Can cause blindness 
+Keep out of reach of children
+(b) 1. Contains alkali
+Avoid contact with eyes 
+Can cause blindness 
+Keep out of reach of children
+2. For professional use only 
+Avoid contact with eyes 
+Can cause blindness
+(c) Keep out of reach of children 
+Avoid contact with eyes"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|11/01/2024
+34902|POTASSIUM SORBATE|24634-61-5 / 590-00-1|EU|Annex V/4|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.6% (acid)|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+35685|PROPYLPARABEN|94-13-3|EU|Annex V/12 a|ALLOWED_WITH_CONDITIONS|(EC) 2014/1004||"- 0,14% (as acid) for the sum of the individual concentrations
+
+- 0,8% (as acid) for mixtures of substances mentioned in entry 12 and 12a, here the sum of the individual concentrations of butyl and propylparaben and their salts does not exceed 0,14%"|"Not to be used in leave-on products designed for application on the nappy area of children under three years of age. | For leave-on products designed for children under three years of age: ""Do not use on the nappy area"""||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|02/08/2021
+36720|RESORCINOL|108-46-3|EU|Annex III/22|RESTRICTED|(EC) 2013/1197|"(a) Hair dye substance in oxidative hair dye products
+(b) Products intended for colouring eyelashes
+(c) Hair lotions and shampoos"|(c) 0,5%|"(For (a) and (b):  After mixing under oxidative conditions the maximum concentration applied to hair or eyeslashes must not exceed 1,25 % 
+(b)  Professional use only | (a) To be printed on the label: The mixing ratio. “ Hair colorants can cause severe allergic reactions.
+Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp, — you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary ‘black henna’ tattoo in the past. Contains resorcinol. Rinse hair well after application. Rinse eyes immediately if product comes into contact with them.‘Do not use to dye eyelashes.
+(b) To be printed on the label: The mixing ratio. “For professional use only. Contains resorcinol. This product can cause severe allergic reactions. Read and follow instructions.This product is not intended for use on persons under the age of 16. Temporary ‘black henna’ tattoos may increase the risk of allergy. Eyelashes shall not be coloured if the consumer: — has a rash on the face or sensitive, irritated and damaged scalp, — has experienced any reaction after colouring hair or eyelashes, — has experienced a reaction to a temporary ‘black henna’ tattoo in the past. Rinse eyes immediately if product comes into contact with them.”
+(c) Contains resorcinol.’"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|11/11/2022
+36747|RETINYL PALMITATE|79-81-2|EU|Annex III/376|RESTRICTED|(EU) 2024/996|"(a) Body lotion
+
+(b) other leave-on and rinse-off products"|"(a) 0,05 % Retinol Equivalent (RE)
+
+(b) 0,3 % RE"|"From 1 November 2025 cosmetic products containing that substance and not complying with the conditions shall not be placed on the Union market. From 1 May 2027 cosmetic products containing that substance and not complying with the conditions shall not be made available on the Union market. | For any cosmetic product containing Retinol, Retinyl Acetate or Retinyl Palmitate the following, labelling is obligatory: ‘Contains Vitamin A. Consider your daily intake before use’."||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|04/04/2024
+37742|SALICYLIC ACID|69-72-7|EU|Annex III/98|RESTRICTED|(EU) 2021/850|"(a) Rinse-off hair products
+
+(b) Other products except body lotion, eye shadow, mascara, eyeliner, lipstick, roll-on deodorant
+
+(c) Body lotion, eye shadow, mascara, eyeliner, lipstick, roll-on deodorant"|"(a) 3.0%
+
+(b) 2.0%
+
+(c) 0.5%"|"(a) (b) (c)
+
+Not to be used in preparations for children under 3 years of age. Not to be used in applications that may lead to exposure of the end-user’s lungs by inhalation. Not to be used in oral products. For purposes other than inhibiting the development of micro-organisms in the product. This purpose has to be apparent from the presentation of the product.
+
+These levels are inclusive of any use of salicylic acid. | (a) (b) (c)
+
+Not to be used for children under 3 years of age*
+
+* Solely for products which might be used for children under 3 years of age."||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|07/12/2023
+37742|SALICYLIC ACID|69-72-7|EU|Annex V/3|ALLOWED_WITH_CONDITIONS|(EU) 2019/1966||"Salicylic acid: 0,5 % (acid)
+
+Salicylic acid salts: 0,5 % (acid)"|"Salicylic acid:
+
+Not to be used in products for children under 3 years of age.
+Not to be used in oral products.
+Not to be used in applications that may lead to exposure of the end-user’s lungs by inhalation.
+
+
+Salicylic acid salts:
+
+Not to be used in products for children under 3 years of age, except for shampoos. | Salicylic acid:
+Not to be used for children under 3 years of age**
+**Solely for products which might be used for children under 3 years of age.
+
+Salicylic acid salts:
+Not to be used for children under 3 years of age***
+***Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin."||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|27/07/2020
+39072|SODIUM BENZOATE|532-32-1|EU|Annex V/1|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|"a) Rinse-off products, except oral care products
+b) Oral care products
+c) Leave-on products"|"a) 2.5% (acid)
+b) 1.7% (acid)
+c) 0.5% (acid)"|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|25/10/2010
+39419|SODIUM DEHYDROACETATE|4418-26-2|EU|Annex V/13|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.6% (as acid)|Not to be used in aerosol dispensers (sprays)||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+39461|SODIUM FLUORIDE|7681-49-4|EU|Annex III/31|RESTRICTED|(EC) 2013/344|Oral products|"0,15 % calculated as F. 
+When mixed with other fluorine compounds permitted under this Annex, total F concentration must not exceed 0,15 %"|"Contains sodium fluoride 
+For any toothpaste with compounds containing fluorine in a concentration of 0.1 to 0.15% calculated as F unless it is already labelled as contra-indicated for children (e.g. ""for adult use only"") the following labelling is obligatory:
+""Children of 6 years and younger: use a pea-sized amount for supervised brushing to minimise swallowing. In case of intake of fluoride from other sources consult a dentist or doctor."""||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/05/2013
+39599|SODIUM HYDROXIDE|1310-73-2|EU|Annex III/15a|RESTRICTED|(EU) 2016/622|"(a) Nail cuticle solvent
+(b) Hair straightener
+(c) pH adjuster for depilatories
+(d) Other uses as pH adjuster
+Callosity softener/remover (entry 15d)"|"(a) 5%
+(b) 2% (General use) and 4.5% (Professional use)
+Entry 15d: 1,5%"|"(b)
+1. General use
+2. Professional use
+(c) up to pH 12.7
+(d) up to pH 11
+
+15 d Contains alcakali, Avoid contact with eyes
+Keep out of reach of chindren ans Read directions for use carefully | (a) Contains alkali 
+Avoid contact with eyes 
+Can cause blindness 
+Keep out of reach of children
+(b) 1. Contains alkali
+Avoid contact with eyes 
+Can cause blindness 
+Keep out of reach of children
+2. For professional use only 
+Avoid contact with eyes 
+Can cause blindness
+(c) Keep out of reach of children 
+Avoid contact with eyes"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|11/01/2024
+39929|SODIUM MONOFLUOROPHOSPHATE|10163-15-2 / 7631-97-2|EU|Annex III/27|RESTRICTED|(EC) 2013/344|Oral products|"0.15% calculated as F.
+When mixed with other fluorine compounds permitted under this Annex, total F concentration must not exceed 0.15%"|"Contains sodium monofluorophosphate 
+For any toothpaste with compounds containing fluorine in a concentration of 0.1 to 0.15% calculated as F unless it is already labelled as contra-indicated for children (e.g. ""for adult use only"") the following labelling is obligatory:
+""Children of 6 years and younger: use a pea-sized amount for supervised brushing to minimise swallowing. In case of intake of fluoride from other sources consult a dentist or doctor."""||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/05/2013
+40123|SODIUM SALICYLATE|54-21-7|EU|Annex V/3|ALLOWED_WITH_CONDITIONS|(EU) 2019/1966||"Salicylic acid: 0,5 % (acid)
+
+Salicylic acid salts: 0,5 % (acid)"|"Salicylic acid:
+
+Not to be used in products for children under 3 years of age.
+Not to be used in oral products.
+Not to be used in applications that may lead to exposure of the end-user’s lungs by inhalation.
+
+
+Salicylic acid salts:
+
+Not to be used in products for children under 3 years of age, except for shampoos. | Salicylic acid:
+Not to be used for children under 3 years of age**
+**Solely for products which might be used for children under 3 years of age.
+
+Salicylic acid salts:
+Not to be used for children under 3 years of age***
+***Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin."||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|27/07/2020
+40183|SODIUM STYRENE/ACRYLATES COPOLYMER|9010-92-8|EU|Annex II/1725|PROHIBITED|(EU) 2024/858|||"Styrene/Acrylates copolymer (nano) [INCI]
+Sodium Styrene/Acrylates copolymer (nano) [INCI]"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|18/03/2024
+40192|SODIUM SULFITE|7757-83-7|EU|Annex III/99|RESTRICTED|(EC) 2009/1223|"(a) Oxidative hair dye products
+(b) Hair straightening products
+(c) Self-tanning products for the face
+(d) Other self-tanning products"|"(a) 0.67% (as free SO2)
+(b) 6.7% (as free SO2)
+(c) 0.45% (as free SO2)
+(d) 0.40% (as free SO2)"|For purposes other than inhibiting the development of micro-organisms in the product. This purpose has to be apparent from the presentation of the product||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+40192|SODIUM SULFITE|7757-83-7|EU|Annex V/9|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.2% (as free SO2)|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+40520|SORBIC ACID|110-44-1|EU|Annex V/4|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||0.6% (acid)|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|16/10/2010
+40845|STANNOUS FLUORIDE|7783-47-3|EU|Annex III/35|RESTRICTED|(EC) 2013/344|Oral products|"0,15 % calculated as F. 
+When mixed with other fluorine compounds permitted under this Annex, total F concentration must not exceed 0,15 %"|"Contains stannous fluoride 
+For any toothpaste with compounds containing fluorine in a concentration of 0.1 to 0.15% calculated as F unless it is already labelled as contra-indicated for children (e.g. ""for adult use only"") the following labelling is obligatory:
+""Children of 6 years and younger: use a pea-sized amount for supervised brushing to minimise swallowing. In case of intake of fluoride from other sources consult a dentist or doctor."""||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|14/05/2013
+41212|STYRENE/ACRYLATES COPOLYMER|27306-39-4; 25034-86-0; 25085-34-1; 9010-92-8|EU|Annex II/1725|PROHIBITED|(EU) 2024/858|||"Styrene/Acrylates copolymer (nano) [INCI]
+Sodium Styrene/Acrylates copolymer (nano) [INCI]"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|18/03/2024
+41641|TALC|14807-96-6|EU|Annex III/59|RESTRICTED|(EC) 2009/1223|"(a) Powdery products intended to be used for children under 3 years of age
+(b) Other products"||(a) Keep powder away from children's nose and mouth||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|22/10/2024
+41775|TEA-DODECYLBENZENESULFONATE|27323-41-7 / 68411-31-4|EU|Annex III/62|RESTRICTED|(EC) 2009/1223|"(a) Leave-on products
+(b) Rinse-off products"|(a) 2.5%|"(a) (b)
+- Do not use with nitrosating systems 
+- Minimum purity: 99%
+- Maximum secondary amine content: 0.5% (applies to raw materials) 
+- Maximum nitrosamine content: 50 microgram/kg 
+- Keep in nitrite-free containers"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+41781|TEA-LACTATE|20475-12-1|EU|Annex III/62|RESTRICTED|(EC) 2009/1223|"(a) Leave-on products
+(b) Rinse-off products"|(a) 2.5%|"(a) (b)
+- Do not use with nitrosating systems 
+- Minimum purity: 99%
+- Maximum secondary amine content: 0.5% (applies to raw materials) 
+- Maximum nitrosamine content: 50 microgram/kg 
+- Keep in nitrite-free containers"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+41789|TEA-SULFATE|7376-31-0|EU|Annex III/62|RESTRICTED|(EC) 2009/1223|"(a) Leave-on products
+(b) Rinse-off products"|(a) 2.5%|"(a) (b)
+- Do not use with nitrosating systems 
+- Minimum purity: 99%
+- Maximum secondary amine content: 0.5% (applies to raw materials) 
+- Maximum nitrosamine content: 50 microgram/kg 
+- Keep in nitrite-free containers"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+41915|TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID|92761-26-7 / 90457-82-2|EU|Annex VI/7|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||10%(as acid)|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|26/10/2010
+41932|TERPINEOL|8000-41-7|EU|Annex III/343|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+41938|TERPINOLENE|586-62-9|EU|Annex III/133|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products The peroxide value shall be less than 10 mmoles/L (This limit applies to the substance and not to the finished cosmetic product).||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|11/09/2023
+42032|TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES|54464-57-2/ 54464-59-4/ 68155-66-8/ 68155-67-9|EU|Annex III/344|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|03/10/2023
+42101|TETRASODIUM ETIDRONATE|3794-83-0|EU|Annex III/53|RESTRICTED|(EC) 2009/1223|"(a) Hair product
+(b) Soap"|"(a) 1.5% (as etidronic acid)
+(b) 0.2% (as etidronic acid)"|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+42494|TITANIUM DIOXIDE|13463-67-7|EU|Annex III/321|RESTRICTED|(EU) 2021/850|"(a) face  products in  loose powder form
+
+(b) hair aerosol spray pro­ducts
+
+(c) other products"|"(a) 25 %;
+
+(b) 1,4 % for general consu­mers, and 1.1 % for  pro­fessional use."|"a) (b) Only in the pigmentary form
+
+(c) Not to be used in applications that may lead to exposure of the end-user’s lungs by inhalation"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|23/03/2022
+42494|TITANIUM DIOXIDE|13463-67-7|EU|Annex VI/27|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223||"25%*
+*: In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g (Maximum concen­tration in ready for use preparation)"|"Titanium dioxide in powder form containing 1 % or more of particles with aerodynamic diameter ≤ 10 μm, to be used in compliance with Annex III, No 321. For the product types under letter (c) of column (f) in Annex III, No 321, the maximum concentration in ready for use preparation provided in column (g) of this entry applies.
+
+(For use as a colourant, see Annex IV, No 143)"||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|21/06/2021
+42760|TOLUENE-2,5-DIAMINE SULFATE|615-50-9|EU|Annex III/9a|RESTRICTED|(EC) 2013/1197|"(a) Products intended for colouring eyelashes
+
+(b) Products intended for colouring eyelashes"||"(a) (i) General use
+(a) (ii) Professional use
+
+(b) Professional use
+
+For (a) and (b): After mixing under oxidative conditions the maximum concentration applied to hair or eyelashes must not exceed 2,0 % (cal­culated as free base) or 3,6 % (calculated as sulfate salt) | (a) To be printed on the label: 
+The mixing ratio.
+' Hair colourants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16.
+Temporary “black henna” tattoos may increase your risk of allergy. Do not colour your hair if:
+— you have a rash on your face or sensitive, irritated and damaged scalp,
+— you have ever experienced any reaction after colouring your hair,
+— you have experienced a reaction to a temporary “black henna” tattoo in the past.
+
+Contains phenylenediamines (toluenediamines)
+
+(a) (i) Do not use to dye eyelashes.
+(a) (ii) Wear suitable gloves. For professional use only.’
+
+
+(b)  As from 3 March 2018, to be printed on the label: The mixing ratio.
+' This product can cause severe allergic reactions. Read and follow instructions.
+
+This product is not intended for use on persons under the age of 16. Temporary “black henna” tattoos may increase the risk of allergy.
+
+Eyelashes shall not be coloured if the consumer:
+— has a rash on the face or sensitive, irritated and damaged scalp,
+— has experienced any reaction after colouring hair or eyelashes,
+— has experienced a reaction to a temporary “black henna” tattoo in the past.
+
+Rinse eyes immediately if product comes into contact with them.
+
+Contains phenylenediamines (toluenediamines).
+
+Wear suitable gloves.
+
+For professional use only’."||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|02/09/2022
+42933|TRICLOSAN|3380-34-5|EU|Annex V/25|ALLOWED_WITH_CONDITIONS|(EU) 2024/996|Toothpastes; Hand soaps; Body soaps/Shower gels; Deodorants (non-spray); Face powders and blemish concealers; Nail products for cleaning the fingernails and toenails before the application of artificial nail systems;|0.3%|"Not to be used in toothpaste intended for children under 3 years of age.
+
+Cosmetic products containing that substance that do not comply with the conditions may, provided that they comply with the conditions applicable on 23 April 2024, be placed on the Union market until 31 December 2024 and, if they have already been placed on the market before that date, continue to be made available on the Union market until 31 October 2025. | For toothpaste containing Triclosan the following labelling is obligatory: ‘Not to be used for children under 3 years of age’."||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/V/export-csv|2026-10-10|04/04/2024
+43005|TRIETHANOLAMINE|102-71-6|EU|Annex III/62|RESTRICTED|(EC) 2009/1223|"(a) Leave-on products
+(b) Rinse-off products"|(a) 2.5%|"(a) (b)
+- Do not use with nitrosating systems 
+- Minimum purity: 99%
+- Maximum secondary amine content: 0.5% (applies to raw materials) 
+- Maximum nitrosamine content: 50 microgram/kg 
+- Keep in nitrite-free containers"||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|17/10/2010
+43317|TURPENTINE|8006-64-2 / 9005-90-7 / 8052-14-0|EU|Annex III/124|RESTRICTED|(EU) 2023/1545|||The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products. The peroxide value for each substance shall be less than 10 mmoles/L. (This limit applies to the substance and not to the finished cosmetic product).||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|11/09/2023
+43460|ULTRAMARINES|1302-83-6 / 1317-97-1 / 1345-00-2 / 11118-33-5 / 12703-66-1 / 12769-96-9 / 57455-37-5|EU|Annex IV/120|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|14/08/2020
+45265|ZINC CHLORIDE|7646-85-7|EU|Annex III/24|RESTRICTED|(EU) 2026/909|"(a) Toothpaste intended for users above 1 year of age
+(b) Toothpaste intended for children between 6 months and 1 year of age
+(c) Mouthwash intended for users above 6 years of age
+(d) Other products"|"(a) 1 % (as zinc)
+(b) 0,72 % (as zinc)
+(c) 0,1 % (as zinc)
+(d) 1 % (as zinc)"|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|28/04/2026
+45270|ZINC CITRATE|546-46-3|EU|Annex III/24|RESTRICTED|(EU) 2026/909|"(a) Toothpaste intended for users above 1 year of age
+(b) Toothpaste intended for children between 6 months and 1 year of age
+(c) Mouthwash intended for users above 6 years of age
+(d) Other products"|"(a) 1 % (as zinc)
+(b) 0,72 % (as zinc)
+(c) 0,1 % (as zinc)
+(d) 1 % (as zinc)"|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|28/04/2026
+45275|ZINC COCO-SULFATE||EU|Annex III/24|RESTRICTED|(EU) 2026/909|"(a) Toothpaste intended for users above 1 year of age
+(b) Toothpaste intended for children between 6 months and 1 year of age
+(c) Mouthwash intended for users above 6 years of age
+(d) Other products"|"(a) 1 % (as zinc)
+(b) 0,72 % (as zinc)
+(c) 0,1 % (as zinc)
+(d) 1 % (as zinc)"|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|28/04/2026
+45279|ZINC GLUCONATE|4468-02-4|EU|Annex III/24|RESTRICTED|(EU) 2026/909|"(a) Toothpaste intended for users above 1 year of age
+(b) Toothpaste intended for children between 6 months and 1 year of age
+(c) Mouthwash intended for users above 6 years of age
+(d) Other products"|"(a) 1 % (as zinc)
+(b) 0,72 % (as zinc)
+(c) 0,1 % (as zinc)
+(d) 1 % (as zinc)"|||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|28/04/2026
+45293|ZINC OXIDE|1314-13-2|EU|Annex IV/144|ALLOWED_WITH_CONDITIONS|(EU) 2017/1413|||Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation.||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|18/10/2021
+45293|ZINC OXIDE|1314-13-2|EU|Annex VI/30|ALLOWED_WITH_CONDITIONS|(EU) 2016/621||"- 25%
+
+- In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit of 25%"|Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation.||NAME|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/VI/export-csv|2026-10-10|13/09/2016
+45308|ZINC PYRITHIONE|13463-41-7|EU|Annex II/1670|PROHIBITED|(EU) 2021/1902|||Pyrithione zinc; (T-4)- bis[1-(hydroxy-.kappa.O)pyridine-2(1H)- thionato-.kappa.S]zinc||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/II/export-csv|2026-10-10|03/11/2021
+45314|ZINC STEARATE|557-05-1|EU|Annex IV/150|ALLOWED_WITH_CONDITIONS|(EC) 2009/1223|||||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/IV/export-csv|2026-10-10|18/10/2010
+45317|ZINC SULFATE|7446-19-7 (monohydrate)/ 7446-20-0 (heptahydrate) / 7733-02-0 (anhydrous)|EU|Annex III/24|RESTRICTED|(EU) 2026/909|"(a) Toothpaste intended for users above 1 year of age
+(b) Toothpaste intended for children between 6 months and 1 year of age
+(c) Mouthwash intended for users above 6 years of age
+(d) Other products"|"(a) 1 % (as zinc)
+(b) 0,72 % (as zinc)
+(c) 0,1 % (as zinc)
+(d) 1 % (as zinc)"|||IDENTIFIED_INGREDIENT|https://api.tech.ec.europa.eu/cosing20/1.0/api/annexes/III/export-csv|2026-10-10|28/04/2026

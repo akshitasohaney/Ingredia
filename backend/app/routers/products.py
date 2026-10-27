@@ -3,7 +3,7 @@ Products router – GET /api/v1/products
 """
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session, joinedload
-from sqlalchemy import or_
+from sqlalchemy import case, or_
 
 from app.database import get_db
 from app.models.product import Product, ProductIngredient
@@ -23,7 +23,8 @@ def search_products(query: str, db: Session = Depends(get_db)):
     """Search products by name or brand."""
     if not query or len(query.strip()) < 1:
         raise HTTPException(status_code=422, detail="Query must not be empty.")
-    q = f"%{query.strip()}%"
+    term = query.strip()
+    q = f"%{term}%"
     results = (
         db.query(Product)
         .filter(
@@ -31,6 +32,17 @@ def search_products(query: str, db: Session = Depends(get_db)):
                 Product.name.ilike(q),
                 Product.brand.ilike(q),
             )
+        )
+        # A brand match should appear before an incidental substring in a
+        # product name (for example, ``AVON`` before ``Savon``).
+        .order_by(
+            case(
+                (Product.brand.ilike(term), 0),
+                (Product.brand.ilike(q), 1),
+                (Product.name.ilike(f"{term}%"), 2),
+                else_=3,
+            ),
+            Product.name,
         )
         .limit(30)
         .all()
