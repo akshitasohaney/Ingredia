@@ -1,0 +1,25 @@
+{
+  "source_rows": {
+    "cureskin": 1448,
+    "incidb_products": 200,
+    "open_beauty_facts": 300,
+    "california": 114635,
+    "pubmed": 100
+  },
+  "imported_rows": {
+    "cureskin_ingredients": 1448,
+    "incidb_ingredients": 1114,
+    "regulatory_records": 195,
+    "incidb_products": 198,
+    "open_beauty_products": 231,
+    "california_reports": 114635,
+    "pubmed_articles": 100
+  },
+  "catalog": {
+    "ingredients": 2937,
+    "products": 35416,
+    "product_ingredient_links": 45594,
+    "california_reports": 41843,
+    "regulatory_records": 194
+  }
+}
