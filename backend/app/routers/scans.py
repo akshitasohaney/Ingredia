@@ -35,7 +35,9 @@ from app.config import get_settings
 router = APIRouter(prefix="/scans", tags=["scans"])
 
 # ── Upload directory ──────────────────────────────────────────────────────────
-UPLOAD_DIR = Path(__file__).resolve().parents[3] / "uploads"
+# ``scans.py`` lives at ``<repository>/app/routers``; parents[2] is the
+# repository root.  Using parents[3] pointed at the drive root on Windows.
+UPLOAD_DIR = Path(__file__).resolve().parents[2] / "uploads"
 UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
 
 

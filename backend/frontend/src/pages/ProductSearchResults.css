@@ -1,0 +1,113 @@
+/* ProductSearchResults.css */
+.sr-page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: var(--space-xl) var(--space-md);
+}
+
+.sr-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--space-md);
+  margin-bottom: var(--space-xl);
+  padding-bottom: var(--space-lg);
+  border-bottom: 1px solid var(--border);
+}
+
+.sr-title {
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+/* Refine search inline */
+.sr-refine {
+  display: flex;
+  gap: var(--space-xs);
+}
+.sr-refine__input {
+  height: 40px;
+  padding: 0 var(--space-md);
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  color: var(--text-primary);
+  background: #fff;
+  border: 1.5px solid var(--border);
+  border-radius: 2px;
+  outline: none;
+  transition: border-color 0.2s;
+  width: 220px;
+}
+.sr-refine__input:focus { border-color: var(--accent); }
+.sr-refine__btn { height: 40px; }
+
+/* State messages */
+.sr-state {
+  text-align: center;
+  padding: var(--space-xxl) 0;
+  color: var(--text-secondary);
+}
+.sr-state p { margin-bottom: var(--space-sm); }
+.sr-state--error { color: #b44; }
+.sr-state__hint { font-size: 0.9rem; }
+.sr-state__hint a { color: var(--accent); }
+
+/* Results grid */
+.sr-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: var(--space-md);
+}
+
+.sr-card {
+  display: block;
+  padding: var(--space-lg);
+  border: 1px solid var(--border);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.sr-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 2px 12px rgba(43,61,44,0.07);
+}
+.sr-card__type {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: var(--space-xs);
+}
+.sr-card__name {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 0 0 4px;
+  color: var(--text-primary);
+}
+.sr-card__brand {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin: 0 0 var(--space-sm);
+}
+.sr-card__use {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin: 0 0 var(--space-md);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.sr-card__cta {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--accent);
+  letter-spacing: 0.05em;
+}

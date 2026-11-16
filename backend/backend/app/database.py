@@ -22,7 +22,9 @@ from .config import DATABASE_URL
 # --------------------------------------------------------------------------- #
 engine = create_engine(
     DATABASE_URL,
-    connect_args={"check_same_thread": True}
+    # FastAPI runs synchronous request handlers in worker threads. SQLite
+    # connections therefore must be permitted to cross those threads.
+    connect_args={"check_same_thread": False}
     if DATABASE_URL.startswith("sqlite")
     else {}
 )
