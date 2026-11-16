@@ -1,0 +1,5 @@
+﻿/* Card base styles live in index.css; this file holds overrides if needed */
+.product-card h2 { font-size: 1.05rem; margin-bottom: .5rem; }
+.ingredient-card h3 { font-size: .95rem; margin-bottom: .4rem; }
+.token-card p { font-size: .875rem; }
+.ingredient-risk-card h3 { font-size: .95rem; margin-bottom: .3rem; }

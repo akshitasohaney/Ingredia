@@ -1,0 +1,143 @@
+/* ComponentsChart.css */
+
+/* ── Section wrapper ──────────────────────────────── */
+.components-chart-section {
+  margin: var(--space-xl) 0;
+  padding-top: var(--space-xl);
+  border-top: 1px solid var(--border);
+}
+
+.components-chart-section__title {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin: 0 0 var(--space-lg);
+  color: var(--text-primary);
+}
+
+/* ── Grid of chart cards ──────────────────────────── */
+.components-chart-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--space-lg);
+}
+
+/* ScoreBar spans full width when large enough */
+.components-chart-grid .chart-card:last-child {
+  grid-column: 1 / -1;
+}
+
+/* ── Individual chart card ────────────────────────── */
+.chart-card {
+  border: 1px solid var(--border);
+  padding: var(--space-lg);
+  background: #fdfcfa;
+  display: flex;
+  flex-direction: column;
+}
+
+.chart-card__title {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin: 0 0 2px;
+  color: var(--text-primary);
+}
+
+.chart-card__sub {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin: 0 0 var(--space-md);
+  line-height: 1.4;
+}
+
+/* Show-more toggle button */
+.chart-card__toggle {
+  margin-top: var(--space-sm);
+  align-self: center;
+  background: none;
+  border: 1px solid var(--border);
+  padding: 4px 14px;
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  cursor: pointer;
+  border-radius: 2px;
+  transition: border-color 0.15s, color 0.15s;
+}
+.chart-card__toggle:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* ── Gauge card specific ──────────────────────────── */
+.chart-card--gauge {
+  align-items: center;
+  text-align: center;
+}
+
+.gauge-label {
+  margin-top: -20px; /* overlap the chart bottom white space */
+  display: flex;
+  align-items: baseline;
+  gap: 4px;
+  justify-content: center;
+}
+
+.gauge-label__num {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.gauge-label__max {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.gauge-label__band {
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-left: 6px;
+}
+
+/* ── Custom legend (rendered as plain HTML, never overlaps SVG) ── */
+.chart-legend {
+  list-style: none;
+  padding: 0;
+  margin: var(--space-sm) 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  justify-content: center;
+}
+
+.chart-legend__item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.chart-legend__dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.chart-legend__label {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  line-height: 1.3;
+}
+
+/* ── Responsive ───────────────────────────────────── */
+@media (max-width: 600px) {
+  .components-chart-grid {
+    grid-template-columns: 1fr;
+  }
+  .components-chart-grid .chart-card:last-child {
+    grid-column: auto;
+  }
+}

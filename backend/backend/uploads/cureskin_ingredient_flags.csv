@@ -1,0 +1,1449 @@
+inci_name,display_name,function,is_active,fa_trigger,comedogenic,fragrance,eu_allergen,alcohol_type,pregnancy_caution,product_count
+aqua,Aqua,Solvent / vehicle,0,0,,0,0,,0,1204
+niacinamide,Niacinamide,Cell-communicating / barrier-repair active,1,0,0,0,0,,0,1153
+glycerin,Glycerin,Humectant,0,0,0,0,0,,0,2141
+hyaluronic acid,Hyaluronic Acid,Humectant / hydrating agent,1,0,0,0,0,,0,346
+panthenol,Panthenol,Humectant / skin-conditioning agent,0,0,,0,0,,0,698
+allantoin,Allantoin,Soothing/skin-conditioning agent,1,0,,0,0,,0,684
+sodium hyaluronate,Sodium Hyaluronate,Humectant / hydrator,0,0,0,0,0,,0,896
+salicylic acid,Salicylic Acid,Beta-hydroxy acid (BHA) exfoliant / keratolytic,1,,,0,0,,1,321
+fragrance,Fragrance,Fragrance/masking agent,0,,,1,0,,0,474
+alpha arbutin,Alpha-Arbutin,Skin-brightening agent,1,,,0,0,,1,149
+cyclopentasiloxane,Cyclopentasiloxane,Emollient/silicone,0,0,,0,0,,0,334
+titanium dioxide,Titanium Dioxide,UV filter / mineral sunscreen,1,0,1,0,0,,0,339
+propanediol,Propanediol,Humectant/solvent,0,0,,0,0,,0,838
+water,Water,Solvent/vehicle,0,0,,0,0,,0,803
+zinc oxide,Zinc Oxide,UV filter / skin protectant,1,0,1,0,0,,0,166
+dimethicone,Dimethicone,Emollient/occlusive (silicone),0,0,1,0,0,,0,597
+benzyl alcohol,Benzyl Alcohol,Preservative / solvent,0,,,1,1,drying,0,233
+retinol,Retinol,Vitamin A derivative / anti-aging active,1,,,0,0,,1,151
+peg 40 hydrogenated castor oil,PEG-40 Hydrogenated Castor Oil,Solubilizer/emulsifier,0,0,,0,0,,0,152
+cetearyl alcohol,Cetearyl Alcohol,Emollient/emulsifier,0,0,,0,0,fatty,0,427
+glyceryl stearate,Glyceryl Stearate,Emulsifier/emollient,0,1,,0,0,,0,488
+butyrospermum parkii butter,Butyrospermum Parkii Butter,Emollient/occlusive,0,,2,0,0,,0,163
+urea,Urea,Humectant / keratolytic,1,0,,0,0,,0,71
+peg 100 stearate,PEG-100 Stearate,Emulsifier/surfactant,0,1,,0,0,,0,258
+stearic acid,Stearic Acid,Emulsifier / thickener,0,1,,0,0,,0,349
+squalane,Squalane,Emollient / occlusive moisturizer,0,0,1,0,0,,0,296
+mentha piperita oil,Mentha Piperita Oil,Fragrance/cooling agent,0,1,,0,0,,0,31
+polysorbate 20,Polysorbate 20,Emulsifier / solubilizer,0,1,,0,0,,0,388
+butylene glycol,Butylene Glycol,Humectant / solvent,0,0,,0,0,,0,917
+melaleuca alternifolia (tea tree) oil,Melaleuca Alternifolia (Tea Tree) Oil,Antimicrobial/antiseptic active,1,1,,0,0,,0,2
+simmondsia chinensis seed oil,Simmondsia Chinensis Seed Oil,Emollient / occlusive,0,1,2,0,0,,0,50
+tea tree oil,Tea Tree Oil,Antimicrobial/anti-inflammatory active,1,1,,0,0,,0,6
+argania spinosa kernel oil,Argania Spinosa Kernel Oil,Emollient / skin-conditioning oil,0,1,1,0,0,,0,51
+cetyl alcohol,Cetyl Alcohol,Emollient / emulsifier,0,0,,0,0,fatty,0,324
+cocos nucifera oil,Cocos Nucifera Oil,Emollient/occlusive,0,1,4,0,0,,0,45
+sorbitan olivate,Sorbitan Olivate,Emulsifier,0,1,,0,0,,0,135
+punica granatum seed oil,Punica Granatum Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,13
+caprylic capric triglyceride,Caprylic/Capric Triglyceride,Emollient / skin-conditioning agent,0,0,,0,0,,0,631
+helianthus annuus seed oil,Helianthus Annuus Seed Oil,Emollient / skin-conditioning oil,0,1,0,0,0,,0,95
+lactobacillus,Lactobacillus,Probiotic/skin-conditioning,1,1,,0,0,,0,18
+polysorbate 60,Polysorbate 60,Emulsifier / surfactant,0,1,,0,0,,0,106
+ascorbyl palmitate,Ascorbyl Palmitate,Antioxidant / Vitamin C derivative,1,1,,0,0,,0,49
+olea europaea oil,Olea europaea oil,Emollient / occlusive,0,1,,0,0,,0,2
+shea butter,Shea Butter,Emollient / occlusive moisturizer,0,,2,0,0,,0,39
+prunus amygdalus dulcis oil,Prunus Amygdalus Dulcis Oil,Emollient / skin-conditioning oil,0,1,2,0,0,,0,86
+rosa canina seed oil,Rosa Canina Seed Oil,Emollient / antioxidant oil,0,1,1,0,0,,0,19
+glyceryl monostearate,Glyceryl Monostearate,Emulsifier / emollient,0,1,,0,0,,0,84
+coco caprylate caprate,Coco-Caprylate/Caprate,Emollient / skin-conditioning agent,0,1,,0,0,,0,145
+simmondsia chinensis (jojoba) seed oil,Simmondsia Chinensis (Jojoba) Seed Oil,Emollient / moisturizer,0,1,,0,0,,0,51
+ricinus communis seed oil,Ricinus Communis Seed Oil,Emollient / occlusive,0,0,,0,0,,0,24
+cocos nucifera (coconut) oil,Cocos Nucifera (Coconut) Oil,Emollient/occlusive,0,1,,0,0,,0,27
+theobroma cacao seed butter,Theobroma Cacao Seed Butter,Emollient/occlusive,0,,4,0,0,,0,40
+isopropyl myristate,Isopropyl Myristate,Emollient / skin-conditioning agent,0,1,5,0,0,,0,160
+glyceryl citrate lactate linoleate oleate,Glyceryl Citrate/Lactate/Linoleate/Oleate,Emulsifier / emollient,0,1,,0,0,,0,15
+olea europaea fruit oil,Olea Europaea Fruit Oil,Emollient / occlusive,0,1,2,0,0,,0,51
+lactococcus ferment lysate,Lactococcus Ferment Lysate,Probiotic-derived skin conditioning agent,1,1,,0,0,,0,15
+retinyl palmitate,Retinyl Palmitate,Antioxidant / retinoid (vitamin A derivative),1,1,,0,0,,1,57
+cocoa butter,Cocoa Butter,Emollient/occlusive moisturizer,0,,4,0,0,,0,17
+linoleic acid,Linoleic Acid,Skin-barrier lipid / emollient,1,1,,0,0,,0,38
+persea gratissima oil,Persea Gratissima Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,29
+sucrose,Sucrose,Humectant / emollient,0,1,,0,0,,0,37
+ricinus communis (castor) oil,Ricinus Communis (Castor) Oil,Emollient / occlusive,0,1,,0,0,,0,2
+polysorbate 80,Polysorbate 80,Emulsifier / surfactant / solubilizer,0,1,,0,0,,0,77
+myristic acid,Myristic Acid,Surfactant/cleansing agent,0,1,,0,0,,0,78
+lauric acid,Lauric Acid,Cleansing/surfactant & emollient fatty acid,0,1,,0,0,,0,71
+simmondsia chinensis (jojoba) oil,Simmondsia Chinensis (Jojoba) Oil,Emollient / moisturizer,0,1,,0,0,,0,5
+cetearyl olivate,Cetearyl Olivate,Emulsifier / emollient,0,1,,0,0,,0,120
+oenothera biennis oil,Oenothera Biennis Oil,Emollient / skin-conditioning oil,1,1,,0,0,,0,6
+ethylhexyl palmitate,Ethylhexyl Palmitate,Emollient / skin-conditioning agent,0,1,,0,0,,0,61
+melaleuca alternifolia leaf oil,Melaleuca Alternifolia Leaf Oil,Antimicrobial/antiseptic,1,1,,0,0,,0,44
+arbutin,Arbutin,Skin-brightening agent,1,,,0,0,,1,26
+ricinus communis (castor) seed oil,Ricinus Communis (Castor) Seed Oil,Emollient / occlusive,0,1,,0,0,,0,9
+melaleuca alternifolia oil,Melaleuca Alternifolia Oil,Antimicrobial / anti-inflammatory active,1,1,,0,0,,0,0
+cetostearyl alcohol,Cetostearyl Alcohol,Emollient / emulsifier,0,0,,0,0,fatty,0,54
+almond oil,Almond Oil,Emollient / skin-conditioning oil,0,1,2,0,0,,0,12
+kojic dipalmitate,Kojic Dipalmitate,Skin-brightening agent,1,1,,0,0,,0,12
+behenyl alcohol,Behenyl Alcohol,Emollient / Thickener,0,0,,0,0,fatty,0,125
+kojic acid dipalmitate,Kojic Acid Dipalmitate,Skin-brightening agent,1,1,,0,0,,0,23
+isoamyl laurate,Isoamyl Laurate,Emollient,0,1,,0,0,,0,46
+saccharomyces xylinum black tea ferment,Saccharomyces/Xylinum/Black Tea Ferment,Fermented humectant/conditioning agent,1,1,,0,0,,0,7
+polyglyceryl 3 polyricinoleate,Polyglyceryl-3 Polyricinoleate,Emulsifier,0,1,,0,0,,0,29
+peg 7 glyceryl cocoate,PEG-7 Glyceryl Cocoate,Emollient/surfactant,0,1,,0,0,,0,47
+lactobacillus pear juice ferment filtrate,Lactobacillus/Pear Juice Ferment Filtrate,Skin conditioning / fermented humectant,0,1,,0,0,,0,15
+hexyldecyl laurate,Hexyldecyl Laurate,Emollient/skin-conditioning agent,0,1,,0,0,,0,2
+myristyl myristate,Myristyl Myristate,Emollient / thickener,0,1,5,0,0,,0,24
+alcohol,Alcohol,Solvent / penetration enhancer,0,,,0,0,drying,0,64
+petrolatum,Petrolatum,Occlusive emollient/moisturizer,0,0,1,0,0,,0,31
+paraffinum liquidum,Paraffinum Liquidum,Emollient/occlusive,0,0,2,0,0,,0,84
+glycerol stearate,Glycerol Stearate,Emulsifier/emollient,0,1,,0,0,,0,3
+boswellia carterii oil,Boswellia Carterii Oil,Soothing/fragrance (anti-inflammatory aromatic oil),0,1,,0,0,,0,4
+virgin coconut oil,Virgin Coconut Oil,Emollient/occlusive,0,1,,0,0,,0,1
+mentha piperita (peppermint) oil,Mentha Piperita (Peppermint) Oil,Fragrance/refreshing agent,0,1,,0,0,,0,7
+lavandula angustifolia (lavender) oil,Lavandula Angustifolia (Lavender) Oil,Fragrance/essential oil,0,1,,0,0,,0,22
+olea europaea (olive) oil,Olea Europaea (Olive) Oil,Emollient / occlusive,0,1,,0,0,,0,12
+punica granatum (pomegranate) oil,Punica Granatum (Pomegranate) Oil,Emollient / antioxidant,1,1,,0,0,,0,0
+glycol distearate,Glycol Distearate,"Opacifier/pearlescent agent, emollient",0,1,,0,0,,0,60
+arachidyl alcohol,Arachidyl Alcohol,Emollient / emulsion stabilizer,0,0,,0,0,fatty,0,46
+pentaerythrityl distearate,Pentaerythrityl Distearate,Emollient / thickener,0,1,,0,0,,0,37
+glyceryl glucoside,Glyceryl Glucoside,Humectant / moisturizer,1,1,,0,0,,0,102
+moringa oleifera seed oil,Moringa Oleifera Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,18
+mineral oil,Mineral Oil,Occlusive emollient,0,0,2,0,0,,0,15
+hippophae rhamnoides fruit oil,Hippophae Rhamnoides Fruit Oil,Emollient/antioxidant,1,1,,0,0,,0,6
+sorbitan stearate,Sorbitan Stearate,Emulsifier / surfactant,0,1,,0,0,,0,44
+sucrose cocoate,Sucrose Cocoate,Emollient/surfactant,0,1,,0,0,,0,20
+cetyl pg hydroxyethyl palmitate,Cetyl-PG Hydroxyethyl Palmitate,Emollient/co-emulsifier,0,1,,0,0,,0,7
+rosa rubiginosa seed oil,Rosa Rubiginosa Seed Oil,Emollient / antioxidant oil,1,1,,0,0,,0,4
+persea gratissima (avocado) oil,Persea Gratissima (Avocado) Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,28
+parfum,Parfum,Fragrance,0,,,1,0,,0,402
+melaleuca alternafolia leaf oil,Melaleuca Alternafolia Leaf Oil,Antimicrobial/antiseptic,1,1,,0,0,,0,2
+glycol stearate,Glycol Stearate,Emollient / opacifying agent,0,1,,0,0,,0,12
+rosa rubiginosa (rosehip) seed oil,Rosa Rubiginosa (Rosehip) Seed Oil,Emollient / antioxidant oil,1,1,,0,0,,0,4
+carthamus tinctorius (safflower) oil,Carthamus Tinctorius (Safflower) Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+vitis vinifera (grape) seed oil,Vitis Vinifera (Grape) Seed Oil,Emollient / antioxidant oil,0,1,,0,0,,0,19
+propylene glycol dicaprylate dicaprate,Propylene Glycol Dicaprylate/Dicaprate,Emollient/skin-conditioning agent,0,1,,0,0,,0,19
+limnanthes alba seed oil,Limnanthes Alba Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,11
+prunus armeniaca kernel oil,Prunus Armeniaca Kernel Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,18
+rosa rugosa flower oil,Rosa Rugosa Flower Oil,Fragrance/skin conditioning oil,0,1,,0,0,,0,2
+magnesium oil,Magnesium Oil,Mineral / transdermal magnesium source,1,1,,0,0,,0,0
+chamomile oil,Chamomile Oil,Soothing/anti-inflammatory botanical,1,1,,0,0,,0,1
+calendula officinalis oil,Calendula Officinalis Oil,Soothing emollient,0,1,,0,0,,0,1
+avena sativa (oat) kernel oil,Avena Sativa (Oat) Kernel Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,0
+rosa canina (rosehip) seed oil,Rosa Canina (Rosehip) Seed Oil,Emollient / antioxidant oil,0,1,,0,0,,0,2
+sclerocarya birrea seed oil,Sclerocarya Birrea Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,6
+boswellia sacra oil,Boswellia Sacra Oil,Soothing/aromatic botanical oil,0,1,,0,0,,0,0
+santalum album oil,Santalum Album Oil,Fragrance/Antimicrobial,0,1,,0,0,,0,6
+extra virgin olive oil,Extra Virgin Olive Oil,Emollient / occlusive,0,1,,0,0,,0,1
+castor oil,Castor Oil,Emollient / occlusive,0,0,1,0,0,,0,4
+sweet almond oil,Sweet Almond Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+cedrus atlantica (cedarwood) oil,Cedrus Atlantica (Cedarwood) Oil,Fragrance/essential oil,0,1,,0,0,,0,0
+ricinus communis oil,Ricinus Communis Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,0
+terminalia ferdinandiana (kakadu plum) oil,Terminalia ferdinandiana (Kakadu Plum) Oil,Antioxidant / emollient,1,1,,0,0,,0,1
+cananga odorata (ylang ylang) oil,Cananga Odorata (Ylang Ylang) Oil,Fragrance/essential oil,0,1,,0,0,,0,0
+olea europaea (olive) fruit oil,Olea Europaea (Olive) Fruit Oil,Emollient / occlusive,0,1,,0,0,,0,41
+calophyllum inophyllum (tamanu) oil,Calophyllum Inophyllum (Tamanu) Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+prunus amygdalus dulcis (almond) oil,Prunus Amygdalus Dulcis (Almond) Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,8
+oleic acid,Oleic Acid,Emollient / penetration enhancer,0,1,,0,0,,0,17
+coffea arabica oil,Coffea Arabica Oil,Antioxidant / emollient,0,1,,0,0,,0,0
+coffea arabica seed oil,Coffea Arabica Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,11
+olive oil methyl ester,Olive Oil Methyl Ester,Emollient / skin-conditioning agent,0,1,,0,0,,0,5
+ethyl olivate,Ethyl Olivate,Emollient / skin-conditioning agent,0,1,,0,0,,0,11
+olive oil,Olive Oil,Emollient / occlusive,0,1,2,0,0,,0,12
+lemon oil,Lemon Oil,Fragrance/antioxidant,0,1,,0,0,,0,2
+marula oil,Marula Oil,Emollient / antioxidant facial oil,0,1,,0,0,,0,3
+hemp oil,Hemp Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+wheat germ oil,Wheat Germ Oil,Emollient / antioxidant,0,1,5,0,0,,0,5
+ester of ethyl olivate & olive oil methyl ester,Ester Of Ethyl Olivate & Olive Oil Methyl Ester,Emollient / skin-conditioning agent,0,1,,0,0,,0,0
+glyceryl,Glyceryl,Emollient/humectant,0,1,,0,0,,0,1
+polyglyceryl 6 laurate,Polyglyceryl-6 Laurate,Emulsifier / surfactant,0,1,,0,0,,0,9
+polyvinyl alcohol,Polyvinyl Alcohol,Film-forming agent / viscosity modifier,0,,,0,0,drying,0,11
+passiflora edulis seed oil,Passiflora Edulis Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,2
+rosa damascena oil,Rosa Damascena Oil,"Fragrance/aromatic, skin-conditioning",0,1,,0,0,,0,1
+oenothera biennis (evening primrose) oil,Oenothera Biennis (Evening Primrose) Oil,Emollient / skin-conditioning oil,1,1,,0,0,,0,11
+curcuma longa (turmeric) oil,Curcuma Longa (Turmeric) Oil,Antioxidant / anti-inflammatory botanical,1,1,,0,0,,0,1
+esters of ethyl olivate and olive oil methyl ester,Esters Of Ethyl Olivate And Olive Oil Methyl Ester,Emollient/skin-conditioning agent,0,1,,0,0,,0,0
+lactobacillus ferment filtrate,Lactobacillus Ferment Filtrate,Probiotic-derived skin conditioning/soothing agent,1,1,,0,0,,0,1
+benzyl alcohol and ethylhexylglycerin and tocopherol,Benzyl Alcohol And Ethylhexylglycerin And Tocopherol,Preservative/antioxidant blend,0,,,0,0,drying,0,0
+glyceryl polyacrylate,Glyceryl Polyacrylate,Hydrating film-former / thickener,0,1,,0,0,,0,16
+polyglyceryl 2 dipolyhydroxystearate,Polyglyceryl-2 Dipolyhydroxystearate,Emulsifier,0,1,,0,0,,0,8
+helianthus annuus (sunflower) seed oil,Helianthus Annuus (Sunflower) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,114
+hydrogenated soybean oil,Hydrogenated Soybean Oil,Emollient / Skin conditioning agent,0,1,,0,0,,0,2
+peg 20 glyceryl triisostearate,PEG-20 Glyceryl Triisostearate,Emulsifier / surfactant,0,1,,0,0,,0,5
+jojoba oil,Jojoba Oil,Emollient / moisturizer,0,1,2,0,0,,0,11
+argania spinosa (argan) kernel oil,Argania Spinosa (Argan) Kernel Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,10
+macadamia seed oil esters,Macadamia Seed Oil Esters,Emollient,0,1,,0,0,,0,1
+cetyl palmitate,Cetyl Palmitate,Emollient / Thickener,0,1,,0,0,,0,24
+polyglyceryl 3 caprate,Polyglyceryl-3 Caprate,Emulsifier / surfactant,0,1,,0,0,,0,6
+lauryl laurate,Lauryl Laurate,Emollient / texture enhancer,0,1,,0,0,,0,2
+saccharomyces ferment lysate filtrate,Saccharomyces Ferment Lysate Filtrate,Conditioning/antioxidant active,1,1,,0,0,,0,9
+melia azadirachta leaf oil,Melia Azadirachta Leaf Oil,Antimicrobial/Botanical extract,1,1,,0,0,,0,1
+calophyllum inophyllum seed oil,Calophyllum Inophyllum Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,6
+eucalyptus globulus leaf oil,Eucalyptus Globulus Leaf Oil,"Fragrance/essential oil (aromatic, antimicrobial)",0,1,,0,0,,0,11
+stearyl alcohol,Stearyl Alcohol,Emollient/emulsifier,0,0,,0,0,fatty,0,72
+camellia oleifera seed oil,Camellia Oleifera Seed Oil,Emollient / antioxidant oil,0,1,,0,0,,0,3
+zingiber officinale root oil,Zingiber Officinale Root Oil,Fragrance/antioxidant,0,1,,0,0,,0,5
+citrus aurantium bergamia fruit oil,Citrus Aurantium Bergamia Fruit Oil,Fragrance / essential oil,0,1,,0,0,,0,4
+cococaprylate caprate,CocoCaprylate/Caprate,Emollient,0,1,,0,0,,0,1
+dicaprylate dicaprate,Dicaprylate/Dicaprate,Emollient/skin-conditioning agent,0,1,,0,0,,0,5
+isostearic acid,Isostearic Acid,Emollient/emulsifier,0,1,,0,0,,0,32
+helianthus annuus (sunflower) oil,Helianthus Annuus (Sunflower) Oil,Emollient/Occlusive,0,1,,0,0,,0,3
+polysorbate 40,Polysorbate 40,Emulsifier / surfactant,0,1,,0,0,,0,4
+zinc ricinoleate,Zinc Ricinoleate,Odor absorber / deodorizing agent,0,1,,0,0,,0,2
+elettaria cardamomum seed oil,Elettaria Cardamomum Seed Oil,"Fragrance/aromatic, antioxidant",0,1,,0,0,,0,2
+hydrogenated castor oil,Hydrogenated Castor Oil,Emollient / emulsifier,0,1,,0,0,,0,15
+ascorbyl tetraisopalmitate,Ascorbyl Tetraisopalmitate,Antioxidant / Vitamin C derivative,1,1,,0,0,,0,35
+cucumis sativus (cucumber) seed oil,Cucumis Sativus (Cucumber) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,0
+olea europaea oil unsaponifiables,Olea Europaea Oil Unsaponifiables,Emollient / skin-conditioning agent,0,1,,0,0,,0,3
+euterpe oleracea fruit oil,Euterpe oleracea fruit oil,Emollient / antioxidant,0,1,,0,0,,0,1
+ferment extracts,Ferment Extracts,Conditioning/soothing active,1,1,,0,0,,0,1
+magnesium stearate,Magnesium Stearate,Anti-caking agent / emulsion stabilizer / lubricant,0,1,,0,0,,0,7
+bis diglyceryl polyacyladipate 2,Bis-Diglyceryl Polyacyladipate-2,Emollient/occlusive,0,1,,0,0,,0,11
+rice ferment filtrate,Rice Ferment Filtrate,Humectant / antioxidant,1,1,,0,0,,0,18
+rice ferment,Rice Ferment,Humectant/skin-conditioning,0,1,,0,0,,0,0
+daucus carota sativa (carrot) seed oil,Daucus Carota Sativa (Carrot) Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,12
+grapefruit seed oil,Grapefruit Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,0
+euterpe oleracea oil,Euterpe Oleracea Oil,Emollient / antioxidant,0,1,,0,0,,0,0
+triticum vulgare (wheat germ) oil,Triticum Vulgare (Wheat Germ) Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+calendula oil,Calendula Oil,Soothing emollient / anti-inflammatory botanical oil,0,1,,0,0,,0,0
+acai oil,Acai Oil,Emollient/antioxidant,0,1,,0,0,,0,0
+sea buckthorn oil,Sea Buckthorn Oil,Emollient / antioxidant,1,1,,0,0,,0,2
+pro retinol,Pro Retinol,Anti-aging retinoid (vitamin A derivative),1,,,0,0,,1,0
+passiflora edulis (passion fruit) oil,Passiflora Edulis (Passion Fruit) Oil,Emollient / antioxidant oil,0,1,,0,0,,0,0
+triticum vulgare (wheat) germ oil,Triticum Vulgare (Wheat) Germ Oil,Emollient / antioxidant,0,1,,0,0,,0,3
+aspergillus ferment,Aspergillus Ferment,Fermented extract / skin conditioning,1,1,,0,0,,0,5
+calendula officinalis flower oil,Calendula Officinalis Flower Oil,Soothing/emollient botanical oil,0,1,,0,0,,0,2
+isopropyl alcohol,Isopropyl Alcohol,Solvent/antimicrobial,0,,,0,0,drying,0,18
+brassica campestris aleurites fordii oil copolymer,Brassica Campestris/Aleurites Fordii Oil Copolymer,Film former / emollient,0,1,,0,0,,0,1
+prunus amygdalus dulcis (sweet almond) oil,Prunus Amygdalus Dulcis (Sweet Almond) Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,22
+ricinus communis seed (castor) oil,Ricinus Communis Seed (Castor) Oil,Emollient / occlusive,0,1,,0,0,,0,0
+pelargonium graveolens (geranium) flower oil,Pelargonium Graveolens (Geranium) Flower Oil,Fragrance / botanical essential oil,0,1,,0,0,,0,2
+vanilla planifolia (vanilla) fruit oil,Vanilla Planifolia (Vanilla) Fruit Oil,Fragrance/antioxidant,0,1,,0,0,,0,1
+rosa damascena (rose) flower oil,Rosa Damascena (Rose) Flower Oil,Fragrance/skin-conditioning,0,1,,0,0,,0,3
+moringa oleifera oil,Moringa Oleifera Oil,Emollient / antioxidant,0,1,,0,0,,0,2
+corylus avellana seed oil,Corylus Avellana Seed Oil,Emollient,0,1,,0,0,,0,1
+punica granatum (pomegranate) seed oil,Punica Granatum (Pomegranate) Seed Oil,Emollient / antioxidant oil,1,1,,0,0,,0,8
+boswellia carterii (frankincense) oil,Boswellia Carterii (Frankincense) Oil,Astringent / fragrance,0,1,,0,0,,0,3
+crocus sativus (saffron) oil,Crocus Sativus (Saffron) Oil,Antioxidant/skin-conditioning agent,1,1,,0,0,,0,7
+simmondsia chinensis oil,Simmondsia Chinensis Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,3
+daucus carota sativa seed oil,Daucus Carota Sativa Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,14
+azadirachta indica (neem) oil,Azadirachta Indica (Neem) Oil,Emollient / antimicrobial,1,1,,0,0,,0,0
+juniperus communis (juniper berry) oil,Juniperus Communis (Juniper Berry) Oil,Astringent/antimicrobial essential oil,0,1,,0,0,,0,0
+rosa damascena flower oil,Rosa Damascena Flower Oil,Fragrance/Aromatic,0,1,,0,0,,0,24
+santalum album (sandalwood) oil,Santalum Album (Sandalwood) Oil,Fragrance/antioxidant,0,1,,0,0,,0,7
+rosa canina (rosehip) fruit oil,Rosa Canina (Rosehip) Fruit Oil,Emollient / antioxidant-rich oil,1,1,,0,0,,0,5
+glyceryl oleate,Glyceryl Oleate,Emollient / emulsifier,0,1,,0,0,,0,58
+lavandula angustifolia oil,Lavandula Angustifolia Oil,Fragrance / botanical extract,0,1,,0,0,,0,19
+olive oil peg 7 esters,Olive Oil PEG-7 Esters,Emollient/emulsifier,0,1,,0,0,,0,54
+citrus aurantium dulcis oil,Citrus Aurantium Dulcis Oil,Fragrance/essential oil,0,1,,0,0,,0,7
+pelargonium graveolens flower oil,Pelargonium Graveolens Flower Oil,Fragrance/aromatic oil,0,1,,0,0,,0,27
+citrus paradisi peel oil,Citrus Paradisi Peel Oil,Fragrance/masking agent,0,1,,0,0,,0,2
+cannabis sativa seed oil,Cannabis Sativa Seed Oil,Emollient / skin-conditioning oil,0,1,0,0,0,,0,15
+rosa canina oil,Rosa Canina Oil,Emollient / antioxidant oil,0,1,,0,0,,0,3
+peg 120 methyl glucose dioleate,PEG-120 Methyl Glucose Dioleate,Thickener/emulsifier,0,1,,0,0,,0,47
+lactobacillus ferment extract,Lactobacillus Ferment Extract,Probiotic-derived skin conditioning agent,1,1,,0,0,,0,3
+soybean ferment extract,Soybean Ferment Extract,Antioxidant / brightening,1,1,,0,0,,0,0
+prunus dulcis oil,Prunus Dulcis Oil,Emollient,0,1,,0,0,,0,2
+pelargonium graveolens oil,Pelargonium Graveolens Oil,Fragrance/Essential oil,0,1,,0,0,,0,10
+pelargonium graveolens (geranium) oil,Pelargonium Graveolens (Geranium) Oil,Fragrance/essential oil,0,1,,0,0,,0,3
+hydrogenated vegetable oil,Hydrogenated Vegetable Oil,Emollient/occlusive,0,1,,0,0,,0,16
+vitis vinifera seed oil,Vitis Vinifera Seed Oil,Emollient / antioxidant,0,1,1,0,0,,0,21
+carthamus tinctorius seed oil,Carthamus Tinctorius Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,11
+citrus aurantium dulcis peel oil,Citrus Aurantium Dulcis Peel Oil,Fragrance/flavoring agent,0,1,,0,0,,0,22
+glyceryl stearate se,Glyceryl Stearate SE,Emulsifier / emollient,0,1,,0,0,,0,35
+polyglyceryl 4 isostearate,Polyglyceryl-4 Isostearate,Emulsifier,0,1,,0,0,,0,8
+citrus aurantium dulcis (orange) peel oil,Citrus Aurantium Dulcis (Orange) Peel Oil,Fragrance/essential oil,0,1,,0,0,,0,20
+ethylhexyl olivate,Ethylhexyl Olivate,Emollient,0,1,,0,0,,0,24
+citrus limon peel oil,Citrus Limon Peel Oil,Fragrance/skin conditioning,0,1,,0,0,,0,16
+cannabis sativa (hemp) seed oil,Cannabis Sativa (Hemp) Seed Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,5
+peg 60 hydrogenated castor oil,PEG-60 Hydrogenated Castor Oil,Solubilizer/emulsifier,0,1,,0,0,,0,23
+glyceryl caprylate,Glyceryl Caprylate,Emollient / antimicrobial co-preservative,0,1,,0,0,,0,68
+zinc stearate,Zinc Stearate,Anticaking/opacifying agent,0,1,,0,0,,0,5
+dimethiconol stearate,Dimethiconol Stearate,Emollient / conditioning agent,0,1,,0,0,,0,0
+octyldodecyl stearoyl stearate,Octyldodecyl Stearoyl Stearate,Emollient/skin-conditioning agent,0,1,,0,0,,0,7
+pentaerythrityl tetraisostearate,Pentaerythrityl Tetraisostearate,Emollient/skin-conditioning agent,0,1,,0,0,,0,15
+magnesium myristate,Magnesium Myristate,Anticaking agent / opacifying agent,0,1,,0,0,,0,1
+salvia officinalis oil,Salvia Officinalis Oil,Antioxidant/fragrance,0,1,,0,0,,0,2
+rosa canina fruit oil,Rosa Canina Fruit Oil,Emollient / antioxidant,0,1,,0,0,,0,10
+phenethyl alcohol,Phenethyl Alcohol,Preservative / fragrance,0,,,0,0,drying,0,35
+denatured alcohol,Denatured alcohol,Solvent / astringent,0,,,0,0,drying,0,5
+salvia sclarea oil,Salvia Sclarea Oil,Fragrance/essential oil,0,1,,0,0,,0,5
+olus oil,Olus Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,4
+nigella sativa seed oil,Nigella Sativa Seed Oil,Emollient / antioxidant,1,1,,0,0,,0,3
+glyceryl acrylate acrylic acid copolymer,Glyceryl Acrylate/Acrylic Acid Copolymer,Film-former / humectant,0,1,,0,0,,0,38
+salvia sclarea (clary sage) oil,Salvia Sclarea (Clary Sage) Oil,Fragrance / aromatic essential oil,0,1,,0,0,,0,1
+capryloyl salicylic acid,Capryloyl Salicylic Acid,Exfoliant / keratolytic,1,,,0,0,,1,25
+cymbopogon citratus leaf stem oil,Cymbopogon Citratus Leaf/Stem Oil,Fragrance/antimicrobial,0,1,,0,0,,0,1
+citrus bergamia fruit oil,Citrus Bergamia Fruit Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+ocimum basilicum oil,Ocimum Basilicum Oil,Fragrance/antimicrobial,0,1,,0,0,,0,3
+daucus carota (carrot seed) oil,Daucus Carota (Carrot Seed) Oil,Antioxidant / emollient,1,1,,0,0,,0,2
+piper nigrum fruit oil,Piper Nigrum Fruit Oil,Fragrance/warming agent,0,1,,0,0,,0,1
+polyglyceryl 4 olivate,Polyglyceryl-4 Olivate,Emulsifier/surfactant,0,1,,0,0,,0,13
+citronellol,Citronellol,Fragrance ingredient,0,,,1,1,,0,160
+geraniol,Geraniol,Fragrance/aroma compound,0,,,1,1,,0,165
+linalool,Linalool,Fragrance/masking agent,0,,,1,1,,0,261
+eugenol,Eugenol,Fragrance/flavoring agent,0,,,1,1,,0,37
+limonene,Limonene,Fragrance/solvent,0,,,1,1,,0,245
+potassium cocoate,Potassium Cocoate,Surfactant/cleansing agent,0,1,,0,0,,0,14
+cananga odorata oil,Cananga Odorata Oil,Fragrance/essential oil,0,1,,0,0,,0,0
+boswellia carteri oil,Boswellia Carteri Oil,Anti-inflammatory / fragrance,0,1,,0,0,,0,0
+rosmarinus officinalis oil,Rosmarinus Officinalis Oil,Antioxidant / fragrance,0,1,,0,0,,0,0
+camellia sinensis leaf oil,Camellia Sinensis Leaf Oil,Antioxidant / emollient,1,1,,0,0,,0,1
+cetyl stearyl alcohol,Cetyl Stearyl Alcohol,Emollient / emulsifier,0,0,,0,0,fatty,0,1
+glyceryl behenate,Glyceryl Behenate,Emollient/Co-emulsifier,0,1,,0,0,,0,14
+citrus medica limonum (lemon) oil,Citrus Medica Limonum (Lemon) Oil,Fragrance / astringent,0,1,,0,0,,0,2
+hydrogenated jojoba oil,Hydrogenated Jojoba Oil,Emollient / thickener,0,1,,0,0,,0,3
+vanilla planifolia fruit oil,Vanilla Planifolia Fruit Oil,Fragrance/skin-conditioning,0,1,,0,0,,0,4
+amygdalus dulcis (sweet almond) oil,Amygdalus Dulcis (Sweet Almond) Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+leptospermum scoparium branch leaf oil,Leptospermum Scoparium Branch/Leaf Oil,Antimicrobial/fragrance,0,1,,0,0,,0,8
+taraktogenos kurzii seed oil,Taraktogenos Kurzii Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+citrus paradisi seed oil,Citrus Paradisi Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+citrus sinensis oil,Citrus Sinensis Oil,Fragrance/skin-conditioning,0,1,,0,0,,0,2
+citrus medica limonum oil,Citrus Medica Limonum Oil,Fragrance/essential oil,0,1,,0,0,,0,4
+peg 150 pentaerythrityl tetrastearate,PEG-150 Pentaerythrityl Tetrastearate,Thickener / emulsifier,0,1,,0,0,,0,23
+lactobacillus ferment,Lactobacillus Ferment,Probiotic-derived skin conditioning/soothing agent,1,1,,0,0,,0,36
+saccharomyces cerevisiae extract,Saccharomyces Cerevisiae Extract,Skin-conditioning / antioxidant,1,1,,0,0,,0,11
+bakuchiol oil,Bakuchiol Oil,Retinol alternative / antioxidant,1,1,,0,0,,0,0
+rosmarinus officinalis leaf oil,Rosmarinus Officinalis Leaf Oil,Antioxidant / fragrance / antimicrobial,0,1,,0,0,,0,12
+bifida ferment lysate,Bifida Ferment Lysate,Probiotic-derived skin conditioning agent,1,1,,0,0,,0,20
+gossypium herbaceum seed oil,Gossypium Herbaceum Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,11
+linum usitatissimum seed oil,Linum Usitatissimum Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,10
+psoralea corylifolia seed oil,Psoralea Corylifolia Seed Oil,Antioxidant/skin-conditioning botanical (bakuchiol source),1,1,,0,0,,0,7
+moringa oleifera (moringa) seed oil,Moringa Oleifera (Moringa) Seed Oil,Emollient / antioxidant oil,0,1,,0,0,,0,2
+rosmarinus officinalis (rosemary) leaf oil,Rosmarinus Officinalis (Rosemary) Leaf Oil,Antioxidant/fragrance,0,1,,0,0,,0,18
+gossypium herbaceum (cotton) seed oil,Gossypium Herbaceum (Cotton) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,7
+linum usitatissimum (linseed) seed oil,Linum Usitatissimum (Linseed) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,8
+citrus paradisi (grapefruit) peel oil,Citrus Paradisi (Grapefruit) Peel Oil,Fragrance/masking agent,0,1,,0,0,,0,3
+psoralea corylifolia (bakuchiol) seed oil,Psoralea Corylifolia (Bakuchiol) Seed Oil,Antioxidant / retinol-alternative active,1,1,,0,0,,0,1
+prunus armeniaca (apricot) kernel oil,Prunus Armeniaca (Apricot) Kernel Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,11
+melia azadirachta seed oil,Melia Azadirachta Seed Oil,Emollient / antimicrobial,1,1,,0,0,,0,2
+jasminum sambac (jasmine) oil,Jasminum Sambac (Jasmine) Oil,Fragrance / aromatic agent,0,1,,0,0,,0,1
+santalum spicatum (sandalwood) oil,Santalum Spicatum (Sandalwood) Oil,Fragrance/antioxidant,0,1,,0,0,,0,1
+cananga odorata flower oil,Cananga Odorata Flower Oil,Fragrance/aromatic oil,0,1,,0,0,,0,12
+rosa canina (rosehip) oil,Rosa Canina (Rosehip) Oil,Emollient / antioxidant oil,1,1,,0,0,,0,1
+carthamus tinctorius (safflower) seed oil,Carthamus Tinctorius (Safflower) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,16
+jasminum officinale flower oil,Jasminum Officinale Flower Oil,Fragrance/perfuming agent,0,1,,0,0,,0,1
+citrus aurantium (neroli) oil,Citrus Aurantium (Neroli) Oil,Fragrance/aromatic,0,1,,0,0,,0,1
+boswellia carteri (frankincense) oil,Boswellia Carteri (Frankincense) Oil,Soothing/fragrance botanical oil,0,1,,0,0,,0,1
+helichrysum italicum (immortelle) flower oil,Helichrysum Italicum (Immortelle) Flower Oil,Antioxidant / soothing botanical oil,1,1,,0,0,,0,1
+citrus limonium (lemon) oil,Citrus Limonium (Lemon) Oil,Fragrance/astringent,0,1,,0,0,,0,1
+coconut oil,Coconut Oil,Emollient/occlusive moisturizer,0,1,4,0,0,,0,10
+castor seed oil,Castor Seed Oil,Emollient / occlusive,0,1,,0,0,,0,0
+red raspberry oil,Red Raspberry Oil,Emollient / antioxidant,0,1,,0,0,,0,0
+avocado oil,Avocado Oil,Emollient / moisturizer,0,1,,0,0,,0,5
+zea mays oil,Zea Mays Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,3
+lanolin,Lanolin,Emollient/occlusive moisturizer,0,,4,0,0,,0,3
+macadamia integrifolia seed oil,Macadamia Integrifolia Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,17
+sodium lauryl sulfate,Sodium Lauryl Sulfate,Surfactant / cleansing agent,0,,5,0,0,,0,17
+spearmint essential oil,Spearmint Essential Oil,Fragrance/aromatic agent,0,1,,1,0,,0,1
+phenylethyl alcohol,Phenylethyl Alcohol,Preservative/fragrance,0,,,0,0,drying,0,1
+helianthus annuus oil,Helianthus annuus oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+arachis hypogaea oil,Arachis Hypogaea Oil,Emollient/Skin-conditioning oil,0,1,,0,0,,0,3
+glyceryl monostearate se,Glyceryl Monostearate Se,Emulsifier/emollient,0,1,,0,0,,0,2
+nelumbo nucifera flower essential oil,Nelumbo Nucifera Flower Essential Oil,Fragrance/aromatic,0,1,,1,0,,0,1
+oenocarpus bataua fruit oil,Oenocarpus Bataua Fruit Oil,Emollient / antioxidant-rich plant oil,0,1,,0,0,,0,0
+jojoba seed oil,Jojoba Seed Oil,Emollient / occlusive,0,1,,0,0,,0,0
+glyceryl behenate eicosadioate,Glyceryl Behenate/Eicosadioate,Emollient/emulsifier,0,1,,0,0,,0,1
+babchi oil,Babchi Oil,Natural retinol alternative / antioxidant,1,1,,0,0,,0,0
+glyceryl rosinate,Glyceryl Rosinate,Film former / binder,0,1,,0,0,,0,0
+dimer dilinoleyl esters dimer dilinoleate copolymer,Dimer Dilinoleyl Esters Dimer Dilinoleate Copolymer,Emollient / film-forming agent,0,1,,0,0,,0,0
+polyglyceryl 2 triisostearate,Polyglyceryl-2 Triisostearate,Emulsifier / emollient,0,1,,0,0,,0,3
+vaccinium macrocarpon seed oil,Vaccinium Macrocarpon Seed Oil,Emollient/antioxidant oil,0,1,,0,0,,0,4
+vanilla planifolia fruit essential oil,Vanilla Planifolia Fruit Essential Oil,Fragrance/antioxidant,0,1,,1,0,,0,0
+lavandula angustifolia (lavender) flower oil,Lavandula Angustifolia (Lavender) Flower Oil,Fragrance/perfuming agent,0,1,,0,0,,0,1
+farnesol,Farnesol,Fragrance ingredient / antimicrobial,0,,,1,1,,0,33
+polyglyceryl 10 eicosanedioate tetradecanedioate,Polyglyceryl 10 Eicosanedioate Tetradecanedioate,Emulsifier/surfactant,0,1,,0,0,,0,0
+citral,Citral,Fragrance/aroma ingredient,0,,,1,1,,0,84
+anise alcohol,Anise Alcohol,Fragrance/masking ingredient,0,,,0,0,drying,0,5
+benzyl benzoate,Benzyl Benzoate,Fragrance/Preservative/Solvent,0,,,1,1,,0,65
+glycerol mono stearate,Glycerol mono stearate,Emulsifier / emollient,0,1,,0,0,,0,2
+prunus dulcis (almond) oil,Prunus Dulcis (Almond) Oil,Emollient / skin conditioning oil,0,1,,0,0,,0,1
+peg 150 distearate,PEG-150 Distearate,Thickener/emulsifier,0,1,,0,0,,0,21
+c14 22 alcohol,C14-22 Alcohol,Emulsifier / co-emulsifier,0,,,0,0,drying,0,1
+polyglyceryl 4,Polyglyceryl 4,Emulsifier/surfactant,0,1,,0,0,,0,0
+sorbitan sesquioleate,Sorbitan Sesquioleate,Emulsifier / surfactant,0,1,,0,0,,0,13
+oleyl alcohol,Oleyl Alcohol,Emollient / co-emulsifier,0,,,0,0,drying,0,3
+lactobacillus ferment lysate,Lactobacillus Ferment Lysate,Probiotic-derived skin conditioning agent,1,1,,0,0,,0,23
+glyceryl laurate,Glyceryl Laurate,Emulsifier / emollient / antimicrobial,0,1,,0,0,,0,20
+benzyl salicylate,Benzyl Salicylate,Fragrance/UV-absorber,0,,,1,1,,0,81
+cinnamic alcohol,Cinnamic Alcohol,Fragrance ingredient,0,,,0,0,drying,0,8
+polyglyceryl 2 stearate,Polyglyceryl-2 Stearate,Emulsifier,0,1,,0,0,,0,21
+kunkumadi oil,Kunkumadi Oil,Brightening/complexion oil,1,1,,0,0,,0,6
+crocus sativus oil,Crocus Sativus Oil,Antioxidant/skin-conditioning,1,1,,0,0,,0,5
+coumarin,Coumarin,Fragrance ingredient,0,,,1,1,,0,35
+isoeugenol,Isoeugenol,Fragrance ingredient,0,,,1,1,,0,7
+prunus armeniaca (apricot) peel oil,Prunus Armeniaca (Apricot) Peel Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,4
+triticum vulgare germ oil,Triticum Vulgare Germ Oil,Emollient / antioxidant,0,1,,0,0,,0,28
+prunus armeniaca peel oil,Prunus Armeniaca Peel Oil,Emollient/Skin-conditioning oil,0,1,,0,0,,0,2
+argania spinosa (argan) oil,Argania Spinosa (Argan) Oil,Emollient / moisturizing oil,0,1,,0,0,,0,1
+polyglyceryl 6 caprylate,Polyglyceryl-6 Caprylate,Emulsifier / surfactant,0,1,,0,0,,0,11
+polyglyceryl 4 caprate,Polyglyceryl-4 Caprate,Emulsifier / surfactant,0,1,,0,0,,0,13
+cananga odorata macrophylla flower oil,Cananga Odorata Macrophylla Flower Oil,Fragrance/aromatic essential oil,0,1,,0,0,,0,1
+sesamum indicum (sesame) seed oil,Sesamum Indicum (Sesame) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,15
+vitis vinifera (grapeseed) oil,Vitis Vinifera (Grapeseed) Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,5
+glycerol monostearate,Glycerol Monostearate,Emulsifier / emollient,0,1,,0,0,,0,4
+argan oil,Argan Oil,Emollient / moisturizer,0,1,1,0,0,,0,6
+citronella oil,Citronella Oil,Fragrance/antimicrobial,0,1,,0,0,,0,1
+yellow turmeric oil,Yellow Turmeric Oil,Antioxidant/brightening active,1,1,,0,0,,0,1
+evening primrose oil,Evening Primrose Oil,Emollient / skin-conditioning oil,1,1,,0,0,,0,1
+glyceryl mono stearate,Glyceryl Mono Stearate,Emulsifier / emollient,0,1,,0,0,,0,3
+phenoxy ethanol,Phenoxy Ethanol,Preservative,0,,,0,0,drying,0,2
+olive oil esters,Olive Oil Esters,Emollient / skin-conditioning agent,0,1,,0,0,,0,0
+melaleuca alternafolia (tea tree) leaf oil,Melaleuca Alternafolia (Tea Tree) Leaf Oil,Antimicrobial/antiseptic,1,1,,0,0,,0,3
+benzyl alcohol (and) ethylhexylglycerin (and) tocopherol,Benzyl Alcohol (And) Ethylhexylglycerin (And) Tocopherol,Preservative blend / antioxidant,0,,,0,0,drying,0,10
+ifra certified allergen free fragrance,Ifra Certified Allergen Free Fragrance,Fragrance/masking agent,0,,,1,0,,0,14
+murraya koenigii leaf oil,Murraya Koenigii Leaf Oil,Antioxidant / fragrance,0,1,,0,0,,0,0
+hibiscus sabdariffa flower oil,Hibiscus Sabdariffa Flower Oil,Emollient / antioxidant,0,1,,0,0,,0,0
+cupressus sempervirens oil,Cupressus Sempervirens Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+adansonia digitata oil,Adansonia Digitata Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,5
+crocus sativus (kumkum) oil,Crocus sativus (Kumkum) Oil,Antioxidant / brightening botanical extract,1,1,,0,0,,0,1
+sesamum indicum seed oil,Sesamum Indicum Seed Oil,Emollient/occlusive,0,1,,0,0,,0,17
+polyglyceryl 2 oleate,Polyglyceryl-2 Oleate,Emulsifier,0,1,,0,0,,0,6
+citrus aurantium amara oil,Citrus Aurantium Amara Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+onosma hispidum oil,Onosma hispidum oil,Hair growth & emollient oil,1,1,,0,0,,0,1
+citrus limonum peel oil,Citrus Limonum Peel Oil,Fragrance/Botanical extract,0,1,,0,0,,0,1
+cedrus deodara (cedarwood) wood oil,Cedrus Deodara (Cedarwood) Wood Oil,Fragrance/aromatic agent,0,1,,0,0,,0,1
+lavandula officinalis (lavender) oil,Lavandula Officinalis (Lavender) Oil,"Fragrance/aromatic, antimicrobial",0,1,,0,0,,0,1
+lavandula officinalis oil,Lavandula Officinalis Oil,Fragrance/essential oil,0,1,,0,0,,0,0
+cedrus deodara wood oil,Cedrus Deodara Wood Oil,Fragrance/Antimicrobial,0,1,,0,0,,0,0
+jasminum oil,Jasminum Oil,Fragrance/aromatic,0,1,,0,0,,0,1
+oryza sativa (rice bran) oil,Oryza Sativa (Rice Bran) Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+calendula silvestre (calendula) flower oil,Calendula Silvestre (Calendula) Flower Oil,Soothing/emollient botanical oil,0,1,,0,0,,0,1
+calendula flower oil,Calendula flower oil,Soothing emollient,0,1,,0,0,,0,1
+glycerol monooleate,Glycerol monooleate,Emollient/emulsifier,0,1,,0,0,,0,2
+citrus aurantium amara flower oil,Citrus Aurantium Amara Flower Oil,Fragrance/aromatic,0,1,,0,0,,0,3
+azadirachta indica seed oil,Azadirachta Indica Seed Oil,Emollient / antimicrobial,1,1,,0,0,,0,2
+curcuma longa root oil,Curcuma Longa Root Oil,Antioxidant / anti-inflammatory,1,1,,0,0,,0,1
+ocimum sanctum oil,Ocimum Sanctum Oil,Antimicrobial/antioxidant botanical oil,1,1,,0,0,,0,1
+cinnamomum zeylanicum bark oil,Cinnamomum Zeylanicum Bark Oil,Fragrance/antimicrobial,0,1,,0,0,,0,3
+coco capryate caprate,Coco Capryate Caprate,Emollient,0,1,,0,0,,0,0
+glyceryl monooleate,Glyceryl Monooleate,Emulsifier / emollient,0,1,,0,0,,0,0
+citrus limonum oil,Citrus limonum oil,Fragrance / antioxidant,0,1,,0,0,,0,1
+citrus grandis seed oil,Citrus Grandis Seed Oil,Emollient/skin-conditioning oil,0,1,,0,0,,0,0
+vitis vinifera oil,Vitis vinifera oil,Emollient/antioxidant,0,1,,0,0,,0,2
+avena sativa kernel oil,Avena Sativa Kernel Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+melaleuca alternifolia (tea tree) leaf oil,Melaleuca Alternifolia (Tea Tree) Leaf Oil,Antimicrobial/antiseptic,1,1,,0,0,,0,18
+juniperus communis fruit oil,Juniperus Communis Fruit Oil,Fragrance/Astringent,0,1,,0,0,,0,1
+vetiveria zizanoides root oil,Vetiveria Zizanoides Root Oil,Fragrance/Aromatic,0,1,,0,0,,0,13
+schinus molle (pink pepper) fruit oil,Schinus Molle (Pink Pepper) Fruit Oil,Fragrance/antioxidant,0,1,,0,0,,0,2
+sodium peg 7 olive oil carboxylate,Sodium PEG-7 Olive Oil Carboxylate,Surfactant/emulsifier (cleansing agent),0,1,,0,0,,0,11
+sucrose distearate,Sucrose Distearate,Emulsifier / surfactant,0,1,,0,0,,0,16
+sclerocarya birrea (marula) seed oil,Sclerocarya Birrea (Marula) Seed Oil,Emollient / antioxidant oil,0,1,,0,0,,0,5
+elaeis guineensis (palm) oil,Elaeis Guineensis (Palm) Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,10
+polyglyceryl 10 oleate,Polyglyceryl-10 Oleate,Emulsifier/surfactant,0,1,,0,0,,0,21
+polyglyceryl 3 ricinoleate,Polyglyceryl-3 Ricinoleate,Emulsifier/surfactant,0,1,,0,0,,0,2
+rubus idaeus seed oil,Rubus Idaeus Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,7
+melaleuca alterniflora oil,Melaleuca Alterniflora Oil,Antimicrobial/antiseptic essential oil,1,1,,0,0,,0,0
+ficus carica seed oil,Ficus Carica Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,0
+ceto stearyl alcohol,Ceto Stearyl Alcohol,Emollient / emulsifier,0,0,,0,0,fatty,0,4
+"myristic acid, glycerin, aqua, potassium hydroxide, propylene glycol, stearic acid, decyl glucoside, lauric acid, glycol distearate, cocamidopropyl betaine, xylitol, glucose, anhydroxylitol, phoenix dactylifera (date palm) extract, kojic acid dipalmitate, niacinamide, sodium pca, glyceryl stearate, phenoxyethanol, polyquaternium 7, titanium dioxide, sodium metabisulfite, butylated hydroxytoluene, vitamin e, pentaerythrityl tetra di t butyl hydroxyhydrocinnamate, disodium edta, glyceryl glucoside, alpha arbutin, purified water, kojic acid, propandiol, curcuma longa (turmeric) root extract, phenoxyethanol","Myristic Acid, Glycerin, Aqua, Potassium Hydroxide, Propylene Glycol, Stearic Acid, Decyl Glucoside, Lauric Acid, Glycol Distearate, Cocamidopropyl Betaine, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera (Date Palm) Extract, Kojic Acid Dipalmitate, Niacinamide, Sodium Pca, Glyceryl Stearate, Phenoxyethanol, Polyquaternium 7, Titanium Dioxide, Sodium Metabisulfite, Butylated Hydroxytoluene, Vitamin E, Pentaerythrityl Tetra Di T Butyl Hydroxyhydrocinnamate, Disodium Edta, Glyceryl Glucoside, Alpha Arbutin, Purified Water, Kojic Acid, Propandiol, Curcuma Longa (Turmeric) Root Extract, Phenoxyethanol",Brightening cleanser/wash blend,1,1,,0,0,,1,0
+alcohol denat,Alcohol Denat,Solvent/penetration enhancer,0,,,0,0,drying,0,77
+pelargonium roseum (rose geranium) leaf oil,Pelargonium Roseum (Rose Geranium) Leaf Oil,Fragrance/essential oil,0,1,,0,0,,0,2
+pelargonium graveolens (rose geranium) flower oil,Pelargonium Graveolens (Rose Geranium) Flower Oil,Fragrance / aromatic essential oil,0,1,,0,0,,0,2
+leptospermum scoparium oil,Leptospermum Scoparium Oil,Antimicrobial / soothing botanical oil,1,1,,0,0,,0,1
+corylus avellana (hazelnut) seed oil,Corylus Avellana (Hazelnut) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,3
+sorbeth 30 tetraoleate,Sorbeth-30 Tetraoleate,Emollient/emulsifier,0,1,,0,0,,0,4
+rosehip oil,Rosehip Oil,Emollient / antioxidant oil,1,1,1,0,0,,0,3
+saccharomyces ferment filtrate,Saccharomyces Ferment Filtrate,Conditioning/soothing ferment extract,1,1,,0,0,,0,6
+saccharomyces ferment,Saccharomyces Ferment,Skin-conditioning / fermentation-derived bioactive,1,1,,0,0,,0,13
+bacillus coagulans ferment,Bacillus Coagulans Ferment,Probiotic-derived ferment / skin-conditioning agent,1,1,,0,0,,0,1
+polyglyceryl 3 methylglucose distearate,Polyglyceryl-3 Methylglucose Distearate,Emulsifier,0,1,,0,0,,0,39
+lignoceryl alcohol,Lignoceryl Alcohol,Emollient / co-emulsifier,0,,,0,0,drying,0,3
+hexyl laurate,Hexyl Laurate,Emollient / skin-conditioning ester,0,1,,0,0,,0,5
+limnanthes alba (meadowfoam) seed oil,Limnanthes Alba (Meadowfoam) Seed Oil,Emollient / occlusive,0,1,,0,0,,0,23
+ethyl alcohol,Ethyl Alcohol,Solvent / Antimicrobial,0,,,0,0,drying,0,8
+phthalate free fragrance,Phthalate Free Fragrance,Fragrance/scent,0,,,1,0,,0,1
+psoraleae corylifolia seed oil,Psoraleae Corylifolia Seed Oil,Bioactive plant extract (antimicrobial/antioxidant),1,1,,0,0,,0,0
+nigella sativa (black seed) oil,Nigella Sativa (Black Seed) Oil,Emollient / antioxidant,1,1,,0,0,,0,0
+cucurbita pepo (pumpkin) seed oil,Cucurbita Pepo (Pumpkin) Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,0
+lavender oil,Lavender Oil,Fragrance / aromatic additive,0,1,,0,0,,0,1
+polyglyceryl 6 pentaoleate,Polyglyceryl 6 Pentaoleate,Emulsifier / emollient,0,1,,0,0,,0,0
+alfa arbutin,Alfa Arbutin,Skin-brightening agent,1,,,0,0,,1,3
+citrus medica peel oil,Citrus Medica Peel Oil,Fragrance / botanical extract,0,1,,0,0,,0,0
+jasminum officinale oil,Jasminum Officinale Oil,Fragrance/Aromatic,0,1,,0,0,,0,2
+vaccinium macrocarpon (cranberry) seed oil,Vaccinium Macrocarpon (Cranberry) Seed Oil,Emollient / antioxidant oil,0,1,,0,0,,0,2
+tanacetum annuum oil,Tanacetum Annuum Oil,Soothing/anti-inflammatory essential oil,1,1,,0,0,,0,1
+lavandula angustifolia flower oil,Lavandula Angustifolia Flower Oil,Fragrance/essential oil,0,1,,0,0,,0,0
+schinus molle fruit oil,Schinus Molle Fruit Oil,Fragrance/skin-conditioning oil,0,1,,0,0,,0,2
+salvia officinalis leaf oil,Salvia Officinalis Leaf Oil,Fragrance/antimicrobial,0,1,,0,0,,0,1
+rosmarinus officinalis (rosemary) oil,Rosmarinus Officinalis (Rosemary) Oil,Antioxidant / fragrance / antimicrobial,0,1,,0,0,,0,0
+melia azadirachta (neem) oil,Melia Azadirachta (Neem) Oil,Antimicrobial/emollient botanical oil,1,1,,0,0,,0,1
+citrus aurantium oil,Citrus Aurantium Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+triticum aestivum germ oil,Triticum Aestivum Germ Oil,Emollient / antioxidant,0,1,,0,0,,0,2
+hippophae rhamnoides (sea buckthorn) fruit oil,Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil,Antioxidant emollient,1,1,,0,0,,0,0
+palmitic acid,Palmitic Acid,Emollient / surfactant,0,1,,0,0,,0,100
+glyceryl stearate citrate,Glyceryl Stearate Citrate,Emulsifier / co-emulsifier,0,1,,0,0,,0,52
+sorbitan laurate,Sorbitan Laurate,Emulsifier / surfactant,0,1,,0,0,,0,22
+glycine soja oil,Glycine Soja Oil,Emollient / antioxidant,0,1,3,0,0,,0,24
+hexyl cinnamal,Hexyl Cinnamal,Fragrance ingredient,0,,,1,1,,0,86
+polyglyceryl 10 laurate,Polyglyceryl-10 Laurate,Emulsifier / surfactant,0,1,,0,0,,0,47
+polyglyceryl 10 stearate,Polyglyceryl-10 Stearate,Emulsifier,0,1,,0,0,,0,29
+methyl glucose sesquistearate,Methyl Glucose Sesquistearate,Emulsifier / emollient,0,1,,0,0,,0,27
+retinal,Retinal,Retinoid (vitamin A derivative),1,,,0,0,,1,12
+citrus aurantium bergamia peel oil,Citrus Aurantium Bergamia Peel Oil,Fragrance/essential oil,0,1,,0,0,,0,7
+polyglyceryl 4 oleate,Polyglyceryl-4 Oleate,Emulsifier / surfactant,0,1,,0,0,,0,10
+leuconostoc radish root ferment filtrate,Leuconostoc/Radish Root Ferment Filtrate,Natural preservative,0,1,,0,0,,0,30
+sorbitan isostearate,Sorbitan Isostearate,Emulsifier / surfactant,0,1,,0,0,,0,62
+essential oil,Essential Oil,Fragrance/botanical additive,0,1,,1,0,,0,7
+sucrose dilaurate,Sucrose Dilaurate,Emulsifier / surfactant,0,1,,0,0,,0,10
+t butyl alcohol,T-Butyl Alcohol,Solvent/denaturant,0,,,0,0,drying,0,15
+alpha isomethyl ionone,Alpha-Isomethyl Ionone,Fragrance ingredient,0,,,1,1,,0,74
+polyglyceryl 3 diisostearate,Polyglyceryl-3 Diisostearate,Emulsifier,0,1,,0,0,,0,12
+citrus aurantium bergamia (bergamot) fruit oil,Citrus Aurantium Bergamia (Bergamot) Fruit Oil,Fragrance/essential oil,0,1,,0,0,,0,16
+citrus limon (lemon) peel oil,Citrus Limon (Lemon) Peel Oil,Fragrance/astringent,0,1,,0,0,,0,10
+polianthes tuberosa flower oil,Polianthes Tuberosa Flower Oil,Fragrance/aromatic,0,1,,0,0,,0,4
+eugenia caryophyllus leaf oil,Eugenia Caryophyllus Leaf Oil,Fragrance/antimicrobial,0,1,,0,0,,0,5
+peg 30 dipolyhydroxystearate,PEG-30 Dipolyhydroxystearate,Emulsifier,0,1,,0,0,,0,13
+isocetyl stearoyl stearate,Isocetyl Stearoyl Stearate,Emollient/skin-conditioning agent,0,1,,0,0,,0,10
+ethylhexyl hydroxystearate,Ethylhexyl Hydroxystearate,Emollient/ester,0,1,,0,0,,0,9
+essential oil blend,Essential Oil Blend,Fragrance/botanical additive,0,1,,1,0,,0,7
+butylphenyl methylpropional,Butylphenyl Methylpropional,Fragrance/synthetic fragrance ingredient,0,,,1,1,,0,25
+bacillus soybean ferment extract,Bacillus/Soybean Ferment Extract,Skin conditioning / moisturizing humectant,1,1,,0,0,,0,11
+sucrose palmitate,Sucrose Palmitate,Emulsifier / Emollient,0,1,,0,0,,0,8
+sorbitan oleate,Sorbitan Oleate,Emulsifier / surfactant,0,1,,0,0,,0,21
+hydrogenated rapeseed oil,Hydrogenated Rapeseed Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,16
+thermus thermophillus ferment,Thermus Thermophillus Ferment,Antioxidant / protective ferment extract,1,1,,0,0,,0,8
+bertholletia excelsa seed oil,Bertholletia Excelsa Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,6
+peg 75 stearate,PEG-75 Stearate,Emulsifier/surfactant,0,1,,0,0,,0,7
+laureth 4,Laureth-4,Surfactant/emulsifier,0,,5,0,0,,0,10
+juniperus mexicana oil,Juniperus Mexicana Oil,Fragrance/essential oil,0,1,,0,0,,0,4
+prunus persica kernel oil,Prunus Persica Kernel Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,8
+ferment extract,Ferment Extract,Conditioning/soothing,1,1,,0,0,,0,4
+pseudoalteromonas ferment extract,Pseudoalteromonas Ferment Extract,Skin-conditioning / hydrating active,1,1,,0,0,,0,5
+bertholletia excelsa (brazil nut) seed oil,Bertholletia Excelsa (Brazil Nut) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,10
+hydrogenated olive oil,Hydrogenated Olive Oil,Emollient/Skin-conditioning agent,0,1,,0,0,,0,5
+ethylene glycol distearate,Ethylene Glycol Distearate,Opacifier/pearlescent agent,0,1,,0,0,,0,10
+butylene glycol cocoate,Butylene Glycol Cocoate,Emollient/skin-conditioning agent,0,1,,0,0,,0,10
+oryza sativa bran oil,Oryza Sativa Bran Oil,Emollient / antioxidant,0,1,,0,0,,0,6
+fragrance (parfum),Fragrance (Parfum),Sensory/masking agent,0,,,1,0,,0,22
+isopropyl palmitate,Isopropyl Palmitate,Emollient / Thickener,0,1,4,0,0,,0,27
+macadamia ternifolia seed oil,Macadamia Ternifolia Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,22
+canola oil,Canola Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,7
+galactomyces ferment filtrate,Galactomyces Ferment Filtrate,Antioxidant / brightening conditioning agent,1,1,,0,0,,0,8
+chamomilla recutita flower oil,Chamomilla Recutita Flower Oil,Soothing/anti-inflammatory botanical extract,1,1,,0,0,,0,3
+myristyl alcohol,Myristyl Alcohol,Emollient/emulsifier,0,0,,0,0,fatty,0,10
+isopropyl isostearate,Isopropyl Isostearate,Emollient / skin-conditioning agent,0,1,,0,0,,0,16
+sucrose laurate,Sucrose Laurate,Emulsifier/surfactant,0,1,,0,0,,0,6
+sodium laurate,Sodium Laurate,Surfactant/cleansing agent,0,1,,0,0,,0,3
+sodium oleate,Sodium Oleate,Surfactant/emulsifier,0,1,,0,0,,0,8
+dipentaerythrityl hexacaprylate hexacaprate,Dipentaerythrityl Hexacaprylate/Hexacaprate,Emollient/Skin-conditioning,0,1,,0,0,,0,6
+brassica campestris seed oil,Brassica Campestris Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+ethylhexyl stearate,Ethylhexyl Stearate,Emollient,0,1,,0,0,,0,15
+elaeis guineensis oil,Elaeis Guineensis Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,9
+peg 40 stearate,PEG-40 Stearate,Emulsifier / surfactant,0,1,,0,0,,0,16
+rubus chamaemorus seed oil,Rubus Chamaemorus Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,3
+sorbityl laurate,Sorbityl Laurate,Emulsifier / surfactant,0,1,,0,0,,0,2
+polyglyceryl 6 behenate,Polyglyceryl-6 Behenate,Emulsifier / surfactant,0,1,,0,0,,0,9
+bis behenyl isostearyl phytosteryl dimer dilinoleyl dimer dilinoleate,Bis Behenyl Isostearyl Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,Emollient / skin-conditioning agent,0,1,,0,0,,0,0
+psoralea corylifolia oil,Psoralea Corylifolia Oil,Antioxidant / active botanical,1,1,,0,0,,0,2
+polyglyceryl 3 polydimethylsiloxyethyl dimethicone,Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone,Emulsifier,0,1,,0,0,,0,9
+citrus aurantium bergamia leaf oil,Citrus Aurantium Bergamia Leaf Oil,Fragrance/aromatic,0,1,,0,0,,0,2
+mangifera indica seed oil,Mangifera Indica Seed Oil,Emollient/moisturizer,0,1,,0,0,,0,3
+glyceryl undecylenate,Glyceryl Undecylenate,Emollient / antimicrobial preservative-booster,0,1,,0,0,,0,7
+citrus medica limonum peel oil,Citrus Medica Limonum Peel Oil,Fragrance/masking agent,0,1,,0,0,,0,2
+glyceryl hydroxystearate,Glyceryl Hydroxystearate,Emollient/emulsifier,0,1,,0,0,,0,7
+cymbopogon martini oil,Cymbopogon Martini Oil,Fragrance/essential oil,0,1,,0,0,,0,6
+peg 35 castor oil,PEG-35 Castor Oil,Surfactant/solubilizer,0,1,,0,0,,0,5
+cymbopogon citratus oil,Cymbopogon Citratus Oil,Fragrance/antimicrobial,0,1,,0,0,,0,2
+ethylene glycol monostearate,Ethylene Glycol Monostearate,"Opacifier/pearlescent agent, emulsifier",0,1,,0,0,,0,3
+lactobacillus pumpkin ferment extract,Lactobacillus/Pumpkin Ferment Extract,Exfoliant / antioxidant,1,1,,0,0,,0,5
+glycine soja (soybean) oil,Glycine Soja (Soybean) Oil,Emollient / antioxidant,0,1,,0,0,,0,35
+algae extract,Algae Extract,"Emollient/conditioning agent (humectant, antioxidant)",0,,5,0,0,,0,9
+streptococcus thermophilus ferment,Streptococcus Thermophilus Ferment,Skin-conditioning / ceramide-boosting ferment,1,1,,0,0,,0,4
+bacillus ferment,Bacillus Ferment,Exfoliant / skin-conditioning enzyme,1,1,,0,0,,0,3
+echium plantagineum seed oil,Echium Plantagineum Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+helianthus annuus seed oil unsaponifiables,Helianthus Annuus Seed Oil Unsaponifiables,Emollient / skin-conditioning agent,0,1,,0,0,,0,2
+butylene glycol dicaprylate dicaprate,Butylene Glycol Dicaprylate/Dicaprate,Emollient/skin-conditioning agent,0,1,,0,0,,0,10
+anthemis nobilis flower oil,Anthemis Nobilis Flower Oil,Soothing / fragrance,0,1,,0,0,,0,14
+hydrogenated coconut oil,Hydrogenated Coconut Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,4
+isostearyl alcohol,Isostearyl Alcohol,Emollient/Co-emulsifier,0,,,0,0,drying,0,4
+aluminum stearate,Aluminum Stearate,Emulsion stabilizer / viscosity-increasing agent,0,1,,0,0,,0,4
+humulus lupulus oil,Humulus Lupulus Oil,Soothing/antimicrobial botanical extract,1,1,,0,0,,0,2
+propylene glycol laurate,Propylene Glycol Laurate,Emollient/emulsifier,0,1,,0,0,,0,3
+oryza sativa (rice) bran oil,Oryza Sativa (Rice) Bran Oil,Emollient / antioxidant,0,1,,0,0,,0,17
+pichia resveratrol ferment extract,PICHIA/RESVERATROL FERMENT EXTRACT,Antioxidant / skin-conditioning,1,1,,0,0,,0,2
+sucrose stearate,Sucrose Stearate,Emulsifier / surfactant,0,1,,0,0,,0,15
+parfum fragrance,Parfum/Fragrance,Fragrance/masking agent,0,,,1,0,,0,50
+sphingomonas ferment extract,Sphingomonas Ferment Extract,Hydrating/conditioning agent,1,1,,0,0,,0,7
+salvia hispanica seed oil,Salvia Hispanica Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,3
+hydroxycitronellal,Hydroxycitronellal,Fragrance ingredient,0,,,1,1,,0,38
+isomerized linoleic acid,Isomerized Linoleic Acid,Skin-conditioning / emollient,0,1,,0,0,,0,3
+ester of ethyl olivate,Ester of Ethyl Olivate,Emollient/skin-conditioning agent,0,1,,0,0,,0,2
+retinyl retinoate,Retinyl Retinoate,Anti-aging retinoid,1,,,0,0,,1,4
+retinaldehyde,Retinaldehyde,Retinoid (vitamin A derivative),1,,,0,0,,1,12
+saccharomyces copper ferment,Saccharomyces/Copper Ferment,Skin-conditioning/trace-mineral delivery,1,1,,0,0,,0,1
+isopropyl titanium triisostearate,Isopropyl Titanium Triisostearate,Surface treatment / coating agent,0,1,,0,0,,0,9
+trigonella foenum graecum seed oil,Trigonella Foenum-Graecum Seed Oil,Emollient / conditioning oil,0,1,,0,0,,0,1
+glyceryl sesquistearate,Glyceryl Sesquistearate,Emulsifier / emollient,0,1,,0,0,,0,3
+borago officinalis seed oil,Borago Officinalis Seed Oil,Emollient / skin-conditioning oil,1,1,,0,0,,0,4
+cetyl ricinoleate,Cetyl Ricinoleate,Emollient/Skin-conditioning agent,0,1,,0,0,,0,5
+hydrogenated ethylhexyl olivate,Hydrogenated Ethylhexyl Olivate,Emollient / skin-conditioning agent,0,1,,0,0,,0,4
+jojoba oil macadamia seed oil esters,Jojoba Oil/Macadamia Seed Oil Esters,Emollient,0,1,,0,0,,0,4
+hydrogenated olive oil unsaponifiables,Hydrogenated Olive Oil Unsaponifiables,Emollient / skin-conditioning agent,0,1,,0,0,,0,9
+cinnamomum camphora (camphor) bark oil,Cinnamomum Camphora (Camphor) Bark Oil,Fragrance/cooling agent,0,1,,0,0,,0,1
+mentha viridis (spearmint) leaf oil,Mentha Viridis (Spearmint) Leaf Oil,Fragrance/flavoring agent,0,1,,0,0,,0,2
+polyglyceryl 4 diisostearate polyhydroxystearate sebacate,Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate,Emulsifier (W/O),0,1,,0,0,,0,7
+methylheptyl isostearate,Methylheptyl Isostearate,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+dextrin palmitate,Dextrin Palmitate,Thickener / texture modifier,0,1,,0,0,,0,5
+citrus aurantium dulcis (orange) oil,Citrus Aurantium Dulcis (Orange) Oil,Fragrance/essential oil,0,1,,0,0,,0,7
+lauryl polyglyceryl 3 polydimethylsiloxyethyl dimethicone,Lauryl Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone,Emulsifier / silicone-based surfactant,0,1,,0,0,,0,5
+denatured ethyl alcohol,Denatured Ethyl Alcohol,Solvent / Astringent,0,,,0,0,drying,0,2
+hydrogenated soy oil,Hydrogenated Soy Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+citrus aurantium dulcis fruit oil,Citrus Aurantium Dulcis Fruit Oil,Fragrance/skin-conditioning oil,0,1,,0,0,,0,1
+oleth 3,Oleth-3,Emulsifier/surfactant,0,,5,0,0,,0,1
+ferment (rice milk) extract,Ferment (Rice Milk) Extract,Brightening/conditioning ferment,1,1,,0,0,,0,1
+white lily essential oil,White Lily Essential Oil,Fragrance/skin-conditioning agent,0,1,,1,0,,0,1
+sodium cocoate,Sodium Cocoate,Surfactant/cleansing agent,0,1,,0,0,,0,4
+lavandula angustifolia essential oil,Lavandula Angustifolia Essential Oil,Fragrance/aromatic agent,0,1,,1,0,,0,1
+melaleuca alternifolia leaf essential oil,Melaleuca Alternifolia Leaf Essential Oil,Antimicrobial / antiseptic active,1,1,,1,0,,0,1
+sodium olivate,Sodium Olivate,Cleansing surfactant / soap,0,1,,0,0,,0,1
+isostearyl hydroxystearate,Isostearyl Hydroxystearate,Emollient/Skin-conditioning ester,0,1,,0,0,,0,3
+olive oil glycereth 8 esters,Olive Oil Glycereth-8 Esters,Emollient / water-dispersible emollient,0,1,,0,0,,0,7
+lauryl olivate,Lauryl Olivate,Emollient/Skin-conditioning agent,0,1,,0,0,,0,1
+ferula galbaniflua resin oil,Ferula Galbaniflua Resin Oil,Fragrance/essential oil,0,1,,0,0,,0,2
+lavandula hybrida oil,Lavandula Hybrida Oil,Fragrance/essential oil,0,1,,0,0,,0,6
+mentha piperita oil water,Mentha Piperita Oil Water,Fragrance/refreshing agent,0,1,,0,0,,0,1
+peg ppg 8 3 diisostearate,PEG/PPG-8/3 Diisostearate,Emulsifier/emollient,0,1,,0,0,,0,3
+rosemary oil,Rosemary Oil,Antioxidant / fragrance,0,1,,0,0,,0,3
+essential oils blend,Essential Oils Blend,Fragrance/botanical additive,0,,,1,0,,0,1
+citrus limon oil,Citrus Limon Oil,Fragrance / antimicrobial,0,1,,0,0,,0,1
+essential oils,essential oils,Fragrance/botanical additive,0,,,1,0,,0,5
+peg 200 hydrogenated glyceryl palmate,PEG-200 Hydrogenated Glyceryl Palmate,Emollient/emulsifier,0,1,,0,0,,0,4
+leptospermum petersonii oil,Leptospermum Petersonii Oil,Fragrance/antimicrobial,0,1,,0,0,,0,4
+polyglyceryl 3 cocoate,Polyglyceryl-3 Cocoate,Emulsifier / surfactant,0,1,,0,0,,0,1
+fusanus spicatus wood oil,Fusanus Spicatus Wood Oil,Fragrance/aromatic oil,0,1,,0,0,,0,1
+cymbopogon citratus leaf oil,Cymbopogon Citratus Leaf Oil,Fragrance/antimicrobial,0,1,,0,0,,0,4
+triticum vulgare (wheatgerm) oil,Triticum Vulgare (Wheatgerm) Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+prunus amygdalus oil,Prunus Amygdalus Oil,Emollient,0,1,,0,0,,0,1
+borage seed oil,Borage Seed Oil,Emollient / GLA-rich skin conditioning oil,1,1,,0,0,,0,1
+cetearyl stearate,Cetearyl Stearate,Emollient/Co-emulsifier,0,1,,0,0,,0,1
+cocos nucifera fruit oil,Cocos Nucifera Fruit Oil,Emollient / occlusive,0,1,,0,0,,0,1
+peg ppg 8 3 laurate,PEG/PPG-8/3 Laurate,Emulsifier/Surfactant,0,1,,0,0,,0,1
+eugenia caryophyllus (clove) leaf oil,Eugenia Caryophyllus (Clove) Leaf Oil,Fragrance/antimicrobial,0,1,,0,0,,0,1
+cymbopogon schoenanthus oil,Cymbopogon Schoenanthus Oil,Fragrance / antimicrobial,0,1,,0,0,,0,3
+eugenia caryophyllus (clove) bud oil,Eugenia Caryophyllus (Clove) Bud Oil,Fragrance/antimicrobial,0,1,,0,0,,0,1
+cupressus sempervirens leaf oil,Cupressus Sempervirens Leaf Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+phytosteryl isostearyl cetyl stearyl behenyl dimer dilinoleate,Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate,Emollient/skin-conditioning agent,0,1,,0,0,,0,6
+dipentaerythrityl hexahydroxystearate hexastearate hexarosinate,Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+citrus aurantifolia (lime) oil,Citrus Aurantifolia (Lime) Oil,Fragrance/essential oil,0,1,,0,0,,0,7
+aniba rosaeodora wood oil,Aniba Rosaeodora Wood Oil,Fragrance/essential oil,0,1,,0,0,,0,2
+citrus limon seed oil,Citrus Limon Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+aniba rosodora wood oil,Aniba Rosodora Wood Oil,Fragrance/aromatic,0,1,,0,0,,0,2
+polyglyceryl 10 myristate,Polyglyceryl-10 Myristate,Emulsifier / surfactant,0,1,,0,0,,0,18
+polyglyceryl 4 laurate,Polyglyceryl-4 Laurate,Emulsifier/surfactant,0,1,,0,0,,0,3
+glycereth 25 pca isostearate,Glycereth-25 Pca Isostearate,Emollient/emulsifier,0,1,,0,0,,0,6
+morinda citrifolia seed oil,Morinda Citrifolia Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+cymbopogon nardus (citronella) oil,Cymbopogon Nardus (Citronella) Oil,Fragrance / masking agent,0,1,,0,0,,0,2
+peg 2 stearate,PEG-2 Stearate,Emulsifier/surfactant,0,1,,0,0,,0,1
+monascus rice ferment,Monascus/Rice Ferment,Conditioning/antioxidant ferment,1,1,,0,0,,0,3
+cocoa caprylate caprate,Cocoa-Caprylate/Caprate,Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+polyglyceryl 4 laurate succinate,Polyglyceryl-4 Laurate/Succinate,Emulsifier,0,1,,0,0,,0,1
+maleated soybean oil glyceryl octyldodecanol esters,Maleated Soybean Oil Glyceryl/Octyldodecanol Esters,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+polyglyceryl 6 polyricinoleate,Polyglyceryl-6 Polyricinoleate,Emulsifier,0,1,,0,0,,0,5
+dipentaerythrityl tri polyhydroxystearate,Dipentaerythrityl Tri-Polyhydroxystearate,Emollient/skin-conditioning agent,0,1,,0,0,,0,3
+peg 8 laurate,PEG-8 Laurate,Emulsifier / surfactant,0,1,,0,0,,0,2
+glyceryl isostearate,Glyceryl Isostearate,Emollient/emulsifier,0,1,,0,0,,0,2
+rosa indica oil,Rosa Indica Oil,Fragrance/emollient,0,1,,0,0,,0,1
+citrus nobilis peel oil,Citrus Nobilis Peel Oil,Fragrance/essential oil,0,1,,0,0,,0,2
+litsea cubeba fruit oil,Litsea Cubeba Fruit Oil,Fragrance/antimicrobial,0,1,,0,0,,0,5
+plukenetia volubilis seed oil,Plukenetia Volubilis Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+lauryl alcohol,Lauryl Alcohol,Emollient / emulsifier,0,0,,0,0,fatty,0,3
+matricaria recutita flower oil,Matricaria Recutita Flower Oil,Soothing/anti-inflammatory botanical,1,1,,0,0,,0,1
+sucrose polycottonseedate,Sucrose Polycottonseedate,Emollient/skin-conditioning ester,0,1,,0,0,,0,1
+grapefruit oil,Grapefruit Oil,Fragrance/aromatic agent,0,1,,0,0,,0,1
+isocetyl stearate,ISOCETYL STEARATE,Emollient / skin-conditioning agent,0,1,,0,0,,0,2
+sucrose trilaurate,Sucrose Trilaurate,Emulsifier,0,1,,0,0,,0,1
+pelargonium graveolens essential oil,Pelargonium Graveolens Essential Oil,Fragrance/essential oil,0,1,,1,0,,0,1
+citrus grandis (grapefruit) peel oil,Citrus Grandis (Grapefruit) Peel Oil,Fragrance/essential oil,0,1,,0,0,,0,3
+melaleuca alternifolia (teatree) leaf oil,Melaleuca Alternifolia (Teatree) Leaf Oil,Antimicrobial/antiseptic,1,1,,0,0,,0,1
+citrus medica limonum (lemon) peel oil,Citrus Medica Limonum (Lemon) Peel Oil,Fragrance/essential oil,0,1,,0,0,,0,2
+myreth 3 myristate,Myreth-3 Myristate,Emollient/skin-conditioning agent,0,1,,0,0,,0,2
+santalum album seed oil,Santalum Album Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+carum petroselinum seed oil,Carum Petroselinum Seed Oil,Fragrance/antioxidant,0,1,,0,0,,0,1
+pogostemon cablin oil,Pogostemon Cablin Oil,Fragrance/essential oil,0,1,,0,0,,0,5
+artemisia vulgaris oil,Artemisia Vulgaris Oil,Soothing/fragrance botanical,0,1,,0,0,,0,4
+potassium myristate,Potassium Myristate,Surfactant/cleansing agent,0,1,,0,0,,0,3
+potassium behenate,Potassium Behenate,Emulsifier/Surfactant,0,1,,0,0,,0,2
+potassium stearate,Potassium Stearate,Emulsifier / surfactant (cleansing agent),0,1,,0,0,,0,2
+potassium palmitate,Potassium Palmitate,Surfactant/cleansing agent,0,1,,0,0,,0,2
+potassium laurate,Potassium Laurate,Surfactant/cleansing agent,0,1,,0,0,,0,2
+peg 3 distearate,PEG-3 Distearate,Emulsifier/thickener,0,1,,0,0,,0,2
+cholesteryl hydroxystearate,Cholesteryl Hydroxystearate,Emollient / skin-conditioning agent,0,1,,0,0,,0,2
+alteromonas ferment extract,Alteromonas Ferment Extract,Hydrating/soothing biotechnological active,1,1,,0,0,,0,1
+disodium 2 sulfolaurate,Disodium 2-Sulfolaurate,Surfactant/cleansing agent,0,1,,0,0,,0,2
+sodium methyl 2 sulfolaurate,Sodium Methyl 2-Sulfolaurate,Surfactant/cleansing agent,0,1,,0,0,,0,2
+polyglyceryl 6 oleate,Polyglyceryl-6 Oleate,Emulsifier / surfactant,0,1,,0,0,,0,6
+bifida ferment filtrate,Bifida Ferment Filtrate,Skin-conditioning / probiotic-derived active,1,1,,0,0,,0,4
+lactobacillus acerola cherry ferment,Lactobacillus/Acerola Cherry Ferment,Antioxidant / skin-conditioning (probiotic ferment),1,1,,0,0,,0,1
+camellia japonica seed oil,Camellia Japonica Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,7
+allium cepa bulb oil,Allium Cepa Bulb Oil,Skin conditioning / scar treatment,1,1,,0,0,,0,3
+sodium stearate,Sodium Stearate,Emulsifier/Surfactant,0,1,,0,0,,0,3
+camellia sinensis seed oil,Camellia Sinensis Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,2
+candida bombicola glucose methyl rapeseedate ferment,Candida Bombicola/Glucose/Methyl Rapeseedate Ferment,Surfactant/Emulsifier,0,1,,0,0,,0,1
+yeast ferment extract,Yeast Ferment Extract,Conditioning/soothing active,1,1,,0,0,,0,2
+brassica oleracea seed oil,Brassica Oleracea Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+ethanol,Ethanol,Solvent/antimicrobial,0,,,0,0,drying,0,5
+moringa oil,Moringa Oil,Emollient/antioxidant oil,0,1,,0,0,,0,2
+solanum lycopersicum seed oil,Solanum lycopersicum seed oil,Emollient / antioxidant,0,1,,0,0,,0,1
+aleurites moluccana seed oil,Aleurites Moluccana Seed Oil,Emollient/skin-conditioning oil,0,1,,0,0,,0,1
+coriandrum sativum seed oil,Coriandrum Sativum Seed Oil,Emollient / fragrance,0,1,,0,0,,0,3
+myristyl laurate,Myristyl Laurate,Emollient / thickener,0,1,,0,0,,0,1
+propylene glycol stearate,Propylene Glycol Stearate,Emulsifier/emollient,0,1,,0,0,,0,1
+lilium polyphyllum (white lily) flower oil,Lilium Polyphyllum (White Lily) Flower Oil,Emollient / fragrance,0,1,,0,0,,0,1
+pogostemon cablin leaf oil,Pogostemon Cablin Leaf Oil,Fragrance/essential oil,0,1,,0,0,,0,3
+sd alcohol 40 b (alcohol denat.),Sd Alcohol 40-B (Alcohol Denat.),Solvent / penetration enhancer / astringent,0,,,0,0,drying,0,1
+peg 8 stearate,PEG-8 Stearate,Emulsifier / surfactant,0,1,,0,0,,0,2
+polyglyceryl 2 caprate,Polyglyceryl-2 Caprate,Emulsifier / surfactant,0,1,,0,0,,0,5
+lanolin alcohol,Lanolin Alcohol,Emollient/emulsifier,0,,,0,0,drying,0,2
+polysorbate 85,Polysorbate 85,Emulsifier / surfactant,0,1,,0,0,,0,2
+polyglyceryl 6 distearate,Polyglyceryl-6 Distearate,Emulsifier,0,1,,0,0,,0,7
+aroma,Aroma,Fragrance,0,,,1,0,,0,5
+peg 4 dilaurate,PEG-4 Dilaurate,Emulsifier/emollient,0,1,,0,0,,0,8
+peg 4 laurate,PEG-4 Laurate,Emulsifier/surfactant,0,1,,0,0,,0,9
+sorbitan palmitate,Sorbitan Palmitate,Emulsifier,0,1,,0,0,,0,2
+fragrance parfum,Fragrance / Parfum,Fragrance/sensory additive,0,,,1,0,,0,12
+ethyl oleate,Ethyl Oleate,Emollient / penetration enhancer,0,1,,0,0,,0,7
+butyrospermum parkii oil,Butyrospermum Parkii Oil,Emollient / skin-conditioning,0,1,,0,0,,0,3
+ethyl linoleate,Ethyl Linoleate,Emollient / skin-conditioning agent,1,1,,0,0,,0,5
+ethyl palmitate,Ethyl Palmitate,Emollient / skin-conditioning agent,0,1,,0,0,,0,3
+ethyl stearate,Ethyl Stearate,Emollient/Skin-conditioning,0,1,,0,0,,0,3
+citrus nobilis oil,Citrus Nobilis Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+olive oil polyglyceryl 6 esters,Olive Oil Polyglyceryl-6 Esters,Emulsifier / emollient,0,1,,0,0,,0,3
+adansonia digitata seed oil,Adansonia Digitata Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+ceto cetyl alcohol,Ceto Cetyl Alcohol,Emollient / emulsifier,0,0,,0,0,fatty,0,6
+carapa guianensis seed oil,Carapa Guianensis Seed Oil,Emollient/skin-conditioning oil,0,1,,0,0,,0,1
+polyglyceryl 3 distearate,Polyglyceryl-3 Distearate,Emulsifier,0,1,,0,0,,0,10
+retinyl linoleate,Retinyl Linoleate,Vitamin A derivative (retinoid ester),1,1,,0,0,,1,3
+ethylhexyl cocoate,Ethylhexyl Cocoate,Emollient/skin-conditioning ester,0,1,,0,0,,0,5
+aluminum magnesium hydroxide stearate,Aluminum/Magnesium Hydroxide Stearate,Viscosity controlling / thickening agent,0,1,,0,0,,0,4
+jasminum officinale (jasmine) oil,Jasminum Officinale (Jasmine) Oil,Fragrance/aromatic agent,0,1,,0,0,,0,2
+retinyl propionate,Retinyl Propionate,Retinoid (anti-aging active),1,,,0,0,,1,10
+aniba rosodora (rosewood) wood oil,Aniba Rosodora (Rosewood) Wood Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+retinyl sunflowerseedate,Retinyl Sunflowerseedate,Antioxidant / Vitamin A derivative (retinoid ester),1,,,0,0,,1,2
+abies sibirica oil,Abies Sibirica Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+juniperus virginiana oil,Juniperus Virginiana Oil,Fragrance/Aromatic,0,1,,0,0,,0,4
+glyceryl linoleate,Glyceryl Linoleate,Emollient / skin-conditioning agent,0,1,,0,0,,0,4
+caryodendron orinocense nut oil,Caryodendron Orinocense Nut Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+glyceryl polymethacrylate,Glyceryl Polymethacrylate,Film former / humectant,0,1,,0,0,,0,13
+no mineral oil,No Mineral Oil,Marketing/formulation claim (absence of mineral oil),0,1,,0,0,,0,21
+"option_display_name:""salicylic acid""","Option_Display_Name:""Salicylic Acid""",Beta-hydroxy acid exfoliant / keratolytic,1,,,0,0,,1,0
+"option_display_value:""salicylic acid""","Option_Display_Value:""Salicylic Acid""",Beta hydroxy acid (BHA) exfoliant/keratolytic,1,,,0,0,,1,0
+"{ title:""fragrance""","{ Title:""Fragrance""",Scent/sensory additive,0,,,1,0,,0,0
+"base_name:""dermdoc 2% salicylic acid face serum""","Base_Name:""Dermdoc 2% Salicylic Acid Face Serum""",BHA exfoliant,1,,,0,0,,1,0
+"option_display_name:""2% salicylic acid""","Option_Display_Name:""2% Salicylic Acid""",Beta-hydroxy acid exfoliant / keratolytic,1,,,0,0,,1,0
+cetearyl olivate (and) sorbitan olivate,Cetearyl Olivate (And) Sorbitan Olivate,Emulsifier,0,1,,0,0,,0,9
+"oil no animal testing (120 ml)""","Oil No Animal Testing (120 Ml)""",Emollient / occlusive base oil,0,1,,0,0,,0,0
+"base_name:""dermdoc 2% salicylic acid face toner""","Base_Name:""Dermdoc 2% Salicylic Acid Face Toner""",BHA exfoliant / toner,1,,,0,0,,1,0
+"l3_category_name:""hair oil""","L3_Category_Name:""Hair Oil""",Conditioning/emollient hair treatment,0,1,,0,0,,0,0
+glyceryl stearate (and) peg 100 stearate,Glyceryl Stearate (And) Peg-100 Stearate,Emulsifier,0,1,,0,0,,0,11
+sorbitan stearate (and) sucrose cocoate,Sorbitan Stearate (and) Sucrose Cocoate,Emulsifier,0,1,,0,0,,0,8
+""" collections hair oil""",""" Collections Hair Oil""",Invalid input / not an ingredient,0,1,,0,0,,0,0
+it absorbs excess oil,it absorbs excess oil,Oil-absorbing / mattifying agent,0,1,,0,0,,0,3
+parfum (fragrance),Parfum (Fragrance),Fragrance/masking agent,0,,,1,0,,0,37
+mineral oil free,Mineral Oil Free,Marketing/formulation descriptor,0,1,,0,0,,0,5
+"base_name:""alps goodness fermented rice water""","Base_Name:""Alps Goodness Fermented Rice Water""",Brightening/conditioning humectant,1,1,,0,0,,0,0
+"no mineral oil""","No Mineral Oil""",Marketing/formulation claim (absence),0,1,,0,0,,0,0
+"no mineral oil (15 ml)""","No Mineral Oil (15 Ml)""",Emollient/occlusive base,0,1,,0,0,,0,0
+"no mineral oil (50 gm)""","No Mineral Oil (50 Gm)""",Emollient base / occlusive,0,1,,0,0,,0,0
+"no mineral oil (120 ml)""","No Mineral Oil (120 Ml)""",Occlusive/emollient base ingredient,0,1,,0,0,,0,0
+polyglyceryl 3 dicitrate stearate,Polyglyceryl-3 Dicitrate/ Stearate,Emulsifier,0,1,,0,0,,0,2
+octyldodecyl myristate,Octyldodecyl Myristate,Emollient / skin-conditioning agent,0,1,,0,0,,0,7
+and sucrose cocoate,And Sucrose Cocoate,Emollient/surfactant,0,1,,0,0,,0,0
+sunflower seed oil,Sunflower Seed Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,5
+"""condition"":""subcategory_face oil""}","""Condition"":""Subcategory_Face Oil""}",Emollient/occlusive base,0,1,,0,0,,0,0
+sunflower oil,Sunflower Oil,Emollient / occlusive,0,1,0,0,0,,0,6
+oil control,Oil Control,Sebum regulation,1,1,,0,0,,0,0
+"base_name:""plum green tea oil free moisturizer""","Base_Name:""Plum Green Tea Oil Free Moisturizer""",Oil-free facial moisturizer,0,1,,0,0,,0,0
+"option_display_name:""argan oil & lavender""","Option_Display_Name:""Argan Oil & Lavender""",Emollient blend (moisturizing/conditioning),0,1,,0,0,,0,0
+"slug:""alps goodness rosemary champi oil 105ml 14""","Slug:""Alps Goodness Rosemary Champi Oil 105Ml 14""",Hair oil / scalp conditioner,1,1,,0,0,,0,0
+"option_display_name:""rosemary hair oil""","Option_Display_Name:""Rosemary Hair Oil""",Hair/scalp conditioning oil,1,1,,0,0,,0,0
+"base_name:""alps goodness rosemary hair oil""","Base_Name:""Alps Goodness Rosemary Hair Oil""",Hair/scalp oil (botanical),1,1,,0,0,,0,0
+"slug:""alps goodness almond hair oil 100 ml 42""","Slug:""Alps Goodness Almond Hair Oil 100 Ml 42""",Emollient hair oil,0,1,,0,0,,0,0
+"option_display_name:""almond oil""","Option_Display_Name:""Almond Oil""",Emollient / skin-conditioning oil,0,1,,0,0,,0,0
+"base_name:""alps goodness almond hair oil""","Base_Name:""Alps Goodness Almond Hair Oil""",Emollient hair oil,0,1,,0,0,,0,0
+contains jojoba oil,Contains Jojoba oil,Emollient / moisturizer,0,1,,0,0,,0,2
+babassu oil,Babassu oil,Emollient / occlusive,0,1,,0,0,,0,2
+"option_display_name:""fermented rice water""","Option_Display_Name:""Fermented Rice Water""",Brightening/conditioning humectant,1,1,,0,0,,0,0
+"option_display_value:""fermented rice water""","Option_Display_Value:""Fermented Rice Water""",Conditioning/antioxidant,0,1,,0,0,,0,0
+fragrance. lowest prices,Fragrance. Lowest Prices,Fragrance/masking agent,0,,,1,0,,0,2
+oil free,Oil Free,Formulation descriptor,0,1,,0,0,,0,2
+alcohol free,Alcohol Free,Marketing/formulation descriptor,0,,,0,0,drying,0,3
+aloe vera oil,Aloe Vera Oil,Soothing emollient,0,1,,0,0,,0,2
+grape seed oil,Grape Seed Oil,Emollient/antioxidant,0,1,,0,0,,0,3
+cucumber oil,Cucumber Oil,Emollient / antioxidant,0,1,,0,0,,0,2
+wheatgerm oil,Wheatgerm Oil,Emollient / antioxidant,0,1,,0,0,,0,2
+"base_name:""wishcare 2% salicylic acid serum""","Base_Name:""Wishcare 2% Salicylic Acid Serum""",BHA exfoliant / keratolytic,1,,,0,0,,1,0
+"1% salicylic acid gel face wash""","1% Salicylic Acid Gel Face Wash""",Exfoliant / acne cleanser,1,,,0,0,,1,0
+no alcohol,No Alcohol,Formulation descriptor,0,,,0,0,drying,0,2
+"option_display_name:""retinol""","Option_Display_Name:""Retinol""",Retinoid (vitamin A derivative),1,,,0,0,,1,0
+"option_display_value:""retinol""","Option_Display_Value:""Retinol""",Anti-aging / cell-turnover active,1,,,0,0,,1,0
+bacillus folic acid ferment filtrate extract,Bacillus/Folic Acid Ferment Filtrate Extract,Skin-conditioning / antioxidant ferment extract,1,1,,0,0,,0,3
+coco caprylate\ caprate,Coco-Caprylate\/Caprate,Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+including oil based,including oil-based,Emollient/occlusive base component,0,1,,0,0,,0,1
+cetearyl alcohol (and) polysorbate 60,Cetearyl Alcohol (and) Polysorbate 60,Emulsifier,0,0,,0,0,fatty,0,1
+argan oil moisturizes,Argan Oil moisturizes,Emollient / moisturizer,0,1,,0,0,,0,1
+reduce oil,Reduce Oil,Sebum regulation,1,1,,0,0,,0,0
+macadamia oil,Macadamia Oil,Emollient / occlusive oil,0,1,,0,0,,0,2
+crambe abyssinica (crambe) seed oil,Crambe Abyssinica (Crambe) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+rubus idaeus (raspberry) seed oil,Rubus Idaeus (Raspberry) Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,3
+triticum vulgare (wheat) seed oil,Triticum Vulgare (Wheat) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+citrus aurantium (neroli) flower oil,Citrus Aurantium (Neroli) Flower Oil,Fragrance/aromatic agent,0,1,,0,0,,0,1
+curcuma longa oil,Curcuma Longa Oil,Antioxidant / anti-inflammatory,1,1,,0,0,,0,8
+sorbeth 30 tetraisostearate,Sorbeth-30 Tetraisostearate,Emollient / emulsifier,0,1,,0,0,,0,1
+sorbitan monostearate,Sorbitan Monostearate,Emulsifier / surfactant,0,1,,0,0,,0,2
+hippophae rhamnoides seed oil,Hippophae Rhamnoides Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,2
+fragrance (ifra approved),Fragrance (IFRA approved),Fragrance/sensory additive,0,,,1,0,,0,1
+"salicylic acid and exo p ""","Salicylic Acid And Exo P """,Exfoliant / keratolytic (BHA),1,,,0,0,,1,0
+ecom 1000 (cetearyl olivate,Ecom 1000 (Cetearyl olivate,Emulsifier / emollient,0,1,,0,0,,0,1
+sorbitan olivate),Sorbitan olivate),Emulsifier,0,1,,0,0,,0,1
+alpha arbutin. additional info irevive unde,Alpha arbutin. Additional Info IREVIVE Unde,Skin-brightening agent,1,,,0,0,,1,1
+fragrance free.\u003c\ strong\u003e just pure,Fragrance Free.\U003C\ Strong\U003E Just Pure,Formulation descriptor,0,,,1,0,,0,0
+geranium oil,Geranium Oil,Fragrance/aromatic,0,1,,0,0,,0,1
+grapefruit peel oil,Grapefruit Peel Oil,Fragrance/Aromatic,0,1,,0,0,,0,1
+hippophae rhamnoides (sea buckthorn) oil,Hippophae Rhamnoides (Sea Buckthorn) Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+salvia sclarea (clary) oil,Salvia Sclarea (Clary) Oil,Fragrance/aromatic essential oil,0,1,,0,0,,0,1
+glyceryl acrylate acrylic acid copolymer (and) 1,Glyceryl Acrylate/Acrylic Acid Copolymer (and) 1,Film-former / humectant,0,1,,0,0,,0,1
+glyceryl caprylate caprate,Glyceryl Caprylate/Caprate,Emollient/emulsifier & co-preservative,0,1,,0,0,,0,1
+argania spinsosa (argan) oil,argania spinsosa (argan) oil,Emollient / antioxidant,0,1,,0,0,,0,1
+leptospermum scoparium (manuka) branch leaf oil,Leptospermum Scoparium (Manuka) Branch/Leaf Oil,Antimicrobial/antioxidant essential oil,1,1,,0,0,,0,1
+fragrance (aloe fresh),Fragrance (Aloe Fresh),Fragrance/scent,0,,,1,0,,0,1
+peg 80 sorbitan laurate,PEG-80 Sorbitan Laurate,Surfactant/emulsifier,0,1,,0,0,,0,3
+"""handle"":""arata byob oil control face wash 100ml""","""Handle"":""Arata Byob Oil Control Face Wash 100Ml""",Cleanser (oil-control face wash),0,1,,0,0,,0,0
+"""alt"":""oil control_face_wash_website_secondaries_card_1""","""Alt"":""Oil Control_Face_Wash_Website_Secondaries_Card_1""",Cleanser/sebum-control formulation,0,1,,0,0,,0,0
+"""alt"":""oil controlfacewash100ml""","""Alt"":""Oil Controlfacewash100Ml""",Cleanser (oil-control facial wash),0,1,,0,0,,0,0
+kumkumadi oil,Kumkumadi Oil,Brightening/rejuvenating facial oil,1,1,,0,0,,0,2
+crambe abyssinian seed oil,Crambe Abyssinian Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+prunus persica (peach) kernel oil,Prunus Persica (Peach) Kernel Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,5
+polyglyceryl 2 diisostearate,Polyglyceryl-2 Diisostearate,Emulsifier / emollient,0,1,,0,0,,0,1
+glyceryl stearate peg 100 stearate,Glyceryl Stearate/PEG-100 Stearate,Emulsifier,0,1,,0,0,,0,1
+"""mineral oil free""","""Mineral Oil Free""",Marketing/formulation claim,0,1,,0,0,,0,0
+"""handle"":""youthrx firm bright face oil""","""Handle"":""Youthrx Firm Bright Face Oil""",Facial treatment oil blend,1,1,,0,0,,0,0
+plant retinol,Plant Retinol,Antioxidant / retinol alternative,1,,,0,0,,1,1
+controls excess oil,Controls Excess Oil,Sebum regulation / oil control,1,1,,0,0,,0,0
+vitamin a palmitate,Vitamin A Palmitate,Antioxidant / Retinoid (vitamin A precursor),1,1,,0,0,,0,1
+glycine soja oil glycine soja (soybean) oil,Glycine Soja Oil/Glycine Soja (Soybean) Oil,Emollient / antioxidant,0,1,,0,0,,0,2
+"slug:""1 percentage salicylic acid gel face wash with sali","Slug:""1 Percentage Salicylic Acid Gel Face Wash With Sali",Keratolytic / exfoliant (BHA),1,,,0,0,,1,0
+"0.5% salicylic acid foaming face wash""","0.5% Salicylic Acid Foaming Face Wash""",Exfoliant / acne cleanser,1,,,0,0,,1,0
+"slug:""1 percentage salicylic acid","Slug:""1 Percentage Salicylic Acid",Beta-hydroxy acid (BHA) exfoliant / keratolytic,1,,,0,0,,1,0
+oil,Oil,Emollient/occlusive,0,1,,0,0,,0,0
+"option_display_name:""rice oil""","Option_Display_Name:""Rice Oil""",Emollient / antioxidant,0,1,,0,0,,0,0
+"base_name:""mamaearth rice oil free face moisturizer""","Base_Name:""Mamaearth Rice Oil Free Face Moisturizer""","Moisturizer (oil-free, hydrating)",0,1,,0,0,,0,0
+"base_name:""mamaearth tea tree oil free moisturizer""","Base_Name:""Mamaearth Tea Tree Oil Free Moisturizer""",Oil-free facial moisturizer,0,1,,0,0,,0,0
+"base_name:""aqualogica glow+ oil free moisturizer""","Base_Name:""Aqualogica Glow+ Oil Free Moisturizer""",Moisturizer (oil-free hydrator),0,1,,0,0,,0,0
+"option_display_name:""wild berries & alpha arbutin""","Option_Display_Name:""Wild Berries & Alpha Arbutin""",Skin-brightening / tyrosinase-inhibiting active blend,1,,,0,0,,1,0
+"base_name:""aqualogica illuminate+ oil free moisturizer""","Base_Name:""Aqualogica Illuminate+ Oil Free Moisturizer""",Hydrating moisturizer,0,1,,0,0,,0,0
+such as salicylic acid,Such As Salicylic Acid,Beta hydroxy acid exfoliant / keratolytic,1,,,0,0,,1,0
+"value:$r[32]=[$r[33]={name:""aroma magic""","Value:$R[32]=[$R[33]={Name:""Aroma Magic""",Invalid/unrecognized ingredient,0,,,1,0,,0,0
+"brand_name:""aroma magic""","Brand_Name:""Aroma Magic""",Brand/product line (not an ingredient),0,,,1,0,,0,0
+"link:"" brand aroma magic skincare face cream""}]}","Link:"" Brand Aroma Magic Skincare Face Cream""}]}",Unrecognized/invalid ingredient,0,,,1,0,,0,0
+"link:"" brand aroma magic""}","Link:"" Brand Aroma Magic""}",Unrecognized/invalid ingredient,0,,,1,0,,0,0
+sucrose plycottonseedate,Sucrose Plycottonseedate,Emollient / surfactant,0,1,,0,0,,0,1
+"base_name:""neutrogena oil free moisturiser spf 15""","Base_Name:""Neutrogena Oil Free Moisturiser Spf 15""",Moisturiser with sunscreen,0,1,,0,0,,0,0
+"option_display_name:""retinol ""","Option_Display_Name:""Retinol """,Vitamin A derivative / cell-turnover regulator,1,,,0,0,,1,0
+"base_name:""plum 1% retinol anti aging face serum""","Base_Name:""Plum 1% Retinol Anti Aging Face Serum""",Retinoid anti-aging serum,1,,,0,0,,1,0
+oil controldermatologist tested,oil ControlDermatologist Tested,Sebum/oil control claim (not a single defined chemical ingredient),0,1,,0,0,,0,1
+oil and makeup,Oil And Makeup,Cleansing/emollient base,0,1,,0,0,,0,0
+oil & make up|paraben,Oil & Make Up|Paraben,Preservative,0,1,,0,0,,0,0
+"sodium hyaluronate (hyaluronic acid) & fragrance""","Sodium Hyaluronate (Hyaluronic Acid) & Fragrance""",Humectant / moisturizer (with added fragrance),0,,,1,0,,0,0
+"slug:""plum green tea alcohol free toner 200 ml","Slug:""Plum Green Tea Alcohol Free Toner 200 Ml",Hydrating/soothing toner,0,,,0,0,drying,0,0
+"option_display_name:""0.5% salicylic acid""","Option_Display_Name:""0.5% Salicylic Acid""",Beta-hydroxy acid exfoliant,1,,,0,0,,1,0
+"base_name:""dermdoc 0.5% salicylic acid cleansing bar""","Base_Name:""Dermdoc 0.5% Salicylic Acid Cleansing Bar""",Exfoliant / keratolytic cleanser,1,,,0,0,,1,0
+"option_display_value:""2% salicylic acid""","Option_Display_Value:""2% Salicylic Acid""",BHA exfoliant / keratolytic,1,,,0,0,,1,0
+"option_display_name:""oil control face wash""","Option_Display_Name:""Oil Control Face Wash""",Cleanser,0,1,,0,0,,0,0
+"option_display_value:""oil control face wash""","Option_Display_Value:""Oil Control Face Wash""",Cleanser (oil-control facial wash),0,1,,0,0,,0,0
+"base_name:""deconstruct salicylic acid oil control facewash""","Base_Name:""Deconstruct Salicylic Acid Oil Control Facewash""",BHA exfoliant cleanser,1,1,,0,0,,1,0
+"option_display_name:""salicylic acid ""","Option_Display_Name:""Salicylic Acid """,Beta hydroxy acid (BHA) exfoliant / keratolytic,1,,,0,0,,1,0
+"salicylic acid & hyaluronic face wash""","Salicylic Acid & Hyaluronic Face Wash""",Exfoliant/cleanser,1,,,0,0,,1,0
+n butyl alcohol,N-Butyl Alcohol,Solvent,0,,,0,0,drying,0,3
+sd alcohol,sd alcohol,Solvent / astringent,0,,,0,0,drying,0,1
+hydroquinone,hydroquinone,Skin-lightening agent,1,,,0,0,,1,1
+no synthetic fragrance,NO SYNTHETIC FRAGRANCE,Fragrance-free claim,0,,,1,0,,0,1
+"slug:""the derma co 0 1 retinol serum 30 ml 54""","Slug:""The Derma Co 0 1 Retinol Serum 30 Ml 54""",Retinoid (vitamin A derivative),1,,,0,0,,1,0
+"option_display_value:""0.1% retinol""","Option_Display_Value:""0.1% Retinol""",Retinoid (vitamin A derivative),1,,,0,0,,1,0
+"option_display_name:""0.1% retinol""","Option_Display_Name:""0.1% Retinol""",Retinoid (vitamin A derivative),1,,,0,0,,1,0
+"base_name:""the derma co.0.1% retinol serum""","Base_Name:""The Derma Co.0.1% Retinol Serum""",Retinoid (anti-aging/cell-turnover active),1,,,0,0,,1,0
+"base_name:""wishcare pro collagen retinol serum""","Base_Name:""Wishcare Pro Collagen Retinol Serum""",Anti-aging serum (retinol + peptide),1,,,0,0,,1,0
+"og_title:""skininspired retinol night cream""","Og_Title:""Skininspired Retinol Night Cream""",Retinoid (vitamin A derivative),1,,,0,0,,1,0
+"meta_keywords:""skininspired retinol night cream""","Meta_Keywords:""Skininspired Retinol Night Cream""",Retinoid (vitamin A derivative),1,,,0,0,,1,0
+"heading:""skininspired retinol night cream""","Heading:""Skininspired Retinol Night Cream""",Anti-aging retinoid night treatment,1,,,0,0,,1,0
+"option_display_name:""retinol & bakuchi""","Option_Display_Name:""Retinol & Bakuchi""",Retinoid + plant-based retinol alternative (anti-aging/cell turnover),1,,,0,0,,1,0
+"option_display_name:""0.3% retinol""","Option_Display_Name:""0.3% Retinol""",Retinoid (vitamin A derivative),1,,,0,0,,1,0
+"base_name:""the derma co.0.3% retinol face serum""","Base_Name:""The Derma Co.0.3% Retinol Face Serum""",Retinoid (vitamin A derivative),1,,,0,0,,1,0
+"option_display_value:""0.3% retinol""","Option_Display_Value:""0.3% Retinol""",Retinoid (vitamin A derivative),1,,,0,0,,1,0
+"oil balancinga (30 ml)""","Oil Balancinga (30 Ml)""",Sebum-regulating / mattifying blend,1,1,,0,0,,0,0
+"oil balancing (30 ml)""","Oil Balancing (30 Ml)""",Sebum-regulating blend,1,1,,0,0,,0,0
+"seo_description:""helps to effectively reduce excess oil","Seo_Description:""Helps To Effectively Reduce Excess Oil",Sebum-regulating / oil-control agent,1,1,,0,0,,0,0
+like rosehip oil,like Rosehip Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+"base_name:""alps goodness tea tree salicylic acid","Base_Name:""Alps Goodness Tea Tree Salicylic Acid",Acne treatment / exfoliant,1,,,0,0,,1,0
+"alpha arbutin radiance clay face mask""","Alpha Arbutin Radiance Clay Face Mask""",Brightening/exfoliating clay mask,1,,,0,0,,1,0
+"oil free hydration | 50 gm""","Oil Free Hydration | 50 Gm""",Lightweight moisturizer / humectant hydration,0,1,,0,0,,0,0
+allergen free fragrance,Allergen Free Fragrance,Fragrance/masking agent,0,,,1,0,,0,11
+"""condition"":""organic pumpkin seed oil""}","""Condition"":""Organic Pumpkin Seed Oil""}",Emollient / antioxidant oil,0,1,,0,0,,0,0
+"""condition"":""organic castor oil""}","""Condition"":""Organic Castor Oil""}",Emollient / occlusive,0,1,,0,0,,0,0
+"""condition"":""organic argan oil""}","""Condition"":""Organic Argan Oil""}",Emollient / occlusive oil,0,1,,0,0,,0,0
+"""condition"":""organic jojoba oil""}","""Condition"":""Organic Jojoba Oil""}",Emollient / occlusive,0,1,,0,0,,0,0
+"""condition"":""organic rosehip seed oil""}","""Condition"":""Organic Rosehip Seed Oil""}",Emollient / antioxidant oil,0,1,,0,0,,0,0
+"""condition"":""organic neem oil""}","""Condition"":""Organic Neem Oil""}",Emollient / antimicrobial botanical oil,1,1,,0,0,,0,0
+"""condition"":""organic sweet almond oil""}","""Condition"":""Organic Sweet Almond Oil""}",Emollient/occlusive oil,0,1,,0,0,,0,0
+fragrance free,Fragrance Free,Formulation descriptor,0,,,1,0,,0,5
+"""condition"":""organic black seed (kalonji oil)""}]","""Condition"":""Organic Black Seed (Kalonji Oil)""}]",Emollient/antioxidant active,1,1,,0,0,,0,0
+rice ferment filtrate (sake),Rice Ferment Filtrate (Sake),Brightening/conditioning humectant,1,1,,0,0,,0,7
+sisymbrium irio seed oil,Sisymbrium Irio Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,6
+polyacrylate 13 (and) polyisobutene (and) polysorbate 20,Polyacrylate-13 (And) Polyisobutene (And) Polysorbate 20,Rheology modifier / emulsion stabilizer,0,1,,0,0,,0,5
+cinnamal,Cinnamal,Fragrance ingredient,0,,,1,1,,0,6
+cinnamyl alcohol,Cinnamyl Alcohol,Fragrance / flavoring agent,0,,,0,0,drying,0,8
+palmitic acid & stearic acid,Palmitic Acid & Stearic Acid,Emollient / surfactant (fatty acids),0,1,,0,0,,0,5
+amyl cinnamal,Amyl Cinnamal,Fragrance ingredient,0,,,1,1,,0,10
+"almond oil""}","Almond Oil""}",Emollient / occlusive,0,1,,0,0,,0,0
+saccharomyces rice ferment filtrate,Saccharomyces/Rice Ferment Filtrate,Conditioning/fermented filtrate humectant,1,1,,0,0,,0,6
+glyceryl stearate and peg 100 stearate,Glyceryl Stearate And Peg-100 Stearate,Emulsifier,0,1,,0,0,,0,5
+"""preference"":[""fragrance free""","""Preference"":[""Fragrance Free""",Not an ingredient (formulation preference),0,,,1,0,,0,0
+caprylhydroxamic acid (and) phenethyl alcohol,Caprylhydroxamic Acid (And) Phenethyl Alcohol,Preservative/preservative-booster blend,0,,,0,0,drying,0,4
+glyceryl dibehenate,Glyceryl Dibehenate,Emollient / emulsifier,0,1,,0,0,,0,5
+palm kernel oil,Palm Kernel Oil,Emollient / occlusive,0,1,,0,0,,0,4
+eucalyptus globulus (eucalyptus) leaf oil,Eucalyptus Globulus (Eucalyptus) Leaf Oil,Fragrance/essential oil,0,1,,0,0,,0,4
+"mineral oil free""}","Mineral Oil Free""}",Marketing/formulation claim,0,1,,0,0,,0,0
+fragrance+,fragrance+,Fragrance/scent additive,0,,,1,0,,0,4
+polyglyceryl 6 stearate,Polyglyceryl-6 Stearate,Emulsifier,0,1,,0,0,,0,4
+hippophae rhamnoides oil,Hippophae Rhamnoides Oil,Emollient / antioxidant,1,1,,0,0,,0,4
+ifra certified fragrance,Ifra Certified Fragrance,Fragrance/masking agent,0,,,1,0,,0,3
+citrus aurantium dulcis (orange) peel oil++,Citrus Aurantium Dulcis (Orange) Peel Oil++,Fragrance / botanical extract,0,1,,0,0,,0,3
+meadowfoam seed oil,Meadowfoam Seed Oil,Emollient / occlusive moisturizer,0,1,,0,0,,0,3
+lanolin alcohol (eucerit),Lanolin Alcohol (Eucerit),Emollient / emulsifier,0,,,0,0,drying,0,3
+fragrance (ifra certified),Fragrance (Ifra Certified),Fragrance/Masking agent,0,,,1,0,,0,3
+brassica campestris (rapeseed) seed oil,Brassica Campestris (Rapeseed) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,4
+"""fragrance family"":[]","""Fragrance Family"":[]",Fragrance/scent agent,0,,,1,0,,0,0
+"""value"":""fragrance free","""Value"":""Fragrance Free",Formulation descriptor (no added fragrance),0,,,1,0,,0,0
+"oil free""}","Oil Free""}",Formulation descriptor / non-comedogenic claim,0,1,,0,0,,0,0
+"""value"":""salicylic acid""}","""Value"":""Salicylic Acid""}",Beta hydroxy acid (BHA) exfoliant / keratolytic,1,,,0,0,,1,0
+"salicylic acid""}","Salicylic Acid""}",Beta-hydroxy acid exfoliant / keratolytic,1,,,0,0,,1,0
+adansonia digitata (baobab) seed oil,Adansonia Digitata (Baobab) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,3
+glyceryl dioleate,Glyceryl Dioleate,Emollient / emulsifier,0,1,,0,0,,0,4
+sorbitan tristearate,Sorbitan Tristearate,Emulsifier / surfactant,0,1,,0,0,,0,4
+ifra certified fragrance & sodium gluconate,Ifra Certified Fragrance & Sodium Gluconate,Fragrance & chelating agent,0,,,1,0,,0,3
+polyglycaeryl 10 stearate glycerin,Polyglycaeryl-10-Stearate Glycerin,Emulsifier / surfactant,0,1,,0,0,,0,2
+borago officinalis (borage) seed oil,Borago Officinalis (Borage) Seed Oil,Emollient / skin-conditioning oil,1,1,,0,0,,0,2
+zingiber officinale (ginger) root oil,Zingiber Officinale (Ginger) Root Oil,Fragrance/antioxidant,0,1,,0,0,,0,2
+glycerin & glyceryl glucoside,Glycerin & Glyceryl Glucoside,Humectant/moisturizer,0,1,,0,0,,0,2
+citrus junos (xiang cheng) peel oil,Citrus Junos (Xiang Cheng) Peel Oil,Fragrance/aromatic,0,1,,0,0,,0,2
+pelargonium graveolens (sweet scented geranium) oil,Pelargonium Graveolens (Sweet Scented Geranium) Oil,Fragrance/essential oil,0,1,,0,0,,0,2
+cistus ladaniferus oil,Cistus Ladaniferus Oil,Fragrance/aromatic oil,0,1,,0,0,,0,2
+propylene glycol dicaprate,Propylene Glycol Dicaprate,Emollient/skin-conditioning agent,0,1,,0,0,,0,3
+psoralea corylifolia (bakuchi) oil,Psoralea Corylifolia (Bakuchi) Oil,Antioxidant / plant-derived retinol alternative,1,1,,0,0,,0,5
+citrus aurantium peel oil,Citrus Aurantium Peel Oil,Fragrance/essential oil,0,1,,0,0,,0,2
+eugenia caryophyllus oil,Eugenia Caryophyllus Oil,Fragrance/antimicrobial,0,1,,0,0,,0,2
+carrot seed oil,Carrot Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,3
+rosemary leaf oil,Rosemary Leaf Oil,Fragrance/antioxidant,0,1,,0,0,,0,2
+orange peel oil,Orange Peel Oil,Fragrance/masking agent,0,1,,0,0,,0,2
+scented geranium flower oil,Scented Geranium Flower Oil,Fragrance/essential oil,0,1,,0,0,,0,2
+palmitic acid and stearic acid,Palmitic Acid And Stearic Acid,Emollient / surfactant,0,1,,0,0,,0,2
+red wine essential oil,Red Wine Essential Oil,Antioxidant / fragrance,0,1,,1,0,,0,2
+lactobacillus papaya fruit ferment extract,Lactobacillus/Papaya Fruit Ferment Extract,Exfoliant / Antioxidant,1,1,,0,0,,0,3
+fragrance q.s,Fragrance Q.S,Fragrance/masking agent,0,,,1,0,,0,2
+rosmarinus officinalis (rosemary) leaf oil++,Rosmarinus Officinalis (Rosemary) Leaf Oil++,Antioxidant / fragrance / antimicrobial,0,1,,0,0,,0,2
+pelargonium graveolens flower oil++,Pelargonium Graveolens Flower Oil++,Fragrance/Essential oil,0,1,,0,0,,0,2
+citrus aurantifolia (lime) oil++,Citrus Aurantifolia (Lime) Oil++,Fragrance/masking agent,0,1,,0,0,,0,2
+stearic acid (texture enhancing),Stearic Acid (Texture-Enhancing),Emulsifier / thickener,0,1,,0,0,,0,2
+glycol distearate (texture enhancing),Glycol Distearate (Texture-Enhancing),Opacifying/pearlizing agent & emollient,0,1,,0,0,,0,2
+rosmarinus officinalis(rosemary) leaf oil,Rosmarinus Officinalis(Rosemary) Leaf Oil,Antioxidant / fragrance / antimicrobial,0,1,,0,0,,0,2
+peppermint oil,Peppermint Oil,Fragrance/cooling agent,0,1,,0,0,,0,2
+salicylic acid (keratolytic agent),Salicylic Acid (Keratolytic Agent),Keratolytic / Beta-hydroxy acid exfoliant,1,,,0,0,,1,2
+polyvinyl laurate,Polyvinyl Laurate,Film-former / emollient,0,1,,0,0,,0,2
+orange essential oil,Orange Essential Oil,Fragrance/masking agent,0,1,,1,0,,0,2
+"""alt"":""sebamed soothing massage oil (150 ml)""}","""Alt"":""Sebamed Soothing Massage Oil (150 Ml)""}",Emollient massage oil,0,1,,0,0,,0,0
+camelina sativa seed oil,Camelina Sativa Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+fragrance (0.03ml),Fragrance (0.03Ml),Fragrance / scent additive,0,,,1,0,,0,2
+peg 32 stearate,PEG-32 Stearate,Emulsifier / surfactant,0,1,,0,0,,0,4
+retinol & polysorbate 20,Retinol & Polysorbate 20,Anti-aging active (retinol) with emulsifier/solubilizer (polysorbate 20),0,1,,0,0,,1,2
+sambucus nigra flower extract ascorbyl palmitate,Sambucus Nigra Flower Extract Ascorbyl Palmitate,Antioxidant/skin-conditioning,1,1,,0,0,,0,2
+"""alt"":""pilgrim oil free gel moisturiser (50g)""}","""Alt"":""Pilgrim Oil Free Gel Moisturiser (50G)""}",Moisturizer (formulated product),0,1,,0,0,,0,0
+decyl oleate,Decyl Oleate,Emollient / skin-conditioning agent,0,1,,0,0,,0,5
+aluminum stearates,Aluminum Stearates,Thickener / opacifying agent,0,1,,0,0,,0,2
+olea europaea (olive oil),Olea Europaea (Olive Oil),Emollient / occlusive,0,1,,0,0,,0,2
+aromatic essential oil,Aromatic Essential Oil,Fragrance/aromatic additive,0,1,,1,0,,0,2
+oleic acid⁠,Oleic Acid⁠,Emollient / penetration enhancer,0,1,,0,0,,0,2
+oenothera biennis oil⁠,Oenothera Biennis Oil⁠,Emollient / skin-conditioning oil,1,1,,0,0,,0,2
+linoleic acid⁠,Linoleic Acid⁠,Emollient / skin-barrier lipid,1,1,,0,0,,0,2
+cymbopogon winterianus herb oil,Cymbopogon Winterianus Herb Oil,Fragrance/essential oil,0,1,,0,0,,0,2
+bis butyldimethicone polyglyceryl 3,Bis-Butyldimethicone Polyglyceryl-3,Emulsifier/skin-conditioning agent,0,1,,0,0,,0,2
+sd alcohol 40 b,Sd Alcohol 40-B,Solvent/astringent,0,,,0,0,drying,0,2
+prunus armeniaca (bitter apricot) kernel oil,Prunus Armeniaca (Bitter Apricot) Kernel Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+glyceryl monostearate (non palm,Glyceryl Monostearate (Non Palm,Emulsifier / thickener,0,1,,0,0,,0,2
+(sea buckthorn berry) oil§,(Sea Buckthorn Berry) Oil§,Emollient / antioxidant,1,1,,0,0,,0,0
+cocus nucifera (coconut) oil,Cocus Nucifera (Coconut) Oil,Emollient / occlusive,0,1,,0,0,,0,2
+cannabis sativa (hemp) oil,Cannabis Sativa (Hemp) Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+rosa damascena steam distilled flower oil,Rosa Damascena Steam Distilled Flower Oil,Fragrance/aromatic,0,1,,0,0,,0,2
+lavandula angustifolia (lavender) steam distilled oil,Lavandula Angustifolia (Lavender) Steam Distilled Oil,Fragrance/essential oil,0,1,,0,0,,0,2
+retinyl palmitate (vitamin a),Retinyl Palmitate (Vitamin A),Antioxidant / vitamin A derivative (retinoid),1,1,,0,0,,1,2
+tridecyl stearate,Tridecyl Stearate,Emollient/skin-conditioning agent,0,1,,0,0,,0,3
+"olive oil""}","Olive Oil""}",Emollient / occlusive,0,1,,0,0,,0,0
+saccharomyces potato extract ferment filtrate,Saccharomyces/Potato Extract Ferment Filtrate,Conditioning / fermented active,1,1,,0,0,,0,3
+lactobacillus soybean ferment extract,Lactobacillus/Soybean Ferment Extract,Skin-conditioning / antioxidant ferment,1,1,,0,0,,0,6
+saccharomyces barley seed ferment filtrate,Saccharomyces/Barley Seed Ferment Filtrate,Conditioning/antioxidant ferment,1,1,,0,0,,0,2
+"argan oil""}","Argan Oil""}",Emollient / moisturizer,0,1,,0,0,,0,0
+oat oil,Oat Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+vitamin e oil,Vitamin E Oil,Antioxidant / emollient,1,1,,0,0,,0,2
+saffron oil,Saffron Oil,Antioxidant / brightening agent,1,1,,0,0,,0,2
+"""value"":""olive oil","""Value"":""Olive Oil",Emollient/occlusive,0,1,,0,0,,0,0
+2% salicylic acid,2% Salicylic Acid,BHA exfoliant / keratolytic,1,,,0,0,,1,2
+helianthus annuus (sunflower) hybrid oil,Helianthus Annuus (Sunflower) Hybrid Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+dimethylmethoxy chromanyl palmitate,Dimethylmethoxy Chromanyl Palmitate,Antioxidant,1,1,,0,0,,0,2
+phyto nutrient herb infused oil,Phyto-nutrient Herb Infused Oil,Emollient / botanical-infused carrier oil,0,1,,0,0,,0,2
+arachidyl alcohol (plant derived),Arachidyl Alcohol (plant-derived),Emollient / emulsifier,0,0,,0,0,fatty,0,2
+olive fruit oil,Olive Fruit Oil,Emollient / occlusive,0,1,,0,0,,0,2
+polyglyceryl 3 diisostearate (natural emollient),Polyglyceryl-3 Diisostearate (natural emollient),Emulsifier/emollient,0,1,,0,0,,0,2
+argan kernel oil,Argan Kernel Oil,Emollient / moisturizer,0,1,,0,0,,0,2
+bakuchiol (natural alternative to retinol),Bakuchiol (natural alternative to retinol),Antioxidant / retinol alternative,1,,,0,0,,1,2
+moringa essential oil,Moringa Essential Oil,Emollient / antioxidant,0,1,,1,0,,0,0
+polyglyceryl 10 tristearate,Polyglyceryl-10 Tristearate,Emulsifier / surfactant,0,1,,0,0,,0,2
+no palm oil,No Palm Oil,Marketing/formulation claim,0,1,,0,0,,0,2
+titanium dioxide & isocetyl stearoyl stearate,Titanium Dioxide & Isocetyl Stearoyl Stearate,UV filter / pigment & emollient blend,1,1,,0,0,,0,2
+olive oil esters (plant based),Olive Oil Esters (Plant-Based),Emollient / skin-conditioning agent,0,1,,0,0,,0,2
+glyceryl caprylate (plant based),Glyceryl Caprylate (Plant-Based),Emollient / co-emulsifier & preservative booster,0,1,,0,0,,0,2
+hemp seed oil,Hemp Seed Oil,Emollient / moisturizer,0,1,0,0,0,,0,2
+rosehip seed oil,Rosehip Seed Oil,Emollient / antioxidant oil,0,1,,0,0,,0,2
+babchi seed oil,Babchi Seed Oil,Retinol-alternative active,1,1,,0,0,,0,2
+lavender essential oil,Lavender Essential Oil,Fragrance/aromatic agent,0,1,,1,0,,0,2
+saffron essential oil,Saffron Essential Oil,Antioxidant / brightening botanical,1,1,,1,0,,0,2
+balanites roxburghii seed oil,Balanites Roxburghii Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+peg 1 stearate,Peg- 1 Stearate,Emulsifier / surfactant,0,1,,0,0,,0,2
+elaeis guineensis oil elaeis guineensis (palm) oil,Elaeis Guineensis Oil/Elaeis Guineensis (Palm) Oil,Emollient / occlusive,0,1,,0,0,,0,2
+isostearyl isostearate,Isostearyl Isostearate,Emollient / skin-conditioning agent,0,1,,0,0,,0,7
+ocytldodecyl myristate,Ocytldodecyl Myristate,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+zinc oxide (and) coco caprylate caprate,Zinc Oxide (and) Coco-Caprylate/Caprate,UV filter / sunscreen blend,1,1,,0,0,,0,1
+"\""2\"":\""ricinus communis (castor) seed oil","\""2\"":\""Ricinus Communis (Castor) Seed Oil",Emollient / occlusive,0,1,,0,0,,0,0
+\u003c\ strong\u003e ricinus communis (castor) seed oil,\u003c\/strong\u003e Ricinus Communis (Castor) Seed Oil,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+"_cucumber seed oil""","_Cucumber Seed Oil""",Emollient / skin-conditioning oil,0,1,,0,0,,0,0
+"_sweet almond oil""","_Sweet Almond Oil""",Emollient / occlusive,0,1,,0,0,,0,0
+"_castor oil""","_Castor Oil""",Emollient/occlusive,0,1,,0,0,,0,0
+sorbitan oleate decylglucoside crosspolymer,Sorbitan Oleate Decylglucoside Crosspolymer,Emulsifier / texture enhancer,0,1,,0,0,,0,1
+"""oil control""","""Oil Control""",Sebum regulator,1,1,,0,0,,0,0
+polysorbate 8,Polysorbate 8,Emulsifier/solubilizer,0,1,,0,0,,0,1
+galacto ferment filtrate,Galacto Ferment Filtrate,Hydrating/conditioning ferment extract,1,1,,0,0,,0,1
+oil free daily face wash dm water,Oil Free Daily Face Wash Dm Water,Cleanser (gentle surfactant-based face wash),0,1,,0,0,,0,0
+ginomol st (cocoalkanes (and) cococaprylate caprate),Ginomol ST (Cocoalkanes (and) Cococaprylate Caprate),Emollient/skin-conditioning,0,1,,0,0,,0,1
+zinc oxide sulphonated shale oil,Zinc Oxide Sulphonated Shale Oil,Antimicrobial/anti-inflammatory active,1,1,,0,0,,0,1
+are 3000 ppm retinol,Are 3000 Ppm Retinol,Vitamin A derivative (retinoid) — anti-aging / cell-turnover active,1,,,0,0,,1,0
+glycerin salicylic acid,Glycerin Salicylic Acid,Humectant + keratolytic exfoliant,1,,,0,0,,1,1
+glucose dioleate,Glucose Dioleate,Emollient/emulsifier,0,1,,0,0,,0,1
+our clay based face wash is fragrance free,Our Clay Based Face Wash Is Fragrance Free,"Cleanser (clay-based, fragrance-free)",0,,,1,0,,0,0
+and 10% ferment extract,And 10% Ferment Extract,Conditioning/active (fermented bioactive),1,1,,0,0,,0,0
+"""mpn"": ""skininspired retinol night cream refill""","""Mpn"": ""Skininspired Retinol Night Cream Refill""",Vitamin A derivative (retinoid),1,,,0,0,,1,0
+"""sku"": ""skininspired retinol night cream refill""","""Sku"": ""Skininspired Retinol Night Cream Refill""",Cell-turnover active (vitamin A derivative),1,,,0,0,,1,0
+2% alpha arbutin,2% Alpha Arbutin,Skin-brightening agent (tyrosinase inhibitor),1,,,0,0,,1,0
+like retinol or exfoliating acids? yes,Like Retinol Or Exfoliating Acids? Yes,Active treatment (retinoids / exfoliating acids),1,,,0,0,,1,0
+"""featured_media"":{""alt"":""face wash for oil","""Featured_Media"":{""Alt"":""Face Wash For Oil",Invalid input,0,1,,0,0,,0,0
+or retinol,or retinol,Vitamin A derivative / cell-turnover active,1,,,0,0,,1,1
+pelargonium graveolens(geranium)oil,Pelargonium Graveolens(Geranium)Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+olive oil esters(plant based),Olive Oil Esters(Plant-Based),Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+glyceryl caprylate(plant based),Glyceryl Caprylate(Plant-Based),Emollient/Co-emulsifier & antimicrobial,0,1,,0,0,,0,1
+"""retinol""","""Retinol""",Vitamin A derivative / anti-aging active,1,,,0,0,,1,0
+"""tags"":[""body oil""","""Tags"":[""Body Oil""",Emollient/occlusive base,0,1,,0,0,,0,0
+"""hair oil""","""Hair Oil""",Emollient/conditioning agent,0,1,,0,0,,0,0
+melia azadirachta(neem) seed oil,Melia Azadirachta(Neem) Seed Oil,Emollient / antimicrobial,1,1,,0,0,,0,1
+pelargonium graveolens(geranium) flower oil,Pelargonium Graveolens(Geranium) Flower Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+cucumber fragrance,Cucumber Fragrance,Fragrance / Scent,0,,,1,0,,0,1
+cetyl diglyceryl tris(trimethylsiloxy)silylethyl dimethicone,Cetyl Diglyceryl Tris(Trimethylsiloxy)silylethyl Dimethicone,Emulsifier / silicone-based surfactant,0,1,,0,0,,0,1
+"""name"":""retinol 0.6% face serum""","""Name"":""Retinol 0.6% Face Serum""",Vitamin A derivative (retinoid) — anti-aging/cell-turnover active,1,,,0,0,,1,0
+c18 38 alkyl hydroxystearoyl stearate,C18-38 Alkyl Hydroxystearoyl Stearate,Emollient / texture enhancer,0,1,,0,0,,0,1
+safflower oil,Safflower Oil,Emollient / skin-conditioning oil,0,1,0,0,0,,0,1
+"""name"":""provitamin d3 massage oil""","""Name"":""Provitamin D3 Massage Oil""",Emollient/Provitamin precursor,1,1,,0,0,,0,0
+"""name"":""salicylic acid","""Name"":""Salicylic Acid",Beta hydroxy acid (BHA) exfoliant / keratolytic,1,,,0,0,,1,0
+"and 2% alpha arbutin""","And 2% Alpha Arbutin""",Skin-brightening agent,1,,,0,0,,1,0
+"kojic acid and alpha arbutin""","Kojic Acid And Alpha Arbutin""",Skin-brightening / tyrosinase inhibitors,1,,,0,0,,1,0
+controls excess oil production,Controls Excess Oil Production,Sebum regulation,1,1,,0,0,,0,0
+lotus oil,Lotus Oil,Emollient/antioxidant botanical oil,0,1,,0,0,,0,1
+and rosemary oil,And Rosemary Oil,Antioxidant / fragrance / antimicrobial,0,1,,0,0,,0,0
+"""name"":""bakuchiol plant retinol miracle face oil""","""Name"":""Bakuchiol Plant Retinol Miracle Face Oil""",Antioxidant retinol-alternative,1,1,,0,0,,1,0
+carthamus tnctorius (sunflower) seed oil,Carthamus Tnctorius (Sunflower) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+caprylic capric triglyceride (fractionated coconut oil),Caprylic/Capric Triglyceride (Fractionated Coconut Oil),Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+rosa centifolia (rose) oil,Rosa Centifolia (Rose) Oil,Fragrance / botanical aromatic oil,0,1,,0,0,,0,1
+simmondsia chinensis(jojoba)seed oil,Simmondsia Chinensis(Jojoba)Seed Oil,Emollient / occlusive,0,1,,0,0,,0,1
+rosa canina(rosehip)fruit oil,Rosa Canina(Rosehip)Fruit Oil,Emollient / antioxidant oil,1,1,,0,0,,0,1
+punica granatum(pomegranate)seed oil,Punica Granatum(Pomegranate)Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+corylus avellana(hazelnut)seed oil,Corylus Avellana(Hazelnut)Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+pelargonium graveolens(geranium)flower oil,Pelargonium Graveolens(Geranium)Flower Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+santalum album(sandalwood)oil,Santalum Album(Sandalwood)Oil,Fragrance/soothing botanical,0,1,,0,0,,0,1
+citrus aurantium dulcis(orange)peel oil,Citrus Aurantium Dulcis(Orange)Peel Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+boswellia carterii(frankincense)oil,Boswellia Carterii(Frankincense)Oil,Aromatic/soothing botanical oil,1,1,,0,0,,0,1
+rosa damascena(rose)flower oil,Rosa Damascena(Rose)Flower Oil,Fragrance/skin-conditioning,0,1,,0,0,,0,1
+lavandula angustifolia(lavender)flower oil,Lavandula Angustifolia(Lavender)Flower Oil,Fragrance / essential oil,0,1,,0,0,,0,1
+"""formulation"":""oil""","""Formulation"":""Oil""",Emollient/occlusive base,0,1,,0,0,,0,0
+essential oil serum,Essential Oil Serum,Fragrance/botanical additive,0,1,,1,0,,0,0
+"""category l3"":""face oil""","""Category L3"":""Face Oil""",Emollient/occlusive,0,1,,0,0,,0,0
+citrus medica vulgaris peel oil,Citrus Medica Vulgaris Peel Oil,Fragrance/Astringent,0,1,,0,0,,0,1
+""":[""rose oil""",""":[""Rose Oil""",Fragrance/antioxidant emollient,0,1,,0,0,,0,0
+citrus nobilis (mandarin orange) peel oil,Citrus Nobilis (Mandarin Orange) Peel Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+yeast rice fermentation filtrate,Yeast/Rice Fermentation Filtrate,Skin conditioning / brightening,1,1,,0,0,,0,1
+fragrance. (ifra certified safe fragrance),Fragrance. (Ifra Certified Safe Fragrance),Fragrance/scent additive,0,,,1,0,,0,1
+carthamus tinctorius(safflower) seed oil,Carthamus Tinctorius(Safflower) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+ascorbyl palmitate(20%),Ascorbyl Palmitate(20%),Antioxidant / Vitamin C derivative,1,1,,0,0,,0,1
+fragrance (0.07),Fragrance (0.07),Fragrance/masking agent,0,,,1,0,,0,1
+glycine soja ( soybean) oil,Glycine Soja ( Soybean) Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+peg40 hydrogenated castor oil,Peg40 Hydrogenated Castor Oil,Solubilizer/Emulsifier,0,1,,0,0,,0,1
+crambe abyssinica seed oil,Crambe Abyssinica Seed Oil,Emollient / occlusive,0,1,,0,0,,0,1
+hibiscus sabdariffa seed oil,Hibiscus Sabdariffa Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+rosa moschata seed oil,Rosa Moschata Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+aroma flavor,Aroma/Flavor,Fragrance/flavoring agent,0,,,1,0,,0,1
+polyglyceryl 3 oleate,Polyglyceryl-3 Oleate,Emulsifier,0,1,,0,0,,0,1
+diisostearoyl polyglyceryl 3 dimer dilinoleate,Diisostearoyl Polyglyceryl-3 Dimer Dilinoleate,Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+lavandula oil,Lavandula Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+tertiary butyl alcohol,Tertiary Butyl Alcohol,Solvent/denaturant,0,,,0,0,drying,0,1
+pea oil,Pea Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+ascorbyl palmitate (0.000006 %),Ascorbyl Palmitate (0.000006 %),Antioxidant / Vitamin C derivative,0,1,,0,0,,0,0
+lime spring oil,Lime Spring Oil,Fragrance/emollient oil,0,1,,0,0,,0,1
+biodegradable encapsulated salicylic acid beads,Biodegradable Encapsulated Salicylic Acid Beads,Exfoliant / keratolytic delivery system,1,,,0,0,,1,1
+punica granatum seed oil (pomegranate oil),Punica Granatum Seed Oil (Pomegranate Oil),Emollient / antioxidant,0,1,,0,0,,0,1
+glycol distearate decyl glucoside glyceryl stearate,Glycol Distearate Decyl Glucoside Glyceryl Stearate,Emulsifier / opacifier blend,0,1,,0,0,,0,1
+vitamin c (ascorbic acid) oil,Vitamin C (Ascorbic Acid) Oil,Antioxidant / brightening active,1,1,,0,0,,0,1
+coconut (cocos nucifera) oil,Coconut (Cocos Nucifera) Oil,Emollient/occlusive,0,1,,0,0,,0,1
+almond (prunus amygdalus dulcis) oil,Almond (Prunus Amygdalus Dulcis) Oil,Emollient/skin-conditioning oil,0,1,,0,0,,0,1
+lime oil,Lime Oil,Fragrance/antimicrobial,0,1,,0,0,,0,1
+lemon oil & menthol,Lemon Oil & Menthol,Fragrance/Cooling agent,0,1,,0,0,,0,1
+glyceryl glucoside and alpha arbutin,Glyceryl Glucoside And Alpha Arbutin,Hydration & brightening active,1,1,,0,0,,1,1
+glyceryl state&peg 100 stearate,Glyceryl State&Peg-100 Stearate,Emulsifier,0,1,,0,0,,0,1
+coco glucoside glyceryl oleate,Coco-Glucoside Glyceryl Oleate,Emollient/co-surfactant,0,1,,0,0,,0,1
+fragrance 1.2 hexanediol,Fragrance 1.2-Hexanediol,Solvent / humectant / preservative-booster,0,,,1,0,,0,1
+salicylic acid and kojic acid,Salicylic Acid And Kojic Acid,Exfoliant & brightening agent,1,,,0,0,,1,1
+honey acrylates c10 30 alkyl acrylate crosspolymer fragrance,Honey Acrylates C10 30 Alkyl Acrylate Crosspolymer Fragrance,Film-former/rheology modifier (with fragrance),0,,,1,0,,0,0
+waterglyceringlyceryl acrylate acrylic acid copolymer,Waterglyceringlyceryl Acrylate/Acrylic Acid Copolymer,Film-forming / hydrating gel matrix,0,1,,0,0,,0,1
+and control oil,And Control Oil,Unclear/likely parsing artifact,0,1,,0,0,,0,0
+coco glucoside (and) glyceryl oleate,Coco-Glucoside (And) Glyceryl Oleate,Mild surfactant / emulsifier,0,1,,0,0,,0,1
+peg 8 dilaurate,PEG-8 Dilaurate,Emulsifier / surfactant,0,1,,0,0,,0,1
+stearic acid (and) palmitic acid,Stearic Acid (and) Palmitic Acid,Emollient / emulsifier,0,1,,0,0,,0,1
+sorbeth 230 tetraoleate,Sorbeth-230 Tetraoleate,Emollient/emulsifier,0,1,,0,0,,0,1
+glycol stearate (and) stearamide amp,Glycol Stearate (and) Stearamide AMP,Pearlescent/opacifying agent,0,1,,0,0,,0,1
+glyceryl ricinoleate,Glyceryl Ricinoleate,Emollient/emulsifier,0,1,,0,0,,0,1
+geranium maculatum oil,Geranium Maculatum Oil,Fragrance/botanical extract,0,1,,0,0,,0,2
+mentha arvensis leaf oil,Mentha Arvensis Leaf Oil,Fragrance/flavoring agent (cooling),0,1,,0,0,,0,2
+arginine cocoate,Arginine Cocoate,Surfactant/cleansing agent,0,1,,0,0,,0,2
+parfum (frag,Parfum (Frag,Fragrance,0,,,1,0,,0,1
+polyethylene glycol monooleate,Polyethylene Glycol Monooleate,Emulsifier / surfactant,0,1,,0,0,,0,1
+ceramide 6ii and glyceryl glucoside,Ceramide 6Ii And Glyceryl Glucoside,Skin barrier repair / hydration,0,1,,0,0,,0,1
+salicylic acid(5,Salicylic Acid(5,Beta hydroxy acid (BHA) exfoliant / keratolytic,1,,,0,0,,1,1
+melaleuca alternigolia (tea tree) leaf oil,Melaleuca Alternigolia (Tea Tree) Leaf Oil,Antimicrobial / antiseptic,1,1,,0,0,,0,1
+sunflower oil : exfoliates,Sunflower Oil : Exfoliates,Emollient / occlusive,0,1,,0,0,,0,0
+geranium essential oil and sepimax zen,Geranium Essential Oil And Sepimax Zen,Fragrance/active blend & rheology modifier,0,1,,1,0,,0,1
+cetearyl alcohol (texture enhancing),Cetearyl Alcohol (Texture-Enhancing),Emollient/emulsifier,0,0,,0,0,fatty,0,1
+rosa moschata seed (rosehip) oil,Rosa Moschata Seed (Rosehip) Oil,Emollient / antioxidant oil,0,1,,0,0,,0,1
+prunus dulcis (almond) seed oil,Prunus Dulcis (Almond) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+olea europaea olive oil,Olea Europaea Olive Oil,Emollient / occlusive,0,1,,0,0,,0,1
+salvia officinalis (sage) oil,Salvia Officinalis (Sage) Oil,Fragrance/antimicrobial agent,0,1,,0,0,,0,1
+artemisia vulgaris (mugwort) oil,Artemisia Vulgaris (Mugwort) Oil,Soothing/fragrance botanical extract,0,1,,0,0,,0,1
+ocimum basilicum (basil) oil,Ocimum Basilicum (Basil) Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+parfum fragrance benzyl alcohol,Parfum / Fragrance/Benzyl Alcohol,Fragrance / preservative,0,,,1,0,drying,0,1
+citral benzyl alcohol,Citral/Benzyl Alcohol,Fragrance/preservative,0,,,0,0,drying,0,1
+orange essential oili mitti,Orange Essential Oili Mitti,Fragrance/antioxidant,0,,,1,0,,0,1
+"""value"":""omega 3 & fish oil""}","""Value"":""Omega 3 & Fish Oil""}",Emollient / anti-inflammatory lipid,1,1,,0,0,,0,0
+mentha piperita herb oil,Mentha Piperita Herb Oil,Fragrance/cooling agent,0,1,,0,0,,0,1
+cinnamomum zeylanicum leaf oil,Cinnamomum Zeylanicum Leaf Oil,Fragrance/antimicrobial,0,1,,0,0,,0,2
+citrus sinensis peel oil expressed,Citrus Sinensis Peel Oil Expressed,Fragrance/Essential Oil,0,1,,0,0,,0,2
+citrus aurantifolia peel oil distilled,Citrus Aurantifolia Peel Oil Distilled,Fragrance/essential oil,0,1,,0,0,,0,1
+melaleuca leucadendron cajuputi leaf oil,Melaleuca Leucadendron Cajuputi Leaf Oil,Antimicrobial/fragrance,0,1,,0,0,,0,1
+citrus aurantium leaf oil,Citrus Aurantium Leaf Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+citrus grandis peel oil,Citrus Grandis Peel Oil,Fragrance/Essential oil,0,1,,0,0,,0,2
+"""value"":""wheat germ oil","""Value"":""Wheat Germ Oil",Emollient / antioxidant,0,1,,0,0,,0,0
+"""value"":""oil""}","""Value"":""Oil""}",Emollient/occlusive,0,1,,0,0,,0,0
+paraffinum liquidum (mineral oil),Paraffinum Liquidum (Mineral Oil),Emollient/occlusive,0,1,,0,0,,0,1
+soybean oil,Soybean Oil,Emollient/occlusive,0,1,3,0,0,,0,1
+body oil,body oil,Emollient/occlusive,0,1,,0,0,,0,1
+isopropyle myristate,Isopropyle Myristate,Emollient/Skin-conditioning agent,0,1,,0,0,,0,1
+citurs junos seed oil,Citurs Junos Seed Oil,Emollient/Antioxidant,0,1,,0,0,,0,1
+tinctorius (safflower) seed oil,Tinctorius (Safflower) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+oenothera biennis (evening primose) oil,Oenothera Biennis (Evening Primose) Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+cedrus atlantica oil extract,Cedrus Atlantica Oil/Extract,Fragrance/aromatic,0,1,,0,0,,0,1
+helianthus annuus (sun_x001f_ower) seed oil,Helianthus Annuus (Sun_X001F_Ower) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,0
+olea europaea (olive) husk oil,Olea Europaea (Olive) Husk Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+lactobacillus rice ferment filtrate,Lactobacillus/Rice Ferment Filtrate,Skin-conditioning / fermented humectant,0,1,,0,0,,0,2
+glycerin (and) glyceryl glucoside,Glycerin (And) Glyceryl Glucoside,Humectant / moisturizer,0,1,,0,0,,0,1
+"""almond oil""]","""Almond Oil""]",Emollient/Occlusive,0,1,,0,0,,0,0
+orbignya oleifera seed oil,Orbignya Oleifera Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,4
+nelumbium speciosum flower oil,Nelumbium Speciosum Flower Oil,Fragrance/skin-conditioning,0,1,,0,0,,0,2
+carthamus tinctorius seed oil safflower seed oil,Carthamus Tinctorius Seed Oil/Safflower Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+triticum vulgare germ oil wheat germ oil,Triticum Vulgare Germ Oil/Wheat Germ Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+pogostemon cablin (patchouli) oil,Pogostemon Cablin (Patchouli) Oil,Fragrance / aromatic essential oil,0,1,,0,0,,0,1
+citrus sinensis (sweet orange) oil,Citrus Sinensis (Sweet Orange) Oil,Fragrance/essential oil,0,1,,0,0,,0,2
+cetearyl alcohol ceteareth 20,Cetearyl Alcohol Ceteareth-20,Emulsifier / emulsifying wax,0,0,,0,0,fatty,0,1
+"""value"":""orange oil","""Value"":""Orange Oil",Fragrance/essential oil,0,1,,0,0,,0,0
+cetearyl alcohol stearic acid,Cetearyl Alcohol Stearic Acid,Emollient / emulsifier / thickener,0,0,,0,0,fatty,0,1
+stearate,Stearate,Emulsifier/emollient,0,1,,0,0,,0,1
+"rice bran oil""}","Rice Bran Oil""}",Emollient / antioxidant,0,1,,0,0,,0,0
+euterpe oleraceae fruit oil,Euterpe oleraceae Fruit Oil,Emollient/antioxidant,0,1,,0,0,,0,1
+glyceryl distearate,Glyceryl Distearate,Emollient / emulsifier,0,1,,0,0,,0,3
+glyceryl triacetyl ricinoleate,Glyceryl Triacetyl Ricinoleate,Emollient/plasticizer,0,1,,0,0,,0,1
+palmitic acid (and) stearic acid,Palmitic Acid (and) Stearic Acid,Emollient/emulsifier,0,1,,0,0,,0,1
+daucus carota (carrot seed oil),Daucus Carota (Carrot Seed Oil),Antioxidant / emollient,0,1,,0,0,,0,1
+triticum vulgare (wheat germ oil),Triticum Vulgare (Wheat Germ Oil),Emollient / antioxidant,0,1,,0,0,,0,1
+persea americana (avacado oil),Persea Americana (Avacado Oil),Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+aspergillus ferment extract filtrate,Aspergillus Ferment Extract Filtrate,Fermentation-derived bioactive / skin conditioning,1,1,,0,0,,0,1
+salicylic acid (100ppm),Salicylic Acid (100Ppm),Beta hydroxy acid (BHA) exfoliant/keratolytic,1,,,0,0,,1,1
+saccharomyces honey ferment filtrate,Saccharomyces/Honey Ferment Filtrate,Humectant / conditioning ferment,0,1,,0,0,,0,1
+hydrogenated rice bran oil,Hydrogenated Rice Bran Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+polyglyceryl_x001d_10 stearate,Polyglyceryl_X001D_10 Stearate,Emulsifier / surfactant,0,1,,0,0,,0,0
+sor_x001d_ bitan isostearate,Sor_X001D_ Bitan Isostearate,Emulsifier / surfactant,0,1,,0,0,,0,0
+gly_x001d_ ceryl oleate,Gly_X001D_ Ceryl Oleate,Emulsifier / emollient,0,1,,0,0,,0,0
+polyglyceryl_x001d_6 laurate,Polyglyceryl_X001D_6 Laurate,Emulsifier/surfactant,0,1,,0,0,,0,0
+melissa officinalis leaf oil,Melissa Officinalis Leaf Oil,Fragrance/antioxidant,0,1,,0,0,,0,1
+evening primrose oil⁠,Evening Primrose Oil⁠,Emollient / skin-conditioning oil,1,1,,0,0,,0,1
+polysorbate 20⁠,Polysorbate 20⁠,Emulsifier/Solubilizer,0,1,,0,0,,0,1
+palmitic acid⁠,Palmitic Acid⁠,Emollient / surfactant-cleansing agent,0,1,,0,0,,0,1
+camellia sinensis (leaf) oil,Camellia Sinensis (Leaf) Oil,Antioxidant / emollient,1,1,,0,0,,0,1
+lactobacillus centella asiatica extract ferment filtrate,Lactobacillus/Centella Asiatica Extract Ferment Filtrate,Soothing/antioxidant ferment extract,1,1,,0,0,,0,1
+oleyl glyceryl ether,Oleyl Glyceryl Ether,Emollient/Emulsifier,0,1,,0,0,,0,1
+salicylic acid (bha),Salicylic Acid (Bha),Beta hydroxy acid (BHA) exfoliant,1,,,0,0,,1,1
+bifida ferment lysate),Bifida Ferment Lysate),Probiotic-derived skin conditioner / antioxidant,1,1,,0,0,,0,1
+cutibacterium granulosum ferment extract filtrate(10 ppb),Cutibacterium Granulosum Ferment Extract Filtrate(10 Ppb),Skin-conditioning / postbiotic,1,1,,0,0,,0,1
+citrullus lanatus (watermelon) seed oil,Citrullus Lanatus (Watermelon) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+"""value"":""retinol","""Value"":""Retinol",Retinoid (vitamin A derivative),1,,,0,0,,1,0
+chamomile flower oil,Chamomile Flower Oil,Soothing/anti-inflammatory botanical,1,1,,0,0,,0,1
+polyglyceryl,Polyglyceryl-,Emulsifier/surfactant,0,1,,0,0,,0,1
+aleurites moluccana (kukui) seed oil,Aleurites Moluccana (Kukui) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+mauritia flexuosa fruit oil,Mauritia Flexuosa Fruit Oil,Emollient / antioxidant,0,1,,0,0,,0,4
+glycol stearate & stearamide amp,Glycol Stearate & Stearamide Amp,Emulsifier / pearlescent agent,0,1,,0,0,,0,1
+"""rice bran oil""","""Rice Bran Oil""",Emollient / antioxidant,0,1,,0,0,,0,0
+sorbitan distearate,Sorbitan Distearate,Emulsifier,0,1,,0,0,,0,2
+abyssinian oil,Abyssinian Oil,Emollient / occlusive oil,0,1,,0,0,,0,1
+cetearyl alcohol & ceteareth 20,Cetearyl Alcohol & Ceteareth-20,Emulsifier / emollient,0,0,,0,0,fatty,0,1
+hexyllaurate,Hexyllaurate,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+pentaerythrityltetraisostearate,Pentaerythrityltetraisostearate,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+atractylodes oil,Atractylodes oil,Botanical extract / soothing agent,1,1,,0,0,,0,1
+sorbitan sesquisostearate,sorbitan sesquisostearate,Emulsifier,0,1,,0,0,,0,1
+aluminum distearate,Aluminum Distearate,Thickener/opacifying agent,0,1,,0,0,,0,1
+boswellia carterii (frankincense)oil,Boswellia Carterii (Frankincense)Oil,Antioxidant / fragrance / soothing botanical oil,0,1,,0,0,,0,1
+citrus medica limonum (lemon)oil,Citrus Medica Limonum (Lemon)Oil,Fragrance/Astringent,0,1,,0,0,,0,1
+tagetes minuta flower oil,Tagetes Minuta Flower Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+artemisia pallens flower oil,Artemisia Pallens Flower Oil,Fragrance/aromatic oil,0,1,,0,0,,0,5
+citrus aurantifolia oil,Citrus Aurantifolia Oil,Fragrance/essential oil,0,1,,0,0,,0,2
+polyglyceryl 5 polyricinoleate,Polyglyceryl-5 Polyricinoleate,Emulsifier / surfactant,0,1,,0,0,,0,1
+rubus idaeus (raspberry) oil,Rubus Idaeus (Raspberry) Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+lactobacillus rice ferment,Lactobacillus/Rice Ferment,Probiotic ferment / skin-conditioning humectant,1,1,,0,0,,0,3
+alanyl glutamine sorbitan sesquiisostearate,Alanyl Glutamine Sorbitan Sesquiisostearate,Emulsifier / skin-conditioning agent,0,1,,0,0,,0,1
+macadamia integrifolia & hydrogenated vegetable oil,Macadamia Integrifolia & Hydrogenated Vegetable Oil,Emollient/occlusive,0,1,,0,0,,0,1
+brassica campestris seed (rapeseed) oil,Brassica Campestris Seed (Rapeseed) Oil,Emollient / occlusive,0,1,,0,0,,0,1
+glycine soja (soyabean) oil,Glycine Soja (Soyabean) Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+three tearyl alcohol,Three Tearyl Alcohol,Emollient / emulsifier,0,,,0,0,drying,0,1
+rock bean oil,Rock Bean Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+ascorbyl palmitate (vitamin c),Ascorbyl Palmitate (Vitamin C),Antioxidant / Vitamin C derivative,1,1,,0,0,,0,1
+santalum album(sandalwood) oil,Santalum Album(Sandalwood) Oil,Fragrance/soothing agent,0,1,,0,0,,0,1
+stearyl stearate,Stearyl Stearate,Emollient / thickener,0,1,,0,0,,0,2
+glyceryl acrylate,Glyceryl Acrylate,Film-former/humectant,0,1,,0,0,,0,1
+mineral oil (paraffinum liquidum),Mineral Oil (Paraffinum Liquidum),Occlusive emollient,0,1,,0,0,,0,2
+ascorbyl tet raisopalmitate,Ascorbyl Tet Raisopalmitate,Antioxidant / stabilized vitamin C derivative,0,1,,0,0,,0,1
+ethylhexyl polyhydroxystearate,Ethylhexyl Polyhydroxystearate,Emulsifier / dispersing agent,0,1,,0,0,,0,1
+polysorbate 80 & sodium hydroxide,Polysorbate 80 & Sodium Hydroxide,Emulsifier & pH adjuster,0,1,,0,0,,0,1
+coconut oil derivatives (cocos nucifera oil),Coconut Oil Derivatives (Cocos Nucifera Oil),Emollient / occlusive moisturizer,0,1,,0,0,,0,1
+neopentyl glycol dicaprylate dicaprate,Neopentyl Glycol Dicaprylate/Dicaprate,Emollient/skin-conditioning,0,1,,0,0,,0,4
+"""value"":""almond oil","""Value"":""Almond Oil",Emollient/skin conditioning oil,0,1,,0,0,,0,0
+ceteareth 6 olivate,Ceteareth-6 Olivate,Emulsifier / surfactant,0,1,,0,0,,0,2
+perfume fragrance,Perfume/Fragrance,Fragrance/masking agent,0,,,1,0,,0,1
+polyglyceryl 2 isostearate,Polyglyceryl-2 Isostearate,Emulsifier / surfactant,0,1,,0,0,,0,1
+polyglyceryl 2 tetraisostearat e,Polyglyceryl-2 Tetraisostearat E,Emulsifier / emollient,0,1,,0,0,,0,1
+"""almond oil""","""Almond Oil""",Emollient / skin-conditioning oil,0,1,,0,0,,0,0
+retinol 8 polysorbate 20,Retinol 8 Polysorbate 20,Anti-aging active (vitamin A derivative),1,1,,0,0,,1,1
+pomegranate oil &amp; vitamin e &nbsp,Pomegranate Oil &Amp; Vitamin E &Nbsp,Antioxidant/emollient,1,1,,0,0,,0,0
+5% marula oil,5% marula oil,Emollient / occlusive moisturizer,0,1,,0,0,,0,1
+hydrogenated olive oil stearyl esters,Hydrogenated Olive Oil Stearyl Esters,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+dipentaerythrithl hexacaprylate hexacaprate,Dipentaerythrithl Hexacaprylate/Hexacaprate,Emollient/skin-conditioning,0,1,,0,0,,0,1
+pelargonium gaveolens flower oil++,Pelargonium Gaveolens Flower Oil++,Fragrance/essential oil,0,1,,0,0,,0,1
+citrus aurantiolia (lime) oil++,Citrus Aurantiolia (Lime) Oil++,Fragrance/essential oil,0,1,,0,0,,0,1
+ginol ew 6820 (cetearyl alcohol,Ginol Ew 6820 (Cetearyl Alcohol,Emollient/emulsifier,0,0,,0,0,fatty,0,1
+arlacel 165 (glyceryl stearate,Arlacel 165 (Glyceryl Stearate,Emulsifier / emollient,0,1,,0,0,,0,1
+peg 100 stearate),Peg-100 Stearate),Emulsifier / surfactant,0,1,,0,0,,0,1
+coco caprylate caprate),Coco Caprylate Caprate),Emollient / skin-conditioning ester,0,1,,0,0,,0,1
+marula oil: softens,Marula Oil: Softens,Emollient,0,1,,0,0,,0,0
+this lightweight moisturizer absorbs excess oil,This Lightweight Moisturizer Absorbs Excess Oil,Oil-absorbing moisturizer/mattifying base,0,1,,0,0,,0,0
+cetearyl alcohol⁠,Cetearyl Alcohol⁠,Emollient / emulsifier,0,0,,0,0,fatty,0,1
+glyceryl stearate⁠,Glyceryl Stearate⁠,Emulsifier / emollient,0,1,,0,0,,0,1
+peg 100 stearate⁠,Peg-100 Stearate⁠,Emulsifier / surfactant,0,1,,0,0,,0,1
+(sunflower) seed oil,(Sunflower) Seed Oil,Emollient / occlusive,0,1,,0,0,,0,1
+vinifera (grape) seed oil,Vinifera (Grape) Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+controls oil,Controls Oil,Sebum regulation / oil control,1,1,,0,0,,0,0
+polyglyceryl 4 cocoate,Polyglyceryl-4 Cocoate,Emulsifier / surfactant,0,1,,0,0,,0,1
+rice ferment extract,Rice Ferment Extract,Brightening/conditioning humectant,1,1,,0,0,,0,1
+niacinamide : controls oil production,Niacinamide : Controls Oil Production,Sebum regulation / barrier support,1,1,,0,0,,0,0
+melaleuca alternifolia (tea tree oil),Melaleuca Alternifolia (Tea Tree Oil),Antimicrobial / anti-acne,1,1,,0,0,,0,1
+cetearyl olivate &amp; sorbitan olivate,Cetearyl Olivate &Amp; Sorbitan Olivate,Emulsifier,0,1,,0,0,,0,0
+"""value"":""alcohol free","""Value"":""Alcohol Free",Formulation descriptor / marketing claim,0,,,0,0,drying,0,0
+propanediol & olive oil,Propanediol & Olive Oil,Solvent/humectant & emollient blend,0,1,,0,0,,0,1
+salicylic acid : unclogs pores,Salicylic Acid : Unclogs Pores,Beta hydroxy acid (BHA) exfoliant,1,,,0,0,,1,0
+zea mays oil corn oil,Zea Mays Oil / Corn Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+oil absorbing technology,Oil-Absorbing Technology,Sebum/oil absorber,0,1,,0,0,,0,1
+argan oil 0.10%,Argan Oil 0.10%,Emollient/occlusive moisturizer,0,1,,0,0,,0,0
+salicylic acid 1.00 %,Salicylic Acid 1.00 %,Beta-hydroxy acid exfoliant,1,,,0,0,,1,0
+olive oil peg 7 ester,Olive Oil Peg-7 Ester,Emollient/emulsifier,0,1,,0,0,,0,2
+bergamot oil,Bergamot Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+coco glucoside & glyceryl oleate,Coco-Glucoside & Glyceryl Oleate,Surfactant / emulsifier,0,1,,0,0,,0,1
+glyceryl stearates,Glyceryl Stearates,Emollient/emulsifier,0,1,,0,0,,0,2
+retinol(0.1%),Retinol(0.1%),Anti-aging active (retinoid),1,,,0,0,,1,1
+retinol (0.1%),Retinol (0.1%),Retinoid (anti-aging/cell turnover active),1,,,0,0,,1,1
+baobab oil,Baobab Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+fractionated coconut oil,Fractionated Coconut Oil,Emollient / carrier oil,0,1,,0,0,,0,1
+neopentyl glycol dicaprate,Neopentyl Glycol Dicaprate,Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+encapsulated retinol,Encapsulated Retinol,Anti-aging active (retinoid),1,,,0,0,,1,1
+retinol(0.08%),Retinol(0.08%),Anti-aging active (vitamin A derivative),1,,,0,0,,1,1
+olus (vegetable) oil,Olus (Vegetable) Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+ascorbyl tetraisopalmitate (vitamin c),Ascorbyl Tetraisopalmitate (Vitamin C),Antioxidant / stabilized vitamin C derivative,0,1,,0,0,,0,1
+retinyl palmitate panthenol,Retinyl Palmitate Panthenol,Antioxidant / vitamin A derivative (skin conditioning),1,1,,0,0,,1,1
+argania spinosa kernel (argan) oil,Argania Spinosa Kernel (Argan) Oil,Emollient / moisturizer,0,1,,0,0,,0,1
+retinol(0.5%),Retinol(0.5%),Retinoid (vitamin A derivative),1,,,0,0,,1,1
+sorbitan caprylate,Sorbitan Caprylate,Preservative / emulsifier,0,1,,0,0,,0,1
+pure retinol : promotes re texturized,Pure Retinol : Promotes Re Texturized,Retinoid (cell-turnover regulator),1,,,0,0,,1,0
+cetylricinoleate,Cetylricinoleate,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+glycerylstearate,Glycerylstearate,Emulsifier / emollient,0,1,,0,0,,0,1
+peg 100stearate,Peg-100Stearate,Emulsifier/surfactant,0,1,,0,0,,0,1
+retinol (0.3%),Retinol (0.3%),Anti-aging active (vitamin A derivative),1,,,0,0,,1,1
+oleifera (moringa) seed oil,Oleifera (Moringa) Seed Oil,Emollient / antioxidant oil,0,1,,0,0,,0,1
+macadamia ternifolia (macademia) seed oil,Macadamia Ternifolia (Macademia) Seed Oil,Emollient / occlusive moisturizer,0,1,,0,0,,0,1
+hippophae rhamnoides (seabuckthorn) oil,Hippophae Rhamnoides (Seabuckthorn) Oil,Emollient / antioxidant,1,1,,0,0,,0,1
+linum usitatissimum oil,Linum Usitatissimum Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+elaeis guineensis bidens pilosa extract oil,Elaeis Guineensis Bidens Pilosa Extract Oil,Emollient/skin-conditioning oil,0,1,,0,0,,0,1
+gossypium herbaceum oil,Gossypium Herbaceum Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+palm oil,Palm Oil,Emollient/occlusive,0,1,,0,0,,0,1
+cotton seed oil,Cotton Seed Oil,Emollient/occlusive,0,1,,0,0,,0,1
+linseed oil,Linseed Oil,Emollient / skin-conditioning oil,0,1,4,0,0,,0,1
+damiana leaf oil,Damiana Leaf Oil,Fragrance/botanical extract,0,1,,0,0,,0,1
+saccharomyces lysate extract,Saccharomyces Lysate Extract,Skin conditioning / bioactive yeast ferment,1,1,,0,0,,0,3
+sucrose polystearate,Sucrose Polystearate,Emulsifier,0,1,,0,0,,0,2
+retinol &amp; tocopheryl acetate (vitamin e),Retinol &Amp; Tocopheryl Acetate (Vitamin E),Antioxidant / cell-turnover active,1,,,0,0,,1,0
+vitis vinifera (grape) oil,Vitis Vinifera (Grape) Oil,Emollient / antioxidant oil,0,1,,0,0,,0,1
+polyglyceryl 10 dioleate,Polyglyceryl-10 Dioleate,Emulsifier/surfactant,0,1,,0,0,,0,1
+alcohol denat. (sd alcohol 40 b),Alcohol Denat. (Sd Alcohol 40-B),Solvent / penetration enhancer / astringent,0,,,0,0,drying,0,1
+pelargonium graveolens (geranium) leaf essential oil,Pelargonium Graveolens (Geranium) Leaf Essential Oil,Fragrance / aromatic ingredient,0,1,,1,0,,0,1
+dimer dilinoleyl dimer dilinoleate,Dimer Dilinoleyl Dimer Dilinoleate,Emollient/skin-conditioning agent,0,1,,0,0,,0,2
+cetearylolivate,Cetearylolivate,Emulsifier / emollient,0,1,,0,0,,0,1
+opuntia ficus indica seed oil,Opuntia Ficus-Indica Seed Oil,Emollient/antioxidant,0,1,,0,0,,0,2
+citrus reticulata (tangerine) peel oil,Citrus Reticulata (Tangerine) Peel Oil,Fragrance / essential oil,0,1,,0,0,,0,1
+citrus aurantifolia (lime) peel oil,Citrus Aurantifolia (Lime) Peel Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+peg 60 glyceryl isostearate,Peg-60 Glyceryl Isostearate,Emulsifier / surfactant,0,1,,0,0,,0,1
+batyl alcohol,Batyl Alcohol,Emollient / skin-conditioning agent,0,,,0,0,drying,0,2
+rose oil (damascena),Rose Oil (Damascena),Fragrance/antioxidant,0,1,,0,0,,0,1
+sucrose polysoyate,Sucrose Polysoyate,Emollient / skin-conditioning agent,0,1,,0,0,,0,3
+vanilla essential oil,Vanilla Essential Oil,Fragrance/antioxidant,0,1,,1,0,,0,1
+vitis vinifera grape seed oil,Vitis Vinifera Grape Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+helianthus annuus sunflower˛ seed oil,Helianthus Annuus Sunflower˛ Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+arabian rose oud oil,Arabian Rose Oud Oil,Fragrance/aromatic oil,0,1,,0,0,,0,0
+parfum(fragrance),Parfum(Fragrance),Fragrance/masking agent,0,,,1,0,,0,1
+parfum fragrance. (f.i.l. b222711 1),Parfum Fragrance. (F.I.L. B222711 1),Fragrance / masking agent,0,,,1,0,,0,0
+silybum marianum seed oil,Silybum Marianum Seed Oil,Emollient / antioxidant,1,1,,0,0,,0,2
+mangifera indica (mango) seed oil,Mangifera Indica (Mango) Seed Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+oryza sativa (rice) germ bran oil,Oryza Sativa (Rice) Germ/Bran Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+"""rose oil""","""Rose Oil""",Fragrance / botanical oil,0,1,,0,0,,0,0
+ylang ylang oil,Ylang Ylang Oil,Fragrance/essential oil,0,1,,0,0,,0,0
+jojoba oil and cream base,Jojoba Oil And Cream Base,Emollient / occlusive base,0,1,,0,0,,0,0
+lavandula officinalis flower oil,Lavandula Officinalis Flower Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+myristica fragrans fruit oil,Myristica Fragrans Fruit Oil,Emollient / fragrance,0,1,,0,0,,0,1
+oxycoccus palustris seed oil,Oxycoccus Palustris Seed Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+retinal (retinaldehyde),Retinal (Retinaldehyde),Retinoid (vitamin A derivative),1,,,0,0,,1,1
+heptapeptide 15 palmitate,Heptapeptide-15 Palmitate,Signal peptide / skin-conditioning agent,1,1,,0,0,,0,1
+avacado oil (persea americana),Avacado Oil (Persea Americana),Emollient / occlusive moisturizer,0,1,,0,0,,0,1
+prunusdulcis (almond oil),Prunusdulcis (Almond Oil),Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+macadamia seed oil polyglyceryl 6 esters behenate,Macadamia Seed Oil Polyglyceryl-6 Esters Behenate,Emollient / emulsifier,0,1,,0,0,,0,1
+behenyl alcohol (plant derived),Behenyl Alcohol (plant-derived),Emollient / Thickener,0,0,,0,0,fatty,0,1
+cetearyl alcohol (plant derived),Cetearyl Alcohol (plant-derived),Emollient / emulsifier,0,0,,0,0,fatty,0,1
+jasmine flower oil,Jasmine Flower Oil,Fragrance/aromatic,0,1,,0,0,,0,1
+pine leaf oil,Pine Leaf Oil,Fragrance/antimicrobial,0,1,,0,0,,0,1
+lavender flower oil,Lavender Flower Oil,Fragrance/antimicrobial,0,1,,0,0,,0,1
+"""value"":""oil free","""Value"":""Oil Free",Formulation descriptor,0,1,,0,0,,0,0
+parfum (fragrance).(288 048),parfum (fragrance).(288/048),Fragrance/masking agent,0,,,1,0,,0,1
+coffee oil,Coffee Oil,Emollient / antioxidant,0,1,,0,0,,0,1
+parfum (fragrance). about the brand caudalie,Parfum (Fragrance). About the Brand Caudalie,Fragrance / masking agent,0,,,1,0,,0,1
+polysorbate 80 (,Polysorbate 80 (,Emulsifier/surfactant,0,1,,0,0,,0,1
+bis diglyceryl polyacyladipate 1,Bis-Diglyceryl Polyacyladipate-1,Emollient/skin-conditioning,0,1,,0,0,,0,4
+vegetable oil olus oil,Vegetable Oil/Olus Oil,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+flavor (aroma),Flavor (Aroma),Fragrance/masking agent,0,,,1,0,,0,1
+phenoxy peg 4 laurate palmitate,Phenoxy PEG-4 Laurate/Palmitate,Surfactant/emulsifier,0,1,,0,0,,0,1
+eugenia caryophyllus flower oil,Eugenia Caryophyllus Flower Oil,Fragrance/antimicrobial,0,1,,0,0,,0,1
+peg 6 stearate,PEG-6 Stearate,Emulsifier / surfactant,0,1,,0,0,,0,2
+mentha spicata herb oil,Mentha Spicata Herb Oil,Fragrance/flavoring agent,0,1,,0,0,,0,3
+peg 160 sorbitan triisostearate,PEG-160 Sorbitan Triisostearate,Emulsifier/surfactant,0,1,,0,0,,0,1
+cinnamomum camphora bark oil,Cinnamomum Camphora Bark Oil,Fragrance/soothing agent,0,1,,0,0,,0,1
+mentha viridis leaf oil,Mentha Viridis Leaf Oil,Fragrance/flavoring agent,0,1,,0,0,,0,1
+citrus aurantium amara (bitter orange) oil,Citrus Aurantium Amara (Bitter Orange) Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+rosa canina (rose) fruit oil,Rosa Canina (Rose) Fruit Oil,Emollient / antioxidant oil,1,1,,0,0,,0,1
+caulophyllum thalictroides seed oil,Caulophyllum Thalictroides Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+olive oil decyl esters,Olive Oil Decyl Esters,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+polyglyceryl 2 tetraisostearate,Polyglyceryl-2 Tetraisostearate,Emulsifier/emollient,0,1,,0,0,,0,4
+octyl palmitate,Octyl Palmitate,Emollient / skin-conditioning agent,0,1,,0,0,,0,4
+magnolia champaca flower oil,Magnolia Champaca Flower Oil,Fragrance/aromatic agent,0,1,,0,0,,0,4
+glycol palmitate,Glycol Palmitate,Emulsifier / emollient,0,1,,0,0,,0,3
+c25 52 olefin undecylenic acid copolymer,C25-52 Olefin/Undecylenic Acid Copolymer,Film former / viscosity controlling agent,0,1,,0,0,,0,3
+helichrysum italicum flower oil,Helichrysum Italicum Flower Oil,Antioxidant / soothing botanical,1,1,,0,0,,0,3
+glyceryl esters,Glyceryl Esters,Emollient / emulsifier,0,1,,0,0,,0,2
+peg 20 stearate,PEG-20 Stearate,Emulsifier / surfactant,0,1,,0,0,,0,2
+brassica campestris aleurites fordi oil copolymer,Brassica Campestris/Aleurites Fordi Oil Copolymer,film former / emollient,0,1,,0,0,,0,2
+corylus avellana (hazel) seed oil,Corylus Avellana (Hazel) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+polyglyceryl 4 caprylate,Polyglyceryl-4 Caprylate,Emulsifier / surfactant,0,1,,0,0,,0,2
+retinyl acetate,Retinyl Acetate,Anti-aging / retinoid,1,,,0,0,,1,2
+moringa pterygosperma seed oil,Moringa Pterygosperma Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+peg 90 glyceryl isostearate,PEG-90 Glyceryl Isostearate,Emulsifier/surfactant,0,1,,0,0,,0,2
+vegetable oil,Vegetable Oil,Emollient / occlusive,0,1,,0,0,,0,2
+santalum austrocaledonicum wood oil,Santalum Austrocaledonicum Wood Oil,Fragrance/aromatic oil,0,1,,0,0,,0,2
+fermented rice water,Fermented Rice Water,Brightening/conditioning antioxidant,1,1,,0,0,,0,2
+cucumis sativus seed oil,Cucumis Sativus Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,2
+soybean (glycine soja) oil,Soybean (Glycine Soja) Oil,Emollient / antioxidant,0,1,,0,0,,0,2
+butyleneglycol dicaprylate dicaprate,Butyleneglycol Dicaprylate/Dicaprate,Emollient/skin-conditioning agent,0,1,,0,0,,0,2
+pentaerythrityl tetrabehenate,Pentaerythrityl Tetrabehenate,Emollient/Texture enhancer,0,1,,0,0,,0,2
+saccharomyces polypeptides,Saccharomyces Polypeptides,Skin conditioning / fermented bioactive,1,1,,0,0,,0,2
+boswellia carteri (frankincense) essential oil,Boswellia Carteri (Frankincense) Essential Oil,Astringent / fragrance / soothing oil,0,1,,1,0,,0,1
+cananga odorata (ylang ylang) essential oil,Cananga Odorata (Ylang Ylang) Essential Oil,Fragrance/aromatic agent,0,1,,1,0,,0,1
+lavandula angustifolia (lavender) essential oil,Lavandula Angustifolia (Lavender) Essential Oil,Fragrance / aromatic additive,0,1,,1,0,,0,1
+juniperus communis (juniper berry) fruit essential oil,Juniperus Communis (Juniper Berry) Fruit Essential Oil,Antimicrobial/astringent fragrance oil,1,1,,1,0,,0,1
+pelargonium graveolens (geranium) essential oil,Pelargonium Graveolens (Geranium) Essential Oil,Fragrance/antimicrobial,0,1,,1,0,,0,1
+cucurbita pepo seed oil,Cucurbita Pepo Seed Oil,Emollient / antioxidant skin-conditioning oil,0,1,,0,0,,0,1
+melaleuca alternifolia (tea tree) essential oil,Melaleuca Alternifolia (Tea Tree) Essential Oil,Antimicrobial/anti-acne active,1,1,,1,0,,0,1
+hydrogenated cocos nucifera oil,Hydrogenated Cocos Nucifera Oil,Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+cymbopogon martini herb oil,Cymbopogon Martini Herb Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+crocus sativus stigma oil,Crocus Sativus Stigma Oil,Antioxidant / skin-conditioning extract,1,1,,0,0,,0,1
+vanilla planifolia (vanilla) oil,Vanilla Planifolia (Vanilla) Oil,Fragrance/antioxidant,0,1,,0,0,,0,1
+hydrogenated palm kernel oil,Hydrogenated Palm Kernel Oil,Emollient/Thickener,0,1,,0,0,,0,1
+hydrogenated palm oil,Hydrogenated Palm Oil,Emollient / thickener,0,1,,0,0,,0,1
+tanacetum annuum flower oil,Tanacetum Annuum Flower Oil,Soothing / anti-inflammatory essential oil,1,1,,0,0,,0,1
+peg 40 castor oil,PEG-40 Castor Oil,Solubilizer/emulsifier,0,1,,0,0,,0,1
+peg 10 hydrogenated castor oil,PEG-10 Hydrogenated Castor Oil,Surfactant/emulsifier,0,1,,0,0,,0,1
+aluminum dimyristate,Aluminum Dimyristate,Viscosity-controlling agent / emulsion stabilizer,0,1,,0,0,,0,1
+peg 8 distearate,PEG-8 Distearate,Emulsifier / surfactant,0,1,,0,0,,0,1
+triisostearoyl polyglyceryl 3 dimer dilinoleate,Triisostearoyl Polyglyceryl-3 Dimer Dilinoleate,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+rosa centifolia flower oil,Rosa Centifolia Flower Oil,Fragrance/skin-conditioning oil,0,1,,0,0,,0,1
+peg 30 stearate,PEG-30 Stearate,Emulsifier / surfactant,0,1,,0,0,,0,1
+citrus limon (lemon) fruit oil,Citrus Limon (Lemon) Fruit Oil,Fragrance/astringent,0,1,,0,0,,0,1
+peg 120 methyl glucose trioleate,PEG-120 Methyl Glucose Trioleate,Thickener/emulsifier,0,1,,0,0,,0,1
+lactobacillus panax ginseng root ferment filtrate,Lactobacillus/Panax Ginseng Root Ferment Filtrate,Antioxidant / skin conditioning ferment,1,1,,0,0,,0,1
+piper nigrum (black pepper) seed oil,Piper Nigrum (Black Pepper) Seed Oil,Skin-conditioning / warming agent,0,1,,0,0,,0,1
+chlorella ferment,Chlorella Ferment,Skin-conditioning / antioxidant,1,1,,0,0,,0,1
+illicium verum fruit seed oil,Illicium Verum Fruit/Seed Oil,Fragrance/masking,0,1,,0,0,,0,1
+pyrus malus (apple) seed oil,Pyrus Malus (Apple) Seed Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+cetyl stearate,Cetyl Stearate,Emollient/Thickener,0,1,,0,0,,0,1
+polyglyceryl 10 esters,Polyglyceryl-10 Esters,Emulsifier/surfactant,0,1,,0,0,,0,1
+sucrose polybehenate,Sucrose Polybehenate,Emollient / surfactant,0,1,,0,0,,0,1
+argan oil glycereth 8 esters,Argan Oil Glycereth-8 Esters,Emollient / water-soluble oil derivative,0,1,,0,0,,0,1
+beta arbutin,Beta Arbutin,Skin-brightening agent,1,,,0,0,,1,1
+bixa orellana seed oil,Bixa Orellana Seed Oil,Emollient / antioxidant colorant,0,1,,0,0,,0,1
+trimethylolpropane triisostearate,Trimethylolpropane Triisostearate,Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+eugenia caryophyllus bud oil,Eugenia Caryophyllus Bud Oil,Fragrance/antimicrobial,0,1,,0,0,,0,1
+salicylic acid beads,Salicylic Acid Beads,Exfoliant / acne treatment,1,,,0,0,,1,1
+polyglyceryl 3 beeswax,Polyglyceryl-3 Beeswax,Emulsifier,0,1,,0,0,,0,1
+coconut alcohol,Coconut Alcohol,Emollient / Emulsifier,0,,,0,0,drying,0,1
+brassica alcohol,Brassica Alcohol,Emollient/Emulsifier,0,,,0,0,drying,0,1
+sesame oil,Sesame Oil,Emollient / occlusive,0,1,,0,0,,0,1
+macadamia integrifolia fruit oil,Macadamia Integrifolia Fruit Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+prunus amigdalus dulcis (sweet almond) fruit oil,Prunus Amigdalus Dulcis (Sweet Almond) Fruit Oil,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
+polyglyceryl 3 cetyl ether,Polyglyceryl-3 Cetyl Ether,Emulsifier/surfactant,0,1,,0,0,,0,1
+hydrogenated sunflower seed oil polyglyceryl 3 esters,Hydrogenated Sunflower Seed Oil Polyglyceryl-3 Esters,Emollient/emulsifier,0,1,,0,0,,0,1
+hydrogenated sunflower seed oil glyceryl esters,Hydrogenated Sunflower Seed Oil Glyceryl Esters,Emollient/skin-conditioning agent,0,1,,0,0,,0,1
+pelargonium roseum leaf oil,Pelargonium Roseum Leaf Oil,Fragrance/Antimicrobial,0,1,,0,0,,0,1
+psoralea corylifolia seed (bakuchi) oil,Psoralea Corylifolia Seed (Bakuchi) Oil,Antioxidant/skin-conditioning active,1,1,,0,0,,0,1
+phyllanthus emblica fruit oil,Phyllanthus Emblica Fruit Oil,Antioxidant / emollient,1,1,,0,0,,0,1
+oil soluble licorice(glycyrrhiza) extract,Oil Soluble Licorice(Glycyrrhiza) Extract,Brightening / anti-inflammatory,1,1,,0,0,,0,1
+piper nigrum (black pepper) oil,Piper Nigrum (Black Pepper) Oil,Warming/stimulating extract,1,1,,0,0,,0,1
+citrus aurantium dulcis flower oil,Citrus Aurantium Dulcis Flower Oil,Fragrance/Essential oil,0,1,,0,0,,0,1
+hydrogenated cottonseed oil,Hydrogenated Cottonseed Oil,Emollient / thickener,0,1,,0,0,,0,1
+hydrogenated olive oil myristyl esters,Hydrogenated Olive Oil Myristyl Esters,Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+hydrogenated olive oil decyl esters,Hydrogenated Olive Oil Decyl Esters,Emollient / skin-conditioning,0,1,,0,0,,0,1
+daucus carota (carrot) seed oil,Daucus Carota (Carrot) Seed Oil,Antioxidant/emollient,1,1,,0,0,,0,1
+crambe abyssinica seed oil phytosterol esters,Crambe Abyssinica Seed Oil Phytosterol Esters,Emollient / skin-conditioning agent,0,1,,0,0,,0,1
+dimethyl lauramine oleate,Dimethyl Lauramine Oleate,Antistatic/emulsifier,0,1,,0,0,,0,1
+sodium palmitate,Sodium Palmitate,Surfactant/cleansing agent,0,1,,0,0,,0,1
+cedrus atlantica bark oil,Cedrus Atlantica Bark Oil,Fragrance/essential oil,0,1,,0,0,,0,1
+sodium cocoate or sodium palm kernelate,Sodium Cocoate Or Sodium Palm Kernelate,Surfactant/cleansing agent (soap base),0,1,,0,0,,0,1
+peg 4 olivate,PEG-4 Olivate,Emulsifier/emollient,0,1,,0,0,,0,1
+isostearyl palmitate,Isostearyl Palmitate,Emollient,0,1,,0,0,,0,1
+santalum album root oil,Santalum Album Root Oil,Fragrance/Soothing agent,0,1,,0,0,,0,1
+polyglyceryl 2 isostearate dimer dilinoleate copolymer,Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer,Emollient/emulsifier,0,1,,0,0,,0,1
+bacillus soybean ferment,Bacillus/Soybean Ferment,Conditioning/soothing ferment,1,1,,0,0,,0,1
+rose flower oil,Rose Flower Oil,Fragrance/emollient,0,1,,0,0,,0,1
+peg 40 glyceryl cocoate,PEG-40 Glyceryl Cocoate,Surfactant / emulsifier,0,1,,0,0,,0,1
+punica granatum oil,Punica Granatum Oil,Emollient / antioxidant,1,1,,0,0,,0,1
+balances oil,Balances Oil,sebum regulation,1,1,,0,0,,0,0
+it’s all sunshine vibes—great fragrance,it’s all sunshine vibes—great fragrance,Fragrance,0,,,1,0,,0,1
+plant derived retinol,plant derived retinol,Retinoid alternative / antioxidant,1,,,0,0,,1,1
+prunus amygdalus dulcis (almond) oil. m,Prunus Amygdalus Dulcis (Almond) Oil. M,Emollient / skin-conditioning oil,0,1,,0,0,,0,1
