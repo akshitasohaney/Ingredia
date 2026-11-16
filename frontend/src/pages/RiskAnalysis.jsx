@@ -3,6 +3,8 @@ import { useParams, Link } from 'react-router-dom';
 import Loader from '../components/Loader.jsx';
 import { getFormulaReview, getIngredientReview } from '../utils/ingredientAnalysis.js';
 import { getRiskAnalysis, getScanAnalysis } from '../api.js';
+import ComponentsChart from '../components/ComponentsChart.jsx';
+import '../components/ComponentsChart.css';
 import './RiskAnalysis.css';
 
 const SKIN_TYPES = ['Oily', 'Dry', 'Combination', 'Normal', 'Sensitive'];
@@ -249,6 +251,18 @@ function RiskAnalysis({ isScanAnalysis = false }) {
       <div className="ra-disclaimer">
         <strong>Note:</strong> {data.disclaimer}
       </div>
+
+      {/* ── Components Analysis Charts ── */}
+      <ComponentsChart
+        ingredients={data.ingredients}
+        formulaScore={formulaReview ? formulaReview.score : null}
+        getScore={(ing) =>
+          getIngredientReview(
+            ing,
+            ingredientMatchesProfile(ing, skinType, concerns, sensitivities)
+          ).score
+        }
+      />
 
       <div className="ra-body">
         {/* Sidebar: Profile + Summary */}
